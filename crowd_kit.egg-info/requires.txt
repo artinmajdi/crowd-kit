@@ -1,0 +1,7 @@
+attrs
+numpy
+pandas>=1.1.0
+tqdm
+scikit-learn
+nltk
+transformers
