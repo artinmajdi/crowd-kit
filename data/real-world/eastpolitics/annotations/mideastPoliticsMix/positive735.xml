@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: bds@uts.ipp-garching.mpg.de (Bruce d. Scott)
+Date: 21 Apr 1993 13:05:02 GMT
+Organization: Rechenzentrum der Max-Planck-Gesellschaft in Garching
+Lines: 21
+Distribution: world
+Message-ID: &lt;1r3gpuINN5co@nsat.ipp-garching.mpg.de>
+References: &lt;sehari.735313083@vincent1.iastate.edu> &lt;1993Apr20.213154.17477@EE.Stanford.EDU>
+NNTP-Posting-Host: uts.ipp-garching.mpg.de
+
+Mack posted:
+
+"I know nothing about statistics, but what significance does the
+relatively small population growth rate have where the sampling period
+is so small (at the end of 1371)?"
+
+This is not small. A 2.7 per cent annual population growth rate implies
+a doubling in 69/2.7 \approx 25 years. Can you imagine that? Most people
+seem not able to, and that is why so many deny that this problem exists,
+for me most especially in the industrialised countries (low growth rates,
+but large environmental impact). Iran's high growth rate threatens things
+like accelerated desertification due to intensive agriculture, deforestation,
+and water table drop. Similar to what is going on in California (this year's
+rain won't save you in Stanford!). This is probably more to blame than 
+the current government's incompetence for dropping living standards
+in Iran.
+-- 
+Gruss,
+Dr Bruce Scott                             The deadliest bullshit is
+Max-Planck-Institut fuer Plasmaphysik       odorless and transparent
+bds at spl6n1.aug.ipp-garching.mpg.de                 -- W Gibson
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive735</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>bds<Node id="9"/>@<Node id="10"/>uts<Node id="13"/>.<Node id="14"/>ipp-garching<Node id="26"/>.<Node id="27"/>mpg<Node id="30"/>.<Node id="31"/>de<Node id="33"/> <Node id="34"/>(<Node id="35"/>Bruce<Node id="40"/> <Node id="41"/>d<Node id="42"/>.<Node id="43"/> <Node id="44"/>Scott<Node id="49"/>)<Node id="50"/>
+<Node id="51"/>Date<Node id="55"/>:<Node id="56"/> <Node id="57"/>21<Node id="59"/> <Node id="60"/>Apr<Node id="63"/> <Node id="64"/>1993<Node id="68"/> <Node id="69"/>13<Node id="71"/>:<Node id="72"/>05<Node id="74"/>:<Node id="75"/>02<Node id="77"/> <Node id="78"/>GMT<Node id="81"/>
+<Node id="82"/>Organization<Node id="94"/>:<Node id="95"/> <Node id="96"/>Rechenzentrum<Node id="109"/> <Node id="110"/>der<Node id="113"/> <Node id="114"/>Max-<Node id="118"/>Planck-<Node id="125"/>Gesellschaft<Node id="137"/> <Node id="138"/>in<Node id="140"/> <Node id="141"/>Garching<Node id="149"/>
+<Node id="150"/>Lines<Node id="155"/>:<Node id="156"/> <Node id="157"/>21<Node id="159"/>
+<Node id="160"/>Distribution<Node id="172"/>:<Node id="173"/> <Node id="174"/>world<Node id="179"/>
+<Node id="180"/>Message-<Node id="188"/>ID<Node id="190"/>:<Node id="191"/> <Node id="192"/>&lt;<Node id="193"/>1<Node id="194"/>r<Node id="195"/>3<Node id="196"/>gpuINN<Node id="202"/>5<Node id="203"/>co<Node id="205"/>@<Node id="206"/>nsat<Node id="210"/>.<Node id="211"/>ipp-garching<Node id="223"/>.<Node id="224"/>mpg<Node id="227"/>.<Node id="228"/>de<Node id="230"/>&gt;<Node id="231"/>
+<Node id="232"/>References<Node id="242"/>:<Node id="243"/> <Node id="244"/>&lt;<Node id="245"/>sehari<Node id="251"/>.<Node id="252"/>735313083<Node id="261"/>@<Node id="262"/>vincent<Node id="269"/>1<Node id="270"/>.<Node id="271"/>iastate<Node id="278"/>.<Node id="279"/>edu<Node id="282"/>&gt;<Node id="283"/> <Node id="284"/>&lt;<Node id="285"/>1993<Node id="289"/>Apr<Node id="292"/>20<Node id="294"/>.<Node id="295"/>213154<Node id="301"/>.<Node id="302"/>17477<Node id="307"/>@<Node id="308"/>EE<Node id="310"/>.<Node id="311"/>Stanford<Node id="319"/>.<Node id="320"/>EDU<Node id="323"/>&gt;<Node id="324"/>
+<Node id="325"/>NNTP-Posting-Host<Node id="342"/>:<Node id="343"/> <Node id="344"/>uts<Node id="347"/>.<Node id="348"/>ipp-garching<Node id="360"/>.<Node id="361"/>mpg<Node id="364"/>.<Node id="365"/>de<Node id="367"/>
+<Node id="368"/>
+<Node id="369"/>Mack<Node id="373"/> <Node id="374"/>posted<Node id="380"/>:<Node id="381"/>
+<Node id="382"/>
+<Node id="383"/>"<Node id="384"/>I<Node id="385"/> <Node id="386"/>know<Node id="390"/> <Node id="391"/>nothing<Node id="398"/> <Node id="399"/>about<Node id="404"/> <Node id="405"/>statistics<Node id="415"/>,<Node id="416"/> <Node id="417"/>but<Node id="420"/> <Node id="421"/>what<Node id="425"/> <Node id="426"/>significance<Node id="438"/> <Node id="439"/>does<Node id="443"/> <Node id="444"/>the<Node id="447"/>
+<Node id="448"/>relatively<Node id="458"/> <Node id="459"/>small<Node id="464"/> <Node id="465"/>population<Node id="475"/> <Node id="476"/>growth<Node id="482"/> <Node id="483"/>rate<Node id="487"/> <Node id="488"/>have<Node id="492"/> <Node id="493"/>where<Node id="498"/> <Node id="499"/>the<Node id="502"/> <Node id="503"/>sampling<Node id="511"/> <Node id="512"/>period<Node id="518"/>
+<Node id="519"/>is<Node id="521"/> <Node id="522"/>so<Node id="524"/> <Node id="525"/>small<Node id="530"/> <Node id="531"/>(<Node id="532"/>at<Node id="534"/> <Node id="535"/>the<Node id="538"/> <Node id="539"/>end<Node id="542"/> <Node id="543"/>of<Node id="545"/> <Node id="546"/>1371<Node id="550"/>)<Node id="551"/>?<Node id="552"/>"<Node id="553"/>
+<Node id="554"/>
+<Node id="555"/>This<Node id="559"/> <Node id="560"/>is<Node id="562"/> <Node id="563"/>not<Node id="566"/> <Node id="567"/>small<Node id="572"/>.<Node id="573"/> <Node id="574"/>A<Node id="575"/> <Node id="576"/>2<Node id="577"/>.<Node id="578"/>7<Node id="579"/> <Node id="580"/>per<Node id="583"/> <Node id="584"/>cent<Node id="588"/> <Node id="589"/>annual<Node id="595"/> <Node id="596"/>population<Node id="606"/> <Node id="607"/>growth<Node id="613"/> <Node id="614"/>rate<Node id="618"/> <Node id="619"/>implies<Node id="626"/>
+<Node id="627"/>a<Node id="628"/> <Node id="629"/>doubling<Node id="637"/> <Node id="638"/>in<Node id="640"/> <Node id="641"/>69<Node id="643"/>/<Node id="644"/>2<Node id="645"/>.<Node id="646"/>7<Node id="647"/> <Node id="648"/>\<Node id="649"/>approx<Node id="655"/> <Node id="656"/>25<Node id="658"/> <Node id="659"/>years<Node id="664"/>.<Node id="665"/> <Node id="666"/>Can<Node id="669"/> <Node id="670"/>you<Node id="673"/> <Node id="674"/>imagine<Node id="681"/> <Node id="682"/>that<Node id="686"/>?<Node id="687"/> <Node id="688"/>Most<Node id="692"/> <Node id="693"/>people<Node id="699"/>
+<Node id="700"/>seem<Node id="704"/> <Node id="705"/>not<Node id="708"/> <Node id="709"/>able<Node id="713"/> <Node id="714"/>to<Node id="716"/>,<Node id="717"/> <Node id="718"/>and<Node id="721"/> <Node id="722"/>that<Node id="726"/> <Node id="727"/>is<Node id="729"/> <Node id="730"/>why<Node id="733"/> <Node id="734"/>so<Node id="736"/> <Node id="737"/>many<Node id="741"/> <Node id="742"/>deny<Node id="746"/> <Node id="747"/>that<Node id="751"/> <Node id="752"/>this<Node id="756"/> <Node id="757"/>problem<Node id="764"/> <Node id="765"/>exists<Node id="771"/>,<Node id="772"/>
+<Node id="773"/>for<Node id="776"/> <Node id="777"/>me<Node id="779"/> <Node id="780"/>most<Node id="784"/> <Node id="785"/>especially<Node id="795"/> <Node id="796"/>in<Node id="798"/> <Node id="799"/>the<Node id="802"/> <Node id="803"/>industrialised<Node id="817"/> <Node id="818"/>countries<Node id="827"/> <Node id="828"/>(<Node id="829"/>low<Node id="832"/> <Node id="833"/>growth<Node id="839"/> <Node id="840"/>rates<Node id="845"/>,<Node id="846"/>
+<Node id="847"/>but<Node id="850"/> <Node id="851"/>large<Node id="856"/> <Node id="857"/>environmental<Node id="870"/> <Node id="871"/>impact<Node id="877"/>)<Node id="878"/>.<Node id="879"/> <Node id="880"/>Iran<Node id="884"/>'s<Node id="886"/> <Node id="887"/>high<Node id="891"/> <Node id="892"/>growth<Node id="898"/> <Node id="899"/>rate<Node id="903"/> <Node id="904"/>threatens<Node id="913"/> <Node id="914"/>things<Node id="920"/>
+<Node id="921"/>like<Node id="925"/> <Node id="926"/>accelerated<Node id="937"/> <Node id="938"/>desertification<Node id="953"/> <Node id="954"/>due<Node id="957"/> <Node id="958"/>to<Node id="960"/> <Node id="961"/>intensive<Node id="970"/> <Node id="971"/>agriculture<Node id="982"/>,<Node id="983"/> <Node id="984"/>deforestation<Node id="997"/>,<Node id="998"/>
+<Node id="999"/>and<Node id="1002"/> <Node id="1003"/>water<Node id="1008"/> <Node id="1009"/>table<Node id="1014"/> <Node id="1015"/>drop<Node id="1019"/>.<Node id="1020"/> <Node id="1021"/>Similar<Node id="1028"/> <Node id="1029"/>to<Node id="1031"/> <Node id="1032"/>what<Node id="1036"/> <Node id="1037"/>is<Node id="1039"/> <Node id="1040"/>going<Node id="1045"/> <Node id="1046"/>on<Node id="1048"/> <Node id="1049"/>in<Node id="1051"/> <Node id="1052"/>California<Node id="1062"/> <Node id="1063"/>(<Node id="1064"/>this<Node id="1068"/> <Node id="1069"/>year<Node id="1073"/>'s<Node id="1075"/>
+<Node id="1076"/>rain<Node id="1080"/> <Node id="1081"/>wo<Node id="1083"/>n't<Node id="1086"/> <Node id="1087"/>save<Node id="1091"/> <Node id="1092"/>you<Node id="1095"/> <Node id="1096"/>in<Node id="1098"/> <Node id="1099"/>Stanford<Node id="1107"/>!<Node id="1108"/>)<Node id="1109"/>.<Node id="1110"/> <Node id="1111"/>This<Node id="1115"/> <Node id="1116"/>is<Node id="1118"/> <Node id="1119"/>probably<Node id="1127"/> <Node id="1128"/>more<Node id="1132"/> <Node id="1133"/>to<Node id="1135"/> <Node id="1136"/>blame<Node id="1141"/> <Node id="1142"/>than<Node id="1146"/> <Node id="1147"/>
+<Node id="1148"/>the<Node id="1151"/> <Node id="1152"/>current<Node id="1159"/> <Node id="1160"/>government<Node id="1170"/>'s<Node id="1172"/> <Node id="1173"/>incompetence<Node id="1185"/> <Node id="1186"/>for<Node id="1189"/> <Node id="1190"/>dropping<Node id="1198"/> <Node id="1199"/>living<Node id="1205"/> <Node id="1206"/>standards<Node id="1215"/>
+<Node id="1216"/>in<Node id="1218"/> <Node id="1219"/>Iran<Node id="1223"/>.<Node id="1224"/>
+<Node id="1225"/>-<Node id="1226"/>-<Node id="1227"/> <Node id="1228"/>
+<Node id="1229"/>Gruss<Node id="1234"/>,<Node id="1235"/>
+<Node id="1236"/>Dr<Node id="1238"/> <Node id="1239"/>Bruce<Node id="1244"/> <Node id="1245"/>Scott<Node id="1250"/> <Node id="1251"/> <Node id="1252"/> <Node id="1253"/> <Node id="1254"/> <Node id="1255"/> <Node id="1256"/> <Node id="1257"/> <Node id="1258"/> <Node id="1259"/> <Node id="1260"/> <Node id="1261"/> <Node id="1262"/> <Node id="1263"/> <Node id="1264"/> <Node id="1265"/> <Node id="1266"/> <Node id="1267"/> <Node id="1268"/> <Node id="1269"/> <Node id="1270"/> <Node id="1271"/> <Node id="1272"/> <Node id="1273"/> <Node id="1274"/> <Node id="1275"/> <Node id="1276"/> <Node id="1277"/> <Node id="1278"/> <Node id="1279"/>The<Node id="1282"/> <Node id="1283"/>deadliest<Node id="1292"/> <Node id="1293"/>bullshit<Node id="1301"/> <Node id="1302"/>is<Node id="1304"/>
+<Node id="1305"/>Max-<Node id="1309"/>Planck-<Node id="1316"/>Institut<Node id="1324"/> <Node id="1325"/>fuer<Node id="1329"/> <Node id="1330"/>Plasmaphysik<Node id="1342"/> <Node id="1343"/> <Node id="1344"/> <Node id="1345"/> <Node id="1346"/> <Node id="1347"/> <Node id="1348"/> <Node id="1349"/>odorless<Node id="1357"/> <Node id="1358"/>and<Node id="1361"/> <Node id="1362"/>transparent<Node id="1373"/>
+<Node id="1374"/>bds<Node id="1377"/> <Node id="1378"/>at<Node id="1380"/> <Node id="1381"/>spl<Node id="1384"/>6<Node id="1385"/>n<Node id="1386"/>1<Node id="1387"/>.<Node id="1388"/>aug<Node id="1391"/>.<Node id="1392"/>ipp-garching<Node id="1404"/>.<Node id="1405"/>mpg<Node id="1408"/>.<Node id="1409"/>de<Node id="1411"/> <Node id="1412"/> <Node id="1413"/> <Node id="1414"/> <Node id="1415"/> <Node id="1416"/> <Node id="1417"/> <Node id="1418"/> <Node id="1419"/> <Node id="1420"/> <Node id="1421"/> <Node id="1422"/> <Node id="1423"/> <Node id="1424"/> <Node id="1425"/> <Node id="1426"/> <Node id="1427"/> <Node id="1428"/>-<Node id="1429"/>-<Node id="1430"/> <Node id="1431"/>W<Node id="1432"/> <Node id="1433"/>Gibson<Node id="1439"/>
+<Node id="1440"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="1440" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="7" Type="Token" StartNode="14" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ipp-garching</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Token" StartNode="82" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Token" StartNode="96" EndNode="109">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Rechenzentrum</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Token" StartNode="118" EndNode="125">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Planck-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="Token" StartNode="125" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Gesellschaft</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="Token" StartNode="141" EndNode="149">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Garching</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="Token" StartNode="160" EndNode="172">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Distribution</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="Token" StartNode="180" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="Token" StartNode="211" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ipp-garching</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="Token" StartNode="196" EndNode="202">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">gpuINN</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="Token" StartNode="232" EndNode="242">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="Token" StartNode="262" EndNode="269">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">vincent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="Token" StartNode="245" EndNode="251">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sehari</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="Token" StartNode="252" EndNode="261">
+</Annotation>
+<Annotation Id="96" Type="Token" StartNode="271" EndNode="278">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">iastate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="106" Type="Token" StartNode="295" EndNode="301">
+</Annotation>
+<Annotation Id="117" Type="Token" StartNode="325" EndNode="342">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">NNTP-Posting-Host</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="Token" StartNode="311" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Stanford</Value>
+</Feature>
+</Annotation>
+<Annotation Id="122" Type="Token" StartNode="348" EndNode="360">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ipp-garching</Value>
+</Feature>
+</Annotation>
+<Annotation Id="140" Type="Token" StartNode="391" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">nothing</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="Token" StartNode="374" EndNode="380">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">posted</Value>
+</Feature>
+</Annotation>
+<Annotation Id="157" Type="Token" StartNode="448" EndNode="458">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">relatively</Value>
+</Feature>
+</Annotation>
+<Annotation Id="144" Type="Token" StartNode="405" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">statistics</Value>
+</Feature>
+</Annotation>
+<Annotation Id="151" Type="Token" StartNode="426" EndNode="438">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">significance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="175" Type="Token" StartNode="512" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">period</Value>
+</Feature>
+</Annotation>
+<Annotation Id="173" Type="Token" StartNode="503" EndNode="511">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sampling</Value>
+</Feature>
+</Annotation>
+<Annotation Id="163" Type="Token" StartNode="476" EndNode="482">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">growth</Value>
+</Feature>
+</Annotation>
+<Annotation Id="161" Type="Token" StartNode="465" EndNode="475">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">population</Value>
+</Feature>
+</Annotation>
+<Annotation Id="221" Type="Token" StartNode="607" EndNode="613">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">growth</Value>
+</Feature>
+</Annotation>
+<Annotation Id="217" Type="Token" StartNode="589" EndNode="595">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">annual</Value>
+</Feature>
+</Annotation>
+<Annotation Id="219" Type="Token" StartNode="596" EndNode="606">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">population</Value>
+</Feature>
+</Annotation>
+<Annotation Id="229" Type="Token" StartNode="629" EndNode="637">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">doubling</Value>
+</Feature>
+</Annotation>
+<Annotation Id="225" Type="Token" StartNode="619" EndNode="626">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">implies</Value>
+</Feature>
+</Annotation>
+<Annotation Id="251" Type="Token" StartNode="674" EndNode="681">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">imagine</Value>
+</Feature>
+</Annotation>
+<Annotation Id="240" Type="Token" StartNode="649" EndNode="655">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">approx</Value>
+</Feature>
+</Annotation>
+<Annotation Id="287" Type="Token" StartNode="757" EndNode="764">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="258" Type="Token" StartNode="693" EndNode="699">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">people</Value>
+</Feature>
+</Annotation>
+<Annotation Id="304" Type="Token" StartNode="803" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">industrialised</Value>
+</Feature>
+</Annotation>
+<Annotation Id="306" Type="Token" StartNode="818" EndNode="827">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">countries</Value>
+</Feature>
+</Annotation>
+<Annotation Id="311" Type="Token" StartNode="833" EndNode="839">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">growth</Value>
+</Feature>
+</Annotation>
+<Annotation Id="289" Type="Token" StartNode="765" EndNode="771">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">exists</Value>
+</Feature>
+</Annotation>
+<Annotation Id="298" Type="Token" StartNode="785" EndNode="795">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">especially</Value>
+</Feature>
+</Annotation>
+<Annotation Id="342" Type="Token" StartNode="926" EndNode="937">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">accelerated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="338" Type="Token" StartNode="914" EndNode="920">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">things</Value>
+</Feature>
+</Annotation>
+<Annotation Id="336" Type="Token" StartNode="904" EndNode="913">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">threatens</Value>
+</Feature>
+</Annotation>
+<Annotation Id="350" Type="Token" StartNode="961" EndNode="970">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">intensive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="344" Type="Token" StartNode="938" EndNode="953">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">desertification</Value>
+</Feature>
+</Annotation>
+<Annotation Id="322" Type="Token" StartNode="871" EndNode="877">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">impact</Value>
+</Feature>
+</Annotation>
+<Annotation Id="320" Type="Token" StartNode="857" EndNode="870">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">environmental</Value>
+</Feature>
+</Annotation>
+<Annotation Id="332" Type="Token" StartNode="892" EndNode="898">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">growth</Value>
+</Feature>
+</Annotation>
+<Annotation Id="381" Type="Token" StartNode="1052" EndNode="1062">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">California</Value>
+</Feature>
+</Annotation>
+<Annotation Id="352" Type="Token" StartNode="971" EndNode="982">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">agriculture</Value>
+</Feature>
+</Annotation>
+<Annotation Id="355" Type="Token" StartNode="984" EndNode="997">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">deforestation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="367" Type="Token" StartNode="1021" EndNode="1028">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Similar</Value>
+</Feature>
+</Annotation>
+<Annotation Id="411" Type="Token" StartNode="1119" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">probably</Value>
+</Feature>
+</Annotation>
+<Annotation Id="402" Type="Token" StartNode="1099" EndNode="1107">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Stanford</Value>
+</Feature>
+</Annotation>
+<Annotation Id="434" Type="Token" StartNode="1190" EndNode="1198">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dropping</Value>
+</Feature>
+</Annotation>
+<Annotation Id="436" Type="Token" StartNode="1199" EndNode="1205">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">living</Value>
+</Feature>
+</Annotation>
+<Annotation Id="438" Type="Token" StartNode="1206" EndNode="1215">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">standards</Value>
+</Feature>
+</Annotation>
+<Annotation Id="424" Type="Token" StartNode="1152" EndNode="1159">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">current</Value>
+</Feature>
+</Annotation>
+<Annotation Id="426" Type="Token" StartNode="1160" EndNode="1170">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">government</Value>
+</Feature>
+</Annotation>
+<Annotation Id="430" Type="Token" StartNode="1173" EndNode="1185">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">incompetence</Value>
+</Feature>
+</Annotation>
+<Annotation Id="508" Type="Token" StartNode="1349" EndNode="1357">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">odorless</Value>
+</Feature>
+</Annotation>
+<Annotation Id="500" Type="Token" StartNode="1330" EndNode="1342">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Plasmaphysik</Value>
+</Feature>
+</Annotation>
+<Annotation Id="496" Type="Token" StartNode="1316" EndNode="1324">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Institut</Value>
+</Feature>
+</Annotation>
+<Annotation Id="495" Type="Token" StartNode="1309" EndNode="1316">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Planck-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="488" Type="Token" StartNode="1283" EndNode="1292">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">deadliest</Value>
+</Feature>
+</Annotation>
+<Annotation Id="490" Type="Token" StartNode="1293" EndNode="1301">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">bullshit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="552" Type="Token" StartNode="1433" EndNode="1439">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Gibson</Value>
+</Feature>
+</Annotation>
+<Annotation Id="512" Type="Token" StartNode="1362" EndNode="1373">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">transparent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="525" Type="Token" StartNode="1392" EndNode="1404">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ipp-garching</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

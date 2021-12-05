@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: ktikkane@phoenix.oulu.fi (Kari Tikkanen)
+Message-ID: &lt;1993Apr27.151411.8912@ousrvr.oulu.fi>
+Sender: news@ousrvr.oulu.fi
+Organization: University of Oulu, Finland
+X-Newsreader: TIN [version 1.1 PL9]
+References: &lt;1993Apr26.174041.25444@daffy.cs.wisc.edu>
+Date: Tue, 27 Apr 1993 15:14:11 GMT
+Lines: 26
+
+Mark McCullough (mccullou@snake2.cs.wisc.edu) wrote:
+: >But if entertainment (company) sell computer programs saying they are virus 
+: >safe. Doesn`t they have burden of proof that viruses don`t exist in their 
+: >floppies ?
+
+: I don't think so.  The assumption is there.  If it turns out that
+: their software has a virus, then it is up to you to prove that fact
+: to a court to get any damages.  You are theoretically suppossed to 
+: be able to get damages for that, but you have to give some evidence
+: that the virus came from that software.  But since the computer
+: company is the defendent, they are uninvolved until proven guilty.
+
+All right. I'm not and won't be lawyer. What about doctors?
+I going to fly aeroplane (or drive car). Doctors have to look for different
+kind of illnesses in me before I get permission to fly an aeroplane.
+They have burden of proof that "harmful illnesses don't exist in me",
+do they ?
+
+(I'm just questioning my belief that believers have the burden of proof.)
+
+: Please, not Pascal!  NOOOOO!! ;)
+Oh!  Are you those bug-generator C-programmers  ? :-)
+Turbo Pascal is the BEST and FASTEST for edit-run-edit-run cycles !
+----------------------- ktikkane@phoenix.oulu.fi -------------------
+  Kari Tikkanen      !   .  . -#- !      b        !   begin  
+--------------------------------------------------------------------
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative822</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>ktikkane<Node id="14"/>@<Node id="15"/>phoenix<Node id="22"/>.<Node id="23"/>oulu<Node id="27"/>.<Node id="28"/>fi<Node id="30"/> <Node id="31"/>(<Node id="32"/>Kari<Node id="36"/> <Node id="37"/>Tikkanen<Node id="45"/>)<Node id="46"/>
+<Node id="47"/>Message-<Node id="55"/>ID<Node id="57"/>:<Node id="58"/> <Node id="59"/>&lt;<Node id="60"/>1993<Node id="64"/>Apr<Node id="67"/>27<Node id="69"/>.<Node id="70"/>151411<Node id="76"/>.<Node id="77"/>8912<Node id="81"/>@<Node id="82"/>ousrvr<Node id="88"/>.<Node id="89"/>oulu<Node id="93"/>.<Node id="94"/>fi<Node id="96"/>&gt;<Node id="97"/>
+<Node id="98"/>Sender<Node id="104"/>:<Node id="105"/> <Node id="106"/>news<Node id="110"/>@<Node id="111"/>ousrvr<Node id="117"/>.<Node id="118"/>oulu<Node id="122"/>.<Node id="123"/>fi<Node id="125"/>
+<Node id="126"/>Organization<Node id="138"/>:<Node id="139"/> <Node id="140"/>University<Node id="150"/> <Node id="151"/>of<Node id="153"/> <Node id="154"/>Oulu<Node id="158"/>,<Node id="159"/> <Node id="160"/>Finland<Node id="167"/>
+<Node id="168"/>X-Newsreader<Node id="180"/>:<Node id="181"/> <Node id="182"/>TIN<Node id="185"/> <Node id="186"/>[<Node id="187"/>version<Node id="194"/> <Node id="195"/>1<Node id="196"/>.<Node id="197"/>1<Node id="198"/> <Node id="199"/>PL<Node id="201"/>9<Node id="202"/>]<Node id="203"/>
+<Node id="204"/>References<Node id="214"/>:<Node id="215"/> <Node id="216"/>&lt;<Node id="217"/>1993<Node id="221"/>Apr<Node id="224"/>26<Node id="226"/>.<Node id="227"/>174041<Node id="233"/>.<Node id="234"/>25444<Node id="239"/>@<Node id="240"/>daffy<Node id="245"/>.<Node id="246"/>cs<Node id="248"/>.<Node id="249"/>wisc<Node id="253"/>.<Node id="254"/>edu<Node id="257"/>&gt;<Node id="258"/>
+<Node id="259"/>Date<Node id="263"/>:<Node id="264"/> <Node id="265"/>Tue<Node id="268"/>,<Node id="269"/> <Node id="270"/>27<Node id="272"/> <Node id="273"/>Apr<Node id="276"/> <Node id="277"/>1993<Node id="281"/> <Node id="282"/>15<Node id="284"/>:<Node id="285"/>14<Node id="287"/>:<Node id="288"/>11<Node id="290"/> <Node id="291"/>GMT<Node id="294"/>
+<Node id="295"/>Lines<Node id="300"/>:<Node id="301"/> <Node id="302"/>26<Node id="304"/>
+<Node id="305"/>
+<Node id="306"/>Mark<Node id="310"/> <Node id="311"/>McCullough<Node id="321"/> <Node id="322"/>(<Node id="323"/>mccullou<Node id="331"/>@<Node id="332"/>snake<Node id="337"/>2<Node id="338"/>.<Node id="339"/>cs<Node id="341"/>.<Node id="342"/>wisc<Node id="346"/>.<Node id="347"/>edu<Node id="350"/>)<Node id="351"/> <Node id="352"/>wrote<Node id="357"/>:<Node id="358"/>
+<Node id="359"/>:<Node id="360"/> <Node id="361"/>&gt;<Node id="362"/>But<Node id="365"/> <Node id="366"/>if<Node id="368"/> <Node id="369"/>entertainment<Node id="382"/> <Node id="383"/>(<Node id="384"/>company<Node id="391"/>)<Node id="392"/> <Node id="393"/>sell<Node id="397"/> <Node id="398"/>computer<Node id="406"/> <Node id="407"/>programs<Node id="415"/> <Node id="416"/>saying<Node id="422"/> <Node id="423"/>they<Node id="427"/> <Node id="428"/>are<Node id="431"/> <Node id="432"/>virus<Node id="437"/> <Node id="438"/>
+<Node id="439"/>:<Node id="440"/> <Node id="441"/>&gt;<Node id="442"/>safe<Node id="446"/>.<Node id="447"/> <Node id="448"/>Doesn<Node id="453"/>`<Node id="454"/>t<Node id="455"/> <Node id="456"/>they<Node id="460"/> <Node id="461"/>have<Node id="465"/> <Node id="466"/>burden<Node id="472"/> <Node id="473"/>of<Node id="475"/> <Node id="476"/>proof<Node id="481"/> <Node id="482"/>that<Node id="486"/> <Node id="487"/>viruses<Node id="494"/> <Node id="495"/>don<Node id="498"/>`<Node id="499"/>t<Node id="500"/> <Node id="501"/>exist<Node id="506"/> <Node id="507"/>in<Node id="509"/> <Node id="510"/>their<Node id="515"/> <Node id="516"/>
+<Node id="517"/>:<Node id="518"/> <Node id="519"/>&gt;<Node id="520"/>floppies<Node id="528"/> <Node id="529"/>?<Node id="530"/>
+<Node id="531"/>
+<Node id="532"/>:<Node id="533"/> <Node id="534"/>I<Node id="535"/> <Node id="536"/>do<Node id="538"/>n't<Node id="541"/> <Node id="542"/>think<Node id="547"/> <Node id="548"/>so<Node id="550"/>.<Node id="551"/> <Node id="552"/> <Node id="553"/>The<Node id="556"/> <Node id="557"/>assumption<Node id="567"/> <Node id="568"/>is<Node id="570"/> <Node id="571"/>there<Node id="576"/>.<Node id="577"/> <Node id="578"/> <Node id="579"/>If<Node id="581"/> <Node id="582"/>it<Node id="584"/> <Node id="585"/>turns<Node id="590"/> <Node id="591"/>out<Node id="594"/> <Node id="595"/>that<Node id="599"/>
+<Node id="600"/>:<Node id="601"/> <Node id="602"/>their<Node id="607"/> <Node id="608"/>software<Node id="616"/> <Node id="617"/>has<Node id="620"/> <Node id="621"/>a<Node id="622"/> <Node id="623"/>virus<Node id="628"/>,<Node id="629"/> <Node id="630"/>then<Node id="634"/> <Node id="635"/>it<Node id="637"/> <Node id="638"/>is<Node id="640"/> <Node id="641"/>up<Node id="643"/> <Node id="644"/>to<Node id="646"/> <Node id="647"/>you<Node id="650"/> <Node id="651"/>to<Node id="653"/> <Node id="654"/>prove<Node id="659"/> <Node id="660"/>that<Node id="664"/> <Node id="665"/>fact<Node id="669"/>
+<Node id="670"/>:<Node id="671"/> <Node id="672"/>to<Node id="674"/> <Node id="675"/>a<Node id="676"/> <Node id="677"/>court<Node id="682"/> <Node id="683"/>to<Node id="685"/> <Node id="686"/>get<Node id="689"/> <Node id="690"/>any<Node id="693"/> <Node id="694"/>damages<Node id="701"/>.<Node id="702"/> <Node id="703"/> <Node id="704"/>You<Node id="707"/> <Node id="708"/>are<Node id="711"/> <Node id="712"/>theoretically<Node id="725"/> <Node id="726"/>suppossed<Node id="735"/> <Node id="736"/>to<Node id="738"/> <Node id="739"/>
+<Node id="740"/>:<Node id="741"/> <Node id="742"/>be<Node id="744"/> <Node id="745"/>able<Node id="749"/> <Node id="750"/>to<Node id="752"/> <Node id="753"/>get<Node id="756"/> <Node id="757"/>damages<Node id="764"/> <Node id="765"/>for<Node id="768"/> <Node id="769"/>that<Node id="773"/>,<Node id="774"/> <Node id="775"/>but<Node id="778"/> <Node id="779"/>you<Node id="782"/> <Node id="783"/>have<Node id="787"/> <Node id="788"/>to<Node id="790"/> <Node id="791"/>give<Node id="795"/> <Node id="796"/>some<Node id="800"/> <Node id="801"/>evidence<Node id="809"/>
+<Node id="810"/>:<Node id="811"/> <Node id="812"/>that<Node id="816"/> <Node id="817"/>the<Node id="820"/> <Node id="821"/>virus<Node id="826"/> <Node id="827"/>came<Node id="831"/> <Node id="832"/>from<Node id="836"/> <Node id="837"/>that<Node id="841"/> <Node id="842"/>software<Node id="850"/>.<Node id="851"/> <Node id="852"/> <Node id="853"/>But<Node id="856"/> <Node id="857"/>since<Node id="862"/> <Node id="863"/>the<Node id="866"/> <Node id="867"/>computer<Node id="875"/>
+<Node id="876"/>:<Node id="877"/> <Node id="878"/>company<Node id="885"/> <Node id="886"/>is<Node id="888"/> <Node id="889"/>the<Node id="892"/> <Node id="893"/>defendent<Node id="902"/>,<Node id="903"/> <Node id="904"/>they<Node id="908"/> <Node id="909"/>are<Node id="912"/> <Node id="913"/>uninvolved<Node id="923"/> <Node id="924"/>until<Node id="929"/> <Node id="930"/>proven<Node id="936"/> <Node id="937"/>guilty<Node id="943"/>.<Node id="944"/>
+<Node id="945"/>
+<Node id="946"/>All<Node id="949"/> <Node id="950"/>right<Node id="955"/>.<Node id="956"/> <Node id="957"/>I<Node id="958"/>'m<Node id="960"/> <Node id="961"/>not<Node id="964"/> <Node id="965"/>and<Node id="968"/> <Node id="969"/>wo<Node id="971"/>n't<Node id="974"/> <Node id="975"/>be<Node id="977"/> <Node id="978"/>lawyer<Node id="984"/>.<Node id="985"/> <Node id="986"/>What<Node id="990"/> <Node id="991"/>about<Node id="996"/> <Node id="997"/>doctors<Node id="1004"/>?<Node id="1005"/>
+<Node id="1006"/>I<Node id="1007"/> <Node id="1008"/>going<Node id="1013"/> <Node id="1014"/>to<Node id="1016"/> <Node id="1017"/>fly<Node id="1020"/> <Node id="1021"/>aeroplane<Node id="1030"/> <Node id="1031"/>(<Node id="1032"/>or<Node id="1034"/> <Node id="1035"/>drive<Node id="1040"/> <Node id="1041"/>car<Node id="1044"/>)<Node id="1045"/>.<Node id="1046"/> <Node id="1047"/>Doctors<Node id="1054"/> <Node id="1055"/>have<Node id="1059"/> <Node id="1060"/>to<Node id="1062"/> <Node id="1063"/>look<Node id="1067"/> <Node id="1068"/>for<Node id="1071"/> <Node id="1072"/>different<Node id="1081"/>
+<Node id="1082"/>kind<Node id="1086"/> <Node id="1087"/>of<Node id="1089"/> <Node id="1090"/>illnesses<Node id="1099"/> <Node id="1100"/>in<Node id="1102"/> <Node id="1103"/>me<Node id="1105"/> <Node id="1106"/>before<Node id="1112"/> <Node id="1113"/>I<Node id="1114"/> <Node id="1115"/>get<Node id="1118"/> <Node id="1119"/>permission<Node id="1129"/> <Node id="1130"/>to<Node id="1132"/> <Node id="1133"/>fly<Node id="1136"/> <Node id="1137"/>an<Node id="1139"/> <Node id="1140"/>aeroplane<Node id="1149"/>.<Node id="1150"/>
+<Node id="1151"/>They<Node id="1155"/> <Node id="1156"/>have<Node id="1160"/> <Node id="1161"/>burden<Node id="1167"/> <Node id="1168"/>of<Node id="1170"/> <Node id="1171"/>proof<Node id="1176"/> <Node id="1177"/>that<Node id="1181"/> <Node id="1182"/>"<Node id="1183"/>harmful<Node id="1190"/> <Node id="1191"/>illnesses<Node id="1200"/> <Node id="1201"/>do<Node id="1203"/>n't<Node id="1206"/> <Node id="1207"/>exist<Node id="1212"/> <Node id="1213"/>in<Node id="1215"/> <Node id="1216"/>me<Node id="1218"/>"<Node id="1219"/>,<Node id="1220"/>
+<Node id="1221"/>do<Node id="1223"/> <Node id="1224"/>they<Node id="1228"/> <Node id="1229"/>?<Node id="1230"/>
+<Node id="1231"/>
+<Node id="1232"/>(<Node id="1233"/>I<Node id="1234"/>'m<Node id="1236"/> <Node id="1237"/>just<Node id="1241"/> <Node id="1242"/>questioning<Node id="1253"/> <Node id="1254"/>my<Node id="1256"/> <Node id="1257"/>belief<Node id="1263"/> <Node id="1264"/>that<Node id="1268"/> <Node id="1269"/>believers<Node id="1278"/> <Node id="1279"/>have<Node id="1283"/> <Node id="1284"/>the<Node id="1287"/> <Node id="1288"/>burden<Node id="1294"/> <Node id="1295"/>of<Node id="1297"/> <Node id="1298"/>proof<Node id="1303"/>.<Node id="1304"/>)<Node id="1305"/>
+<Node id="1306"/>
+<Node id="1307"/>:<Node id="1308"/> <Node id="1309"/>Please<Node id="1315"/>,<Node id="1316"/> <Node id="1317"/>not<Node id="1320"/> <Node id="1321"/>Pascal<Node id="1327"/>!<Node id="1328"/> <Node id="1329"/> <Node id="1330"/>NOOOOO<Node id="1336"/>!<Node id="1337"/>!<Node id="1338"/> <Node id="1339"/>;<Node id="1340"/>)<Node id="1341"/>
+<Node id="1342"/>Oh<Node id="1344"/>!<Node id="1345"/> <Node id="1346"/> <Node id="1347"/>Are<Node id="1350"/> <Node id="1351"/>you<Node id="1354"/> <Node id="1355"/>those<Node id="1360"/> <Node id="1361"/>bug-generator<Node id="1374"/> <Node id="1375"/>C-<Node id="1377"/>programmers<Node id="1388"/> <Node id="1389"/> <Node id="1390"/>?<Node id="1391"/> <Node id="1392"/>:<Node id="1393"/>-<Node id="1394"/>)<Node id="1395"/>
+<Node id="1396"/>Turbo<Node id="1401"/> <Node id="1402"/>Pascal<Node id="1408"/> <Node id="1409"/>is<Node id="1411"/> <Node id="1412"/>the<Node id="1415"/> <Node id="1416"/>BEST<Node id="1420"/> <Node id="1421"/>and<Node id="1424"/> <Node id="1425"/>FASTEST<Node id="1432"/> <Node id="1433"/>for<Node id="1436"/> <Node id="1437"/>edit-run-edit-run<Node id="1454"/> <Node id="1455"/>cycles<Node id="1461"/> <Node id="1462"/>!<Node id="1463"/>
+<Node id="1464"/>-<Node id="1465"/>-<Node id="1466"/>-<Node id="1467"/>-<Node id="1468"/>-<Node id="1469"/>-<Node id="1470"/>-<Node id="1471"/>-<Node id="1472"/>-<Node id="1473"/>-<Node id="1474"/>-<Node id="1475"/>-<Node id="1476"/>-<Node id="1477"/>-<Node id="1478"/>-<Node id="1479"/>-<Node id="1480"/>-<Node id="1481"/>-<Node id="1482"/>-<Node id="1483"/>-<Node id="1484"/>-<Node id="1485"/>-<Node id="1486"/>-<Node id="1487"/> <Node id="1488"/>ktikkane<Node id="1496"/>@<Node id="1497"/>phoenix<Node id="1504"/>.<Node id="1505"/>oulu<Node id="1509"/>.<Node id="1510"/>fi<Node id="1512"/> <Node id="1513"/>-<Node id="1514"/>-<Node id="1515"/>-<Node id="1516"/>-<Node id="1517"/>-<Node id="1518"/>-<Node id="1519"/>-<Node id="1520"/>-<Node id="1521"/>-<Node id="1522"/>-<Node id="1523"/>-<Node id="1524"/>-<Node id="1525"/>-<Node id="1526"/>-<Node id="1527"/>-<Node id="1528"/>-<Node id="1529"/>-<Node id="1530"/>-<Node id="1531"/>-<Node id="1532"/>
+<Node id="1533"/> <Node id="1534"/> <Node id="1535"/>Kari<Node id="1539"/> <Node id="1540"/>Tikkanen<Node id="1548"/> <Node id="1549"/> <Node id="1550"/> <Node id="1551"/> <Node id="1552"/> <Node id="1553"/> <Node id="1554"/>!<Node id="1555"/> <Node id="1556"/> <Node id="1557"/> <Node id="1558"/>.<Node id="1559"/> <Node id="1560"/> <Node id="1561"/>.<Node id="1562"/> <Node id="1563"/>-<Node id="1564"/>#<Node id="1565"/>-<Node id="1566"/> <Node id="1567"/>!<Node id="1568"/> <Node id="1569"/> <Node id="1570"/> <Node id="1571"/> <Node id="1572"/> <Node id="1573"/> <Node id="1574"/>b<Node id="1575"/> <Node id="1576"/> <Node id="1577"/> <Node id="1578"/> <Node id="1579"/> <Node id="1580"/> <Node id="1581"/> <Node id="1582"/> <Node id="1583"/>!<Node id="1584"/> <Node id="1585"/> <Node id="1586"/> <Node id="1587"/>begin<Node id="1592"/> <Node id="1593"/> <Node id="1594"/>
+<Node id="1595"/>-<Node id="1596"/>-<Node id="1597"/>-<Node id="1598"/>-<Node id="1599"/>-<Node id="1600"/>-<Node id="1601"/>-<Node id="1602"/>-<Node id="1603"/>-<Node id="1604"/>-<Node id="1605"/>-<Node id="1606"/>-<Node id="1607"/>-<Node id="1608"/>-<Node id="1609"/>-<Node id="1610"/>-<Node id="1611"/>-<Node id="1612"/>-<Node id="1613"/>-<Node id="1614"/>-<Node id="1615"/>-<Node id="1616"/>-<Node id="1617"/>-<Node id="1618"/>-<Node id="1619"/>-<Node id="1620"/>-<Node id="1621"/>-<Node id="1622"/>-<Node id="1623"/>-<Node id="1624"/>-<Node id="1625"/>-<Node id="1626"/>-<Node id="1627"/>-<Node id="1628"/>-<Node id="1629"/>-<Node id="1630"/>-<Node id="1631"/>-<Node id="1632"/>-<Node id="1633"/>-<Node id="1634"/>-<Node id="1635"/>-<Node id="1636"/>-<Node id="1637"/>-<Node id="1638"/>-<Node id="1639"/>-<Node id="1640"/>-<Node id="1641"/>-<Node id="1642"/>-<Node id="1643"/>-<Node id="1644"/>-<Node id="1645"/>-<Node id="1646"/>-<Node id="1647"/>-<Node id="1648"/>-<Node id="1649"/>-<Node id="1650"/>-<Node id="1651"/>-<Node id="1652"/>-<Node id="1653"/>-<Node id="1654"/>-<Node id="1655"/>-<Node id="1656"/>-<Node id="1657"/>-<Node id="1658"/>-<Node id="1659"/>-<Node id="1660"/>-<Node id="1661"/>-<Node id="1662"/>-<Node id="1663"/>
+<Node id="1664"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="1664" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="3" Type="Token" StartNode="6" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ktikkane</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="15" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">phoenix</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Token" StartNode="37" EndNode="45">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Tikkanen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Token" StartNode="47" EndNode="55">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Token" StartNode="70" EndNode="76">
+</Annotation>
+<Annotation Id="30" Type="Token" StartNode="82" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ousrvr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Token" StartNode="98" EndNode="104">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Token" StartNode="111" EndNode="117">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ousrvr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="Token" StartNode="140" EndNode="150">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="Token" StartNode="126" EndNode="138">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Token" StartNode="160" EndNode="167">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Finland</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Token" StartNode="168" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">X-Newsreader</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="Token" StartNode="187" EndNode="194">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">version</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Token" StartNode="204" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="Token" StartNode="227" EndNode="233">
+</Annotation>
+<Annotation Id="125" Type="Token" StartNode="311" EndNode="321">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">McCullough</Value>
+</Feature>
+</Annotation>
+<Annotation Id="128" Type="Token" StartNode="323" EndNode="331">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">mccullou</Value>
+</Feature>
+</Annotation>
+<Annotation Id="153" Type="Token" StartNode="384" EndNode="391">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="158" Type="Token" StartNode="398" EndNode="406">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">computer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="150" Type="Token" StartNode="369" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">entertainment</Value>
+</Feature>
+</Annotation>
+<Annotation Id="162" Type="Token" StartNode="416" EndNode="422">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">saying</Value>
+</Feature>
+</Annotation>
+<Annotation Id="160" Type="Token" StartNode="407" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">programs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="185" Type="Token" StartNode="466" EndNode="472">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">burden</Value>
+</Feature>
+</Annotation>
+<Annotation Id="193" Type="Token" StartNode="487" EndNode="494">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">viruses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="209" Type="Token" StartNode="520" EndNode="528">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">floppies</Value>
+</Feature>
+</Annotation>
+<Annotation Id="230" Type="Token" StartNode="557" EndNode="567">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">assumption</Value>
+</Feature>
+</Annotation>
+<Annotation Id="252" Type="Token" StartNode="608" EndNode="616">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">software</Value>
+</Feature>
+</Annotation>
+<Annotation Id="305" Type="Token" StartNode="726" EndNode="735">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">suppossed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="295" Type="Token" StartNode="694" EndNode="701">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">damages</Value>
+</Feature>
+</Annotation>
+<Annotation Id="303" Type="Token" StartNode="712" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">theoretically</Value>
+</Feature>
+</Annotation>
+<Annotation Id="339" Type="Token" StartNode="801" EndNode="809">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">evidence</Value>
+</Feature>
+</Annotation>
+<Annotation Id="320" Type="Token" StartNode="757" EndNode="764">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">damages</Value>
+</Feature>
+</Annotation>
+<Annotation Id="375" Type="Token" StartNode="893" EndNode="902">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">defendent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="369" Type="Token" StartNode="878" EndNode="885">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="382" Type="Token" StartNode="913" EndNode="923">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">uninvolved</Value>
+</Feature>
+</Annotation>
+<Annotation Id="355" Type="Token" StartNode="842" EndNode="850">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">software</Value>
+</Feature>
+</Annotation>
+<Annotation Id="365" Type="Token" StartNode="867" EndNode="875">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">computer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="411" Type="Token" StartNode="978" EndNode="984">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">lawyer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="386" Type="Token" StartNode="930" EndNode="936">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">proven</Value>
+</Feature>
+</Annotation>
+<Annotation Id="388" Type="Token" StartNode="937" EndNode="943">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">guilty</Value>
+</Feature>
+</Annotation>
+<Annotation Id="440" Type="Token" StartNode="1047" EndNode="1054">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Doctors</Value>
+</Feature>
+</Annotation>
+<Annotation Id="429" Type="Token" StartNode="1021" EndNode="1030">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">aeroplane</Value>
+</Feature>
+</Annotation>
+<Annotation Id="418" Type="Token" StartNode="997" EndNode="1004">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">doctors</Value>
+</Feature>
+</Annotation>
+<Annotation Id="476" Type="Token" StartNode="1140" EndNode="1149">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">aeroplane</Value>
+</Feature>
+</Annotation>
+<Annotation Id="468" Type="Token" StartNode="1119" EndNode="1129">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">permission</Value>
+</Feature>
+</Annotation>
+<Annotation Id="462" Type="Token" StartNode="1106" EndNode="1112">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">before</Value>
+</Feature>
+</Annotation>
+<Annotation Id="456" Type="Token" StartNode="1090" EndNode="1099">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">illnesses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="450" Type="Token" StartNode="1072" EndNode="1081">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">different</Value>
+</Feature>
+</Annotation>
+<Annotation Id="492" Type="Token" StartNode="1183" EndNode="1190">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">harmful</Value>
+</Feature>
+</Annotation>
+<Annotation Id="494" Type="Token" StartNode="1191" EndNode="1200">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">illnesses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="483" Type="Token" StartNode="1161" EndNode="1167">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">burden</Value>
+</Feature>
+</Annotation>
+<Annotation Id="547" Type="Token" StartNode="1309" EndNode="1315">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Please</Value>
+</Feature>
+</Annotation>
+<Annotation Id="556" Type="Token" StartNode="1330" EndNode="1336">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">NOOOOO</Value>
+</Feature>
+</Annotation>
+<Annotation Id="552" Type="Token" StartNode="1321" EndNode="1327">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Pascal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="573" Type="Token" StartNode="1361" EndNode="1374">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">bug-generator</Value>
+</Feature>
+</Annotation>
+<Annotation Id="526" Type="Token" StartNode="1257" EndNode="1263">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">belief</Value>
+</Feature>
+</Annotation>
+<Annotation Id="522" Type="Token" StartNode="1242" EndNode="1253">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">questioning</Value>
+</Feature>
+</Annotation>
+<Annotation Id="530" Type="Token" StartNode="1269" EndNode="1278">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">believers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="536" Type="Token" StartNode="1288" EndNode="1294">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">burden</Value>
+</Feature>
+</Annotation>
+<Annotation Id="631" Type="Token" StartNode="1488" EndNode="1496">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ktikkane</Value>
+</Feature>
+</Annotation>
+<Annotation Id="633" Type="Token" StartNode="1497" EndNode="1504">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">phoenix</Value>
+</Feature>
+</Annotation>
+<Annotation Id="576" Type="Token" StartNode="1377" EndNode="1388">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">programmers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="587" Type="Token" StartNode="1402" EndNode="1408">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Pascal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="597" Type="Token" StartNode="1425" EndNode="1432">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">FASTEST</Value>
+</Feature>
+</Annotation>
+<Annotation Id="601" Type="Token" StartNode="1437" EndNode="1454">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">edit-run-edit-run</Value>
+</Feature>
+</Annotation>
+<Annotation Id="603" Type="Token" StartNode="1455" EndNode="1461">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cycles</Value>
+</Feature>
+</Annotation>
+<Annotation Id="663" Type="Token" StartNode="1540" EndNode="1548">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Tikkanen</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

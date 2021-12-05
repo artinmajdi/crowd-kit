@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: mkaye@world.std.com (Martin Kaye)
+Message-ID: &lt;C5J2qz.MnE@world.std.com>
+Organization: The World Public Access UNIX, Brookline, MA
+References: &lt;1qhnnl$peg@msuinfo.cl.msu.edu>
+Date: Thu, 15 Apr 1993 13:56:58 GMT
+Lines: 6
+
+Great interview with Benjamin Netanyahu on CNN - Larry King Live (4/15/93)
+This guy is knows what he is talking about. He is truely charismatic,
+articulate, intelligent, and demonstrates real leadership qualities. 
+ 
+ 
+
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1869</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>mkaye<Node id="11"/>@<Node id="12"/>world<Node id="17"/>.<Node id="18"/>std<Node id="21"/>.<Node id="22"/>com<Node id="25"/> <Node id="26"/>(<Node id="27"/>Martin<Node id="33"/> <Node id="34"/>Kaye<Node id="38"/>)<Node id="39"/>
+<Node id="40"/>Message-<Node id="48"/>ID<Node id="50"/>:<Node id="51"/> <Node id="52"/>&lt;<Node id="53"/>C<Node id="54"/>5<Node id="55"/>J<Node id="56"/>2<Node id="57"/>qz<Node id="59"/>.<Node id="60"/>MnE<Node id="63"/>@<Node id="64"/>world<Node id="69"/>.<Node id="70"/>std<Node id="73"/>.<Node id="74"/>com<Node id="77"/>&gt;<Node id="78"/>
+<Node id="79"/>Organization<Node id="91"/>:<Node id="92"/> <Node id="93"/>The<Node id="96"/> <Node id="97"/>World<Node id="102"/> <Node id="103"/>Public<Node id="109"/> <Node id="110"/>Access<Node id="116"/> <Node id="117"/>UNIX<Node id="121"/>,<Node id="122"/> <Node id="123"/>Brookline<Node id="132"/>,<Node id="133"/> <Node id="134"/>MA<Node id="136"/>
+<Node id="137"/>References<Node id="147"/>:<Node id="148"/> <Node id="149"/>&lt;<Node id="150"/>1<Node id="151"/>qhnnl<Node id="156"/>$<Node id="157"/>peg<Node id="160"/>@<Node id="161"/>msuinfo<Node id="168"/>.<Node id="169"/>cl<Node id="171"/>.<Node id="172"/>msu<Node id="175"/>.<Node id="176"/>edu<Node id="179"/>&gt;<Node id="180"/>
+<Node id="181"/>Date<Node id="185"/>:<Node id="186"/> <Node id="187"/>Thu<Node id="190"/>,<Node id="191"/> <Node id="192"/>15<Node id="194"/> <Node id="195"/>Apr<Node id="198"/> <Node id="199"/>1993<Node id="203"/> <Node id="204"/>13<Node id="206"/>:<Node id="207"/>56<Node id="209"/>:<Node id="210"/>58<Node id="212"/> <Node id="213"/>GMT<Node id="216"/>
+<Node id="217"/>Lines<Node id="222"/>:<Node id="223"/> <Node id="224"/>6<Node id="225"/>
+<Node id="226"/>
+<Node id="227"/>Great<Node id="232"/> <Node id="233"/>interview<Node id="242"/> <Node id="243"/>with<Node id="247"/> <Node id="248"/>Benjamin<Node id="256"/> <Node id="257"/>Netanyahu<Node id="266"/> <Node id="267"/>on<Node id="269"/> <Node id="270"/>CNN<Node id="273"/> <Node id="274"/>-<Node id="275"/> <Node id="276"/>Larry<Node id="281"/> <Node id="282"/>King<Node id="286"/> <Node id="287"/>Live<Node id="291"/> <Node id="292"/>(<Node id="293"/>4<Node id="294"/>/<Node id="295"/>15<Node id="297"/>/<Node id="298"/>93<Node id="300"/>)<Node id="301"/>
+<Node id="302"/>This<Node id="306"/> <Node id="307"/>guy<Node id="310"/> <Node id="311"/>is<Node id="313"/> <Node id="314"/>knows<Node id="319"/> <Node id="320"/>what<Node id="324"/> <Node id="325"/>he<Node id="327"/> <Node id="328"/>is<Node id="330"/> <Node id="331"/>talking<Node id="338"/> <Node id="339"/>about<Node id="344"/>.<Node id="345"/> <Node id="346"/>He<Node id="348"/> <Node id="349"/>is<Node id="351"/> <Node id="352"/>truely<Node id="358"/> <Node id="359"/>charismatic<Node id="370"/>,<Node id="371"/>
+<Node id="372"/>articulate<Node id="382"/>,<Node id="383"/> <Node id="384"/>intelligent<Node id="395"/>,<Node id="396"/> <Node id="397"/>and<Node id="400"/> <Node id="401"/>demonstrates<Node id="413"/> <Node id="414"/>real<Node id="418"/> <Node id="419"/>leadership<Node id="429"/> <Node id="430"/>qualities<Node id="439"/>.<Node id="440"/> <Node id="441"/>
+<Node id="442"/> <Node id="443"/>
+<Node id="444"/> <Node id="445"/>
+<Node id="446"/>
+<Node id="447"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="447" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="12" Type="Token" StartNode="27" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Martin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Token" StartNode="40" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Token" StartNode="79" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Token" StartNode="110" EndNode="116">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Access</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Token" StartNode="103" EndNode="109">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Public</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="Token" StartNode="123" EndNode="132">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Brookline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="137" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Token" StartNode="161" EndNode="168">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">msuinfo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="Token" StartNode="233" EndNode="242">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">interview</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="Token" StartNode="257" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Netanyahu</Value>
+</Feature>
+</Annotation>
+<Annotation Id="106" Type="Token" StartNode="248" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Benjamin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="153" Type="Token" StartNode="352" EndNode="358">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">truely</Value>
+</Feature>
+</Annotation>
+<Annotation Id="155" Type="Token" StartNode="359" EndNode="370">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">charismatic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="158" Type="Token" StartNode="372" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">articulate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="144" Type="Token" StartNode="331" EndNode="338">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">talking</Value>
+</Feature>
+</Annotation>
+<Annotation Id="170" Type="Token" StartNode="419" EndNode="429">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">leadership</Value>
+</Feature>
+</Annotation>
+<Annotation Id="172" Type="Token" StartNode="430" EndNode="439">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">qualities</Value>
+</Feature>
+</Annotation>
+<Annotation Id="161" Type="Token" StartNode="384" EndNode="395">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">intelligent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="166" Type="Token" StartNode="401" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">demonstrates</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: psyrobtw@ubvmsd.cc.buffalo.edu (Robert Weiss)
+Message-ID: &lt;C60xEo.A3A@acsu.buffalo.edu>
+Date: 25 Apr 93 05:20:00 GMT
+Sender: nntp@acsu.buffalo.edu
+Organization: University at Buffalo
+Lines: 9
+News-Software: VAX/VMS VNEWS 1.41
+Nntp-Posting-Host: ubvmsd.cc.buffalo.edu
+
+
+
+	In God,
+	whose word I praise,
+	in God I trust;
+	I will not be afraid.
+	What can mortal man do to me?
+
+	Psalm 56:4 (NIV)
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative136</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>psyrobtw<Node id="14"/>@<Node id="15"/>ubvmsd<Node id="21"/>.<Node id="22"/>cc<Node id="24"/>.<Node id="25"/>buffalo<Node id="32"/>.<Node id="33"/>edu<Node id="36"/> <Node id="37"/>(<Node id="38"/>Robert<Node id="44"/> <Node id="45"/>Weiss<Node id="50"/>)<Node id="51"/>
+<Node id="52"/>Message-<Node id="60"/>ID<Node id="62"/>:<Node id="63"/> <Node id="64"/>&lt;<Node id="65"/>C<Node id="66"/>60<Node id="68"/>xEo<Node id="71"/>.<Node id="72"/>A<Node id="73"/>3<Node id="74"/>A<Node id="75"/>@<Node id="76"/>acsu<Node id="80"/>.<Node id="81"/>buffalo<Node id="88"/>.<Node id="89"/>edu<Node id="92"/>&gt;<Node id="93"/>
+<Node id="94"/>Date<Node id="98"/>:<Node id="99"/> <Node id="100"/>25<Node id="102"/> <Node id="103"/>Apr<Node id="106"/> <Node id="107"/>93<Node id="109"/> <Node id="110"/>05<Node id="112"/>:<Node id="113"/>20<Node id="115"/>:<Node id="116"/>00<Node id="118"/> <Node id="119"/>GMT<Node id="122"/>
+<Node id="123"/>Sender<Node id="129"/>:<Node id="130"/> <Node id="131"/>nntp<Node id="135"/>@<Node id="136"/>acsu<Node id="140"/>.<Node id="141"/>buffalo<Node id="148"/>.<Node id="149"/>edu<Node id="152"/>
+<Node id="153"/>Organization<Node id="165"/>:<Node id="166"/> <Node id="167"/>University<Node id="177"/> <Node id="178"/>at<Node id="180"/> <Node id="181"/>Buffalo<Node id="188"/>
+<Node id="189"/>Lines<Node id="194"/>:<Node id="195"/> <Node id="196"/>9<Node id="197"/>
+<Node id="198"/>News-<Node id="203"/>Software<Node id="211"/>:<Node id="212"/> <Node id="213"/>VAX<Node id="216"/>/<Node id="217"/>VMS<Node id="220"/> <Node id="221"/>VNEWS<Node id="226"/> <Node id="227"/>1<Node id="228"/>.<Node id="229"/>41<Node id="231"/>
+<Node id="232"/>Nntp-<Node id="237"/>Posting-<Node id="245"/>Host<Node id="249"/>:<Node id="250"/> <Node id="251"/>ubvmsd<Node id="257"/>.<Node id="258"/>cc<Node id="260"/>.<Node id="261"/>buffalo<Node id="268"/>.<Node id="269"/>edu<Node id="272"/>
+<Node id="273"/>
+<Node id="274"/>
+<Node id="275"/>
+<Node id="276"/>	<Node id="277"/>In<Node id="279"/> <Node id="280"/>God<Node id="283"/>,<Node id="284"/>
+<Node id="285"/>	<Node id="286"/>whose<Node id="291"/> <Node id="292"/>word<Node id="296"/> <Node id="297"/>I<Node id="298"/> <Node id="299"/>praise<Node id="305"/>,<Node id="306"/>
+<Node id="307"/>	<Node id="308"/>in<Node id="310"/> <Node id="311"/>God<Node id="314"/> <Node id="315"/>I<Node id="316"/> <Node id="317"/>trust<Node id="322"/>;<Node id="323"/>
+<Node id="324"/>	<Node id="325"/>I<Node id="326"/> <Node id="327"/>will<Node id="331"/> <Node id="332"/>not<Node id="335"/> <Node id="336"/>be<Node id="338"/> <Node id="339"/>afraid<Node id="345"/>.<Node id="346"/>
+<Node id="347"/>	<Node id="348"/>What<Node id="352"/> <Node id="353"/>can<Node id="356"/> <Node id="357"/>mortal<Node id="363"/> <Node id="364"/>man<Node id="367"/> <Node id="368"/>do<Node id="370"/> <Node id="371"/>to<Node id="373"/> <Node id="374"/>me<Node id="376"/>?<Node id="377"/>
+<Node id="378"/>
+<Node id="379"/>	<Node id="380"/>Psalm<Node id="385"/> <Node id="386"/>56<Node id="388"/>:<Node id="389"/>4<Node id="390"/> <Node id="391"/>(<Node id="392"/>NIV<Node id="395"/>)<Node id="396"/>
+<Node id="397"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="397" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="3" Type="Token" StartNode="6" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">psyrobtw</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="15" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ubvmsd</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Token" StartNode="25" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">buffalo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Token" StartNode="38" EndNode="44">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Robert</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Token" StartNode="52" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Token" StartNode="81" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">buffalo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="123" EndNode="129">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="Token" StartNode="141" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">buffalo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="Token" StartNode="167" EndNode="177">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="Token" StartNode="153" EndNode="165">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Token" StartNode="181" EndNode="188">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Buffalo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="Token" StartNode="203" EndNode="211">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Software</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="Token" StartNode="251" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ubvmsd</Value>
+</Feature>
+</Annotation>
+<Annotation Id="96" Type="Token" StartNode="237" EndNode="245">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Posting-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="Token" StartNode="261" EndNode="268">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">buffalo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="Token" StartNode="299" EndNode="305">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">praise</Value>
+</Feature>
+</Annotation>
+<Annotation Id="154" Type="Token" StartNode="357" EndNode="363">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">mortal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="146" Type="Token" StartNode="339" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">afraid</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

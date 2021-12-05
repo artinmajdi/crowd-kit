@@ -1,0 +1,1326 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String"><![CDATA[From: frank@D012S658.uucp (Frank O'Dwyer)
+Date: 23 Apr 1993 21:35:41 GMT
+Organization: Siemens-Nixdorf AG
+Lines: 79
+Message-ID: <1r9nfd$3u4@horus.ap.mchp.sni.de>
+References: <sandvik-200493232227@sandvik-kent.apple.com> <1r39kh$itp@horus.ap.mchp.sni.de> <93112.164435J5J@psuvm.psu.edu>
+NNTP-Posting-Host: d012s658.ap.mchp.sni.de
+
+In article <93112.164435J5J@psuvm.psu.edu> John A. Johnson <J5J@psuvm.psu.edu> writes:
+#In article <1r39kh$itp@horus.ap.mchp.sni.de>, frank@D012S658.uucp (Frank
+#O'Dwyer) says:
+#>
+#[ . . .]
+#>Specifically, I'd like to know what relativism concludes when two
+#>people grotesquely disagree.  Is it:
+#>
+#>(a) Both are right
+#>
+#>(b) One of them is wrong, and sometimes (though perhaps rarely) we have a
+#>    pretty good idea who it is
+#>
+#>(c) One of them is wrong, but we never have any information as to who, so
+#>    we make our best guess if we really must make a decision.
+#>
+#>(d) The idea of a "right" moral judgement is meaningless (implying that
+#>     whether peace is better than war, e.g., is a meaningless question,
+#>     and need not be discussed for it has no correct answer)
+#>
+#>(e) Something else.  A short, positive assertion would be nice.
+#>
+#>As I hope you can tell, (b) and (c) are actually predicated on
+#>the assumption that values are real  - so statements like these
+#>_can't_ consistently derive from the relativist assumption that values
+#>aren't part of objective reality.
+#
+#I am a relativist who would like to answer your question, but the way you
+#phrase the question makes it unanswerable.  The concepts of "right"
+#and "wrong" (or "correct/incorrect" or "true/false") belong to the
+#domain of epistemological rather than moral questions.  It makes no
+#sense to ask if a moral position is right or wrong, although it is
+#legitimate to ask if it is good (or better than another position).
+#
+#Let me illustrate this point by looking at the psychological derivatives
+#of epistemology and ethics:  perception and motivation, respectively.
+#One can certainly ask if a percept is "right" (correct, true,
+#veridical) or "wrong" (incorrect, false, illusory).  But it makes little
+#sense to ask if a motive is true or false.  On the other hand, it is
+#strange to ask whether a percept is morally good or evil, but one can
+#certainly ask that question about motives.
+#
+#Therefore, your suggested answers (a)-(c) simply can't be considered:
+#they assume you can judge the correctness of a moral judgment.
+
+True, by "correct" I mean "the thing valued is really good".  I should
+use evaluative terms, but I don't always.  Sorry for the sloppy phrasing.
+Can you answer if "betterness" is used in in place of @correctness"?
+#
+#Now the problem with (d) is that it is double-barrelled:  I agree with
+#the first part (that the "rightness" of a moral position is a
+#meaningless question), for the reasons stated above.  But that is
+#irrelevant to the alleged implication (not an implication at all) that
+#one cannot feel peace is better than war.  I certainly can make
+#value judgments (bad, better, best) without asserting the "correctness"
+#of the position.
+
+You can never say that the thing is @really better@, or "more likely
+to better, from all realistic frames of reference"?
+
+#
+#Sorry for the lengthy dismissal of (a)-(d).  My short (e) answer is
+#that when two individuals grotesquely disagree on a moral issue,
+#neither is right (correct) or wrong (incorrect).  They simply hold
+#different moral values (feelings).
+
+This is where my difficulty arises, though I'm starting to get
+in now.  The thing is, there isn't anything simple about different
+moral values, when those values are human rights.
+
+#"A ruthless, doctrinaire avoidance of degeneracy is a degeneracy of
+# another sort.  Getting drunk and picking up bar-ladies and writing
+# metaphysics is a part of life."  - from _Lila_ by R. Pirsig
+
+Peculiar - you're getting relativism from this, I'm getting
+objectivism :-)  Good book, though, and a good quote.
+-- 
+Frank O'Dwyer                                  'I'm not hatching That'
+odwyer@sse.ie                                  from "Hens",  by Evelyn Conlon
+]]></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative827</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>frank<Node id="11"/>@<Node id="12"/>D<Node id="13"/>012<Node id="16"/>S<Node id="17"/>658<Node id="20"/>.<Node id="21"/>uucp<Node id="25"/> <Node id="26"/>(<Node id="27"/>Frank<Node id="32"/> <Node id="33"/>O<Node id="34"/>'<Node id="35"/>Dwyer<Node id="40"/>)<Node id="41"/>
+<Node id="42"/>Date<Node id="46"/>:<Node id="47"/> <Node id="48"/>23<Node id="50"/> <Node id="51"/>Apr<Node id="54"/> <Node id="55"/>1993<Node id="59"/> <Node id="60"/>21<Node id="62"/>:<Node id="63"/>35<Node id="65"/>:<Node id="66"/>41<Node id="68"/> <Node id="69"/>GMT<Node id="72"/>
+<Node id="73"/>Organization<Node id="85"/>:<Node id="86"/> <Node id="87"/>Siemens-<Node id="95"/>Nixdorf<Node id="102"/> <Node id="103"/>AG<Node id="105"/>
+<Node id="106"/>Lines<Node id="111"/>:<Node id="112"/> <Node id="113"/>79<Node id="115"/>
+<Node id="116"/>Message-<Node id="124"/>ID<Node id="126"/>:<Node id="127"/> <Node id="128"/>&lt;<Node id="129"/>1<Node id="130"/>r<Node id="131"/>9<Node id="132"/>nfd<Node id="135"/>$<Node id="136"/>3<Node id="137"/>u<Node id="138"/>4<Node id="139"/>@<Node id="140"/>horus<Node id="145"/>.<Node id="146"/>ap<Node id="148"/>.<Node id="149"/>mchp<Node id="153"/>.<Node id="154"/>sni<Node id="157"/>.<Node id="158"/>de<Node id="160"/>&gt;<Node id="161"/>
+<Node id="162"/>References<Node id="172"/>:<Node id="173"/> <Node id="174"/>&lt;<Node id="175"/>sandvik-<Node id="183"/>200493232227<Node id="195"/>@<Node id="196"/>sandvik-kent<Node id="208"/>.<Node id="209"/>apple<Node id="214"/>.<Node id="215"/>com<Node id="218"/>&gt;<Node id="219"/> <Node id="220"/>&lt;<Node id="221"/>1<Node id="222"/>r<Node id="223"/>39<Node id="225"/>kh<Node id="227"/>$<Node id="228"/>itp<Node id="231"/>@<Node id="232"/>horus<Node id="237"/>.<Node id="238"/>ap<Node id="240"/>.<Node id="241"/>mchp<Node id="245"/>.<Node id="246"/>sni<Node id="249"/>.<Node id="250"/>de<Node id="252"/>&gt;<Node id="253"/> <Node id="254"/>&lt;<Node id="255"/>93112<Node id="260"/>.<Node id="261"/>164435<Node id="267"/>J<Node id="268"/>5<Node id="269"/>J<Node id="270"/>@<Node id="271"/>psuvm<Node id="276"/>.<Node id="277"/>psu<Node id="280"/>.<Node id="281"/>edu<Node id="284"/>&gt;<Node id="285"/>
+<Node id="286"/>NNTP-Posting-Host<Node id="303"/>:<Node id="304"/> <Node id="305"/>d<Node id="306"/>012<Node id="309"/>s<Node id="310"/>658<Node id="313"/>.<Node id="314"/>ap<Node id="316"/>.<Node id="317"/>mchp<Node id="321"/>.<Node id="322"/>sni<Node id="325"/>.<Node id="326"/>de<Node id="328"/>
+<Node id="329"/>
+<Node id="330"/>In<Node id="332"/> <Node id="333"/>article<Node id="340"/> <Node id="341"/>&lt;<Node id="342"/>93112<Node id="347"/>.<Node id="348"/>164435<Node id="354"/>J<Node id="355"/>5<Node id="356"/>J<Node id="357"/>@<Node id="358"/>psuvm<Node id="363"/>.<Node id="364"/>psu<Node id="367"/>.<Node id="368"/>edu<Node id="371"/>&gt;<Node id="372"/> <Node id="373"/>John<Node id="377"/> <Node id="378"/>A<Node id="379"/>.<Node id="380"/> <Node id="381"/>Johnson<Node id="388"/> <Node id="389"/>&lt;<Node id="390"/>J<Node id="391"/>5<Node id="392"/>J<Node id="393"/>@<Node id="394"/>psuvm<Node id="399"/>.<Node id="400"/>psu<Node id="403"/>.<Node id="404"/>edu<Node id="407"/>&gt;<Node id="408"/> <Node id="409"/>writes<Node id="415"/>:<Node id="416"/>
+<Node id="417"/>#<Node id="418"/>In<Node id="420"/> <Node id="421"/>article<Node id="428"/> <Node id="429"/>&lt;<Node id="430"/>1<Node id="431"/>r<Node id="432"/>39<Node id="434"/>kh<Node id="436"/>$<Node id="437"/>itp<Node id="440"/>@<Node id="441"/>horus<Node id="446"/>.<Node id="447"/>ap<Node id="449"/>.<Node id="450"/>mchp<Node id="454"/>.<Node id="455"/>sni<Node id="458"/>.<Node id="459"/>de<Node id="461"/>&gt;<Node id="462"/>,<Node id="463"/> <Node id="464"/>frank<Node id="469"/>@<Node id="470"/>D<Node id="471"/>012<Node id="474"/>S<Node id="475"/>658<Node id="478"/>.<Node id="479"/>uucp<Node id="483"/> <Node id="484"/>(<Node id="485"/>Frank<Node id="490"/>
+<Node id="491"/>#<Node id="492"/>O<Node id="493"/>'<Node id="494"/>Dwyer<Node id="499"/>)<Node id="500"/> <Node id="501"/>says<Node id="505"/>:<Node id="506"/>
+<Node id="507"/>#<Node id="508"/>&gt;<Node id="509"/>
+<Node id="510"/>#<Node id="511"/>[<Node id="512"/> <Node id="513"/>.<Node id="514"/> <Node id="515"/>.<Node id="516"/> <Node id="517"/>.<Node id="518"/>]<Node id="519"/>
+<Node id="520"/>#<Node id="521"/>&gt;<Node id="522"/>Specifically<Node id="534"/>,<Node id="535"/> <Node id="536"/>I<Node id="537"/>'d<Node id="539"/> <Node id="540"/>like<Node id="544"/> <Node id="545"/>to<Node id="547"/> <Node id="548"/>know<Node id="552"/> <Node id="553"/>what<Node id="557"/> <Node id="558"/>relativism<Node id="568"/> <Node id="569"/>concludes<Node id="578"/> <Node id="579"/>when<Node id="583"/> <Node id="584"/>two<Node id="587"/>
+<Node id="588"/>#<Node id="589"/>&gt;<Node id="590"/>people<Node id="596"/> <Node id="597"/>grotesquely<Node id="608"/> <Node id="609"/>disagree<Node id="617"/>.<Node id="618"/> <Node id="619"/> <Node id="620"/>Is<Node id="622"/> <Node id="623"/>it<Node id="625"/>:<Node id="626"/>
+<Node id="627"/>#<Node id="628"/>&gt;<Node id="629"/>
+<Node id="630"/>#<Node id="631"/>&gt;<Node id="632"/>(<Node id="633"/>a<Node id="634"/>)<Node id="635"/> <Node id="636"/>Both<Node id="640"/> <Node id="641"/>are<Node id="644"/> <Node id="645"/>right<Node id="650"/>
+<Node id="651"/>#<Node id="652"/>&gt;<Node id="653"/>
+<Node id="654"/>#<Node id="655"/>&gt;<Node id="656"/>(<Node id="657"/>b<Node id="658"/>)<Node id="659"/> <Node id="660"/>One<Node id="663"/> <Node id="664"/>of<Node id="666"/> <Node id="667"/>them<Node id="671"/> <Node id="672"/>is<Node id="674"/> <Node id="675"/>wrong<Node id="680"/>,<Node id="681"/> <Node id="682"/>and<Node id="685"/> <Node id="686"/>sometimes<Node id="695"/> <Node id="696"/>(<Node id="697"/>though<Node id="703"/> <Node id="704"/>perhaps<Node id="711"/> <Node id="712"/>rarely<Node id="718"/>)<Node id="719"/> <Node id="720"/>we<Node id="722"/> <Node id="723"/>have<Node id="727"/> <Node id="728"/>a<Node id="729"/>
+<Node id="730"/>#<Node id="731"/>&gt;<Node id="732"/> <Node id="733"/> <Node id="734"/> <Node id="735"/> <Node id="736"/>pretty<Node id="742"/> <Node id="743"/>good<Node id="747"/> <Node id="748"/>idea<Node id="752"/> <Node id="753"/>who<Node id="756"/> <Node id="757"/>it<Node id="759"/> <Node id="760"/>is<Node id="762"/>
+<Node id="763"/>#<Node id="764"/>&gt;<Node id="765"/>
+<Node id="766"/>#<Node id="767"/>&gt;<Node id="768"/>(<Node id="769"/>c<Node id="770"/>)<Node id="771"/> <Node id="772"/>One<Node id="775"/> <Node id="776"/>of<Node id="778"/> <Node id="779"/>them<Node id="783"/> <Node id="784"/>is<Node id="786"/> <Node id="787"/>wrong<Node id="792"/>,<Node id="793"/> <Node id="794"/>but<Node id="797"/> <Node id="798"/>we<Node id="800"/> <Node id="801"/>never<Node id="806"/> <Node id="807"/>have<Node id="811"/> <Node id="812"/>any<Node id="815"/> <Node id="816"/>information<Node id="827"/> <Node id="828"/>as<Node id="830"/> <Node id="831"/>to<Node id="833"/> <Node id="834"/>who<Node id="837"/>,<Node id="838"/> <Node id="839"/>so<Node id="841"/>
+<Node id="842"/>#<Node id="843"/>&gt;<Node id="844"/> <Node id="845"/> <Node id="846"/> <Node id="847"/> <Node id="848"/>we<Node id="850"/> <Node id="851"/>make<Node id="855"/> <Node id="856"/>our<Node id="859"/> <Node id="860"/>best<Node id="864"/> <Node id="865"/>guess<Node id="870"/> <Node id="871"/>if<Node id="873"/> <Node id="874"/>we<Node id="876"/> <Node id="877"/>really<Node id="883"/> <Node id="884"/>must<Node id="888"/> <Node id="889"/>make<Node id="893"/> <Node id="894"/>a<Node id="895"/> <Node id="896"/>decision<Node id="904"/>.<Node id="905"/>
+<Node id="906"/>#<Node id="907"/>&gt;<Node id="908"/>
+<Node id="909"/>#<Node id="910"/>&gt;<Node id="911"/>(<Node id="912"/>d<Node id="913"/>)<Node id="914"/> <Node id="915"/>The<Node id="918"/> <Node id="919"/>idea<Node id="923"/> <Node id="924"/>of<Node id="926"/> <Node id="927"/>a<Node id="928"/> <Node id="929"/>"<Node id="930"/>right<Node id="935"/>"<Node id="936"/> <Node id="937"/>moral<Node id="942"/> <Node id="943"/>judgement<Node id="952"/> <Node id="953"/>is<Node id="955"/> <Node id="956"/>meaningless<Node id="967"/> <Node id="968"/>(<Node id="969"/>implying<Node id="977"/> <Node id="978"/>that<Node id="982"/>
+<Node id="983"/>#<Node id="984"/>&gt;<Node id="985"/> <Node id="986"/> <Node id="987"/> <Node id="988"/> <Node id="989"/> <Node id="990"/>whether<Node id="997"/> <Node id="998"/>peace<Node id="1003"/> <Node id="1004"/>is<Node id="1006"/> <Node id="1007"/>better<Node id="1013"/> <Node id="1014"/>than<Node id="1018"/> <Node id="1019"/>war<Node id="1022"/>,<Node id="1023"/> <Node id="1024"/>e<Node id="1025"/>.<Node id="1026"/>g<Node id="1027"/>.<Node id="1028"/>,<Node id="1029"/> <Node id="1030"/>is<Node id="1032"/> <Node id="1033"/>a<Node id="1034"/> <Node id="1035"/>meaningless<Node id="1046"/> <Node id="1047"/>question<Node id="1055"/>,<Node id="1056"/>
+<Node id="1057"/>#<Node id="1058"/>&gt;<Node id="1059"/> <Node id="1060"/> <Node id="1061"/> <Node id="1062"/> <Node id="1063"/> <Node id="1064"/>and<Node id="1067"/> <Node id="1068"/>need<Node id="1072"/> <Node id="1073"/>not<Node id="1076"/> <Node id="1077"/>be<Node id="1079"/> <Node id="1080"/>discussed<Node id="1089"/> <Node id="1090"/>for<Node id="1093"/> <Node id="1094"/>it<Node id="1096"/> <Node id="1097"/>has<Node id="1100"/> <Node id="1101"/>no<Node id="1103"/> <Node id="1104"/>correct<Node id="1111"/> <Node id="1112"/>answer<Node id="1118"/>)<Node id="1119"/>
+<Node id="1120"/>#<Node id="1121"/>&gt;<Node id="1122"/>
+<Node id="1123"/>#<Node id="1124"/>&gt;<Node id="1125"/>(<Node id="1126"/>e<Node id="1127"/>)<Node id="1128"/> <Node id="1129"/>Something<Node id="1138"/> <Node id="1139"/>else<Node id="1143"/>.<Node id="1144"/> <Node id="1145"/> <Node id="1146"/>A<Node id="1147"/> <Node id="1148"/>short<Node id="1153"/>,<Node id="1154"/> <Node id="1155"/>positive<Node id="1163"/> <Node id="1164"/>assertion<Node id="1173"/> <Node id="1174"/>would<Node id="1179"/> <Node id="1180"/>be<Node id="1182"/> <Node id="1183"/>nice<Node id="1187"/>.<Node id="1188"/>
+<Node id="1189"/>#<Node id="1190"/>&gt;<Node id="1191"/>
+<Node id="1192"/>#<Node id="1193"/>&gt;<Node id="1194"/>As<Node id="1196"/> <Node id="1197"/>I<Node id="1198"/> <Node id="1199"/>hope<Node id="1203"/> <Node id="1204"/>you<Node id="1207"/> <Node id="1208"/>can<Node id="1211"/> <Node id="1212"/>tell<Node id="1216"/>,<Node id="1217"/> <Node id="1218"/>(<Node id="1219"/>b<Node id="1220"/>)<Node id="1221"/> <Node id="1222"/>and<Node id="1225"/> <Node id="1226"/>(<Node id="1227"/>c<Node id="1228"/>)<Node id="1229"/> <Node id="1230"/>are<Node id="1233"/> <Node id="1234"/>actually<Node id="1242"/> <Node id="1243"/>predicated<Node id="1253"/> <Node id="1254"/>on<Node id="1256"/>
+<Node id="1257"/>#<Node id="1258"/>&gt;<Node id="1259"/>the<Node id="1262"/> <Node id="1263"/>assumption<Node id="1273"/> <Node id="1274"/>that<Node id="1278"/> <Node id="1279"/>values<Node id="1285"/> <Node id="1286"/>are<Node id="1289"/> <Node id="1290"/>real<Node id="1294"/> <Node id="1295"/> <Node id="1296"/>-<Node id="1297"/> <Node id="1298"/>so<Node id="1300"/> <Node id="1301"/>statements<Node id="1311"/> <Node id="1312"/>like<Node id="1316"/> <Node id="1317"/>these<Node id="1322"/>
+<Node id="1323"/>#<Node id="1324"/>&gt;<Node id="1325"/>_<Node id="1326"/>ca<Node id="1328"/>n't<Node id="1331"/>_<Node id="1332"/> <Node id="1333"/>consistently<Node id="1345"/> <Node id="1346"/>derive<Node id="1352"/> <Node id="1353"/>from<Node id="1357"/> <Node id="1358"/>the<Node id="1361"/> <Node id="1362"/>relativist<Node id="1372"/> <Node id="1373"/>assumption<Node id="1383"/> <Node id="1384"/>that<Node id="1388"/> <Node id="1389"/>values<Node id="1395"/>
+<Node id="1396"/>#<Node id="1397"/>&gt;<Node id="1398"/>are<Node id="1401"/>n't<Node id="1404"/> <Node id="1405"/>part<Node id="1409"/> <Node id="1410"/>of<Node id="1412"/> <Node id="1413"/>objective<Node id="1422"/> <Node id="1423"/>reality<Node id="1430"/>.<Node id="1431"/>
+<Node id="1432"/>#<Node id="1433"/>
+<Node id="1434"/>#<Node id="1435"/>I<Node id="1436"/> <Node id="1437"/>am<Node id="1439"/> <Node id="1440"/>a<Node id="1441"/> <Node id="1442"/>relativist<Node id="1452"/> <Node id="1453"/>who<Node id="1456"/> <Node id="1457"/>would<Node id="1462"/> <Node id="1463"/>like<Node id="1467"/> <Node id="1468"/>to<Node id="1470"/> <Node id="1471"/>answer<Node id="1477"/> <Node id="1478"/>your<Node id="1482"/> <Node id="1483"/>question<Node id="1491"/>,<Node id="1492"/> <Node id="1493"/>but<Node id="1496"/> <Node id="1497"/>the<Node id="1500"/> <Node id="1501"/>way<Node id="1504"/> <Node id="1505"/>you<Node id="1508"/>
+<Node id="1509"/>#<Node id="1510"/>phrase<Node id="1516"/> <Node id="1517"/>the<Node id="1520"/> <Node id="1521"/>question<Node id="1529"/> <Node id="1530"/>makes<Node id="1535"/> <Node id="1536"/>it<Node id="1538"/> <Node id="1539"/>unanswerable<Node id="1551"/>.<Node id="1552"/> <Node id="1553"/> <Node id="1554"/>The<Node id="1557"/> <Node id="1558"/>concepts<Node id="1566"/> <Node id="1567"/>of<Node id="1569"/> <Node id="1570"/>"<Node id="1571"/>right<Node id="1576"/>"<Node id="1577"/>
+<Node id="1578"/>#<Node id="1579"/>and<Node id="1582"/> <Node id="1583"/>"<Node id="1584"/>wrong<Node id="1589"/>"<Node id="1590"/> <Node id="1591"/>(<Node id="1592"/>or<Node id="1594"/> <Node id="1595"/>"<Node id="1596"/>correct<Node id="1603"/>/<Node id="1604"/>incorrect<Node id="1613"/>"<Node id="1614"/> <Node id="1615"/>or<Node id="1617"/> <Node id="1618"/>"<Node id="1619"/>true<Node id="1623"/>/<Node id="1624"/>false<Node id="1629"/>"<Node id="1630"/>)<Node id="1631"/> <Node id="1632"/>belong<Node id="1638"/> <Node id="1639"/>to<Node id="1641"/> <Node id="1642"/>the<Node id="1645"/>
+<Node id="1646"/>#<Node id="1647"/>domain<Node id="1653"/> <Node id="1654"/>of<Node id="1656"/> <Node id="1657"/>epistemological<Node id="1672"/> <Node id="1673"/>rather<Node id="1679"/> <Node id="1680"/>than<Node id="1684"/> <Node id="1685"/>moral<Node id="1690"/> <Node id="1691"/>questions<Node id="1700"/>.<Node id="1701"/> <Node id="1702"/> <Node id="1703"/>It<Node id="1705"/> <Node id="1706"/>makes<Node id="1711"/> <Node id="1712"/>no<Node id="1714"/>
+<Node id="1715"/>#<Node id="1716"/>sense<Node id="1721"/> <Node id="1722"/>to<Node id="1724"/> <Node id="1725"/>ask<Node id="1728"/> <Node id="1729"/>if<Node id="1731"/> <Node id="1732"/>a<Node id="1733"/> <Node id="1734"/>moral<Node id="1739"/> <Node id="1740"/>position<Node id="1748"/> <Node id="1749"/>is<Node id="1751"/> <Node id="1752"/>right<Node id="1757"/> <Node id="1758"/>or<Node id="1760"/> <Node id="1761"/>wrong<Node id="1766"/>,<Node id="1767"/> <Node id="1768"/>although<Node id="1776"/> <Node id="1777"/>it<Node id="1779"/> <Node id="1780"/>is<Node id="1782"/>
+<Node id="1783"/>#<Node id="1784"/>legitimate<Node id="1794"/> <Node id="1795"/>to<Node id="1797"/> <Node id="1798"/>ask<Node id="1801"/> <Node id="1802"/>if<Node id="1804"/> <Node id="1805"/>it<Node id="1807"/> <Node id="1808"/>is<Node id="1810"/> <Node id="1811"/>good<Node id="1815"/> <Node id="1816"/>(<Node id="1817"/>or<Node id="1819"/> <Node id="1820"/>better<Node id="1826"/> <Node id="1827"/>than<Node id="1831"/> <Node id="1832"/>another<Node id="1839"/> <Node id="1840"/>position<Node id="1848"/>)<Node id="1849"/>.<Node id="1850"/>
+<Node id="1851"/>#<Node id="1852"/>
+<Node id="1853"/>#<Node id="1854"/>Let<Node id="1857"/> <Node id="1858"/>me<Node id="1860"/> <Node id="1861"/>illustrate<Node id="1871"/> <Node id="1872"/>this<Node id="1876"/> <Node id="1877"/>point<Node id="1882"/> <Node id="1883"/>by<Node id="1885"/> <Node id="1886"/>looking<Node id="1893"/> <Node id="1894"/>at<Node id="1896"/> <Node id="1897"/>the<Node id="1900"/> <Node id="1901"/>psychological<Node id="1914"/> <Node id="1915"/>derivatives<Node id="1926"/>
+<Node id="1927"/>#<Node id="1928"/>of<Node id="1930"/> <Node id="1931"/>epistemology<Node id="1943"/> <Node id="1944"/>and<Node id="1947"/> <Node id="1948"/>ethics<Node id="1954"/>:<Node id="1955"/> <Node id="1956"/> <Node id="1957"/>perception<Node id="1967"/> <Node id="1968"/>and<Node id="1971"/> <Node id="1972"/>motivation<Node id="1982"/>,<Node id="1983"/> <Node id="1984"/>respectively<Node id="1996"/>.<Node id="1997"/>
+<Node id="1998"/>#<Node id="1999"/>One<Node id="2002"/> <Node id="2003"/>can<Node id="2006"/> <Node id="2007"/>certainly<Node id="2016"/> <Node id="2017"/>ask<Node id="2020"/> <Node id="2021"/>if<Node id="2023"/> <Node id="2024"/>a<Node id="2025"/> <Node id="2026"/>percept<Node id="2033"/> <Node id="2034"/>is<Node id="2036"/> <Node id="2037"/>"<Node id="2038"/>right<Node id="2043"/>"<Node id="2044"/> <Node id="2045"/>(<Node id="2046"/>correct<Node id="2053"/>,<Node id="2054"/> <Node id="2055"/>true<Node id="2059"/>,<Node id="2060"/>
+<Node id="2061"/>#<Node id="2062"/>veridical<Node id="2071"/>)<Node id="2072"/> <Node id="2073"/>or<Node id="2075"/> <Node id="2076"/>"<Node id="2077"/>wrong<Node id="2082"/>"<Node id="2083"/> <Node id="2084"/>(<Node id="2085"/>incorrect<Node id="2094"/>,<Node id="2095"/> <Node id="2096"/>false<Node id="2101"/>,<Node id="2102"/> <Node id="2103"/>illusory<Node id="2111"/>)<Node id="2112"/>.<Node id="2113"/> <Node id="2114"/> <Node id="2115"/>But<Node id="2118"/> <Node id="2119"/>it<Node id="2121"/> <Node id="2122"/>makes<Node id="2127"/> <Node id="2128"/>little<Node id="2134"/>
+<Node id="2135"/>#<Node id="2136"/>sense<Node id="2141"/> <Node id="2142"/>to<Node id="2144"/> <Node id="2145"/>ask<Node id="2148"/> <Node id="2149"/>if<Node id="2151"/> <Node id="2152"/>a<Node id="2153"/> <Node id="2154"/>motive<Node id="2160"/> <Node id="2161"/>is<Node id="2163"/> <Node id="2164"/>true<Node id="2168"/> <Node id="2169"/>or<Node id="2171"/> <Node id="2172"/>false<Node id="2177"/>.<Node id="2178"/> <Node id="2179"/> <Node id="2180"/>On<Node id="2182"/> <Node id="2183"/>the<Node id="2186"/> <Node id="2187"/>other<Node id="2192"/> <Node id="2193"/>hand<Node id="2197"/>,<Node id="2198"/> <Node id="2199"/>it<Node id="2201"/> <Node id="2202"/>is<Node id="2204"/>
+<Node id="2205"/>#<Node id="2206"/>strange<Node id="2213"/> <Node id="2214"/>to<Node id="2216"/> <Node id="2217"/>ask<Node id="2220"/> <Node id="2221"/>whether<Node id="2228"/> <Node id="2229"/>a<Node id="2230"/> <Node id="2231"/>percept<Node id="2238"/> <Node id="2239"/>is<Node id="2241"/> <Node id="2242"/>morally<Node id="2249"/> <Node id="2250"/>good<Node id="2254"/> <Node id="2255"/>or<Node id="2257"/> <Node id="2258"/>evil<Node id="2262"/>,<Node id="2263"/> <Node id="2264"/>but<Node id="2267"/> <Node id="2268"/>one<Node id="2271"/> <Node id="2272"/>can<Node id="2275"/>
+<Node id="2276"/>#<Node id="2277"/>certainly<Node id="2286"/> <Node id="2287"/>ask<Node id="2290"/> <Node id="2291"/>that<Node id="2295"/> <Node id="2296"/>question<Node id="2304"/> <Node id="2305"/>about<Node id="2310"/> <Node id="2311"/>motives<Node id="2318"/>.<Node id="2319"/>
+<Node id="2320"/>#<Node id="2321"/>
+<Node id="2322"/>#<Node id="2323"/>Therefore<Node id="2332"/>,<Node id="2333"/> <Node id="2334"/>your<Node id="2338"/> <Node id="2339"/>suggested<Node id="2348"/> <Node id="2349"/>answers<Node id="2356"/> <Node id="2357"/>(<Node id="2358"/>a<Node id="2359"/>)<Node id="2360"/>-<Node id="2361"/>(<Node id="2362"/>c<Node id="2363"/>)<Node id="2364"/> <Node id="2365"/>simply<Node id="2371"/> <Node id="2372"/>ca<Node id="2374"/>n't<Node id="2377"/> <Node id="2378"/>be<Node id="2380"/> <Node id="2381"/>considered<Node id="2391"/>:<Node id="2392"/>
+<Node id="2393"/>#<Node id="2394"/>they<Node id="2398"/> <Node id="2399"/>assume<Node id="2405"/> <Node id="2406"/>you<Node id="2409"/> <Node id="2410"/>can<Node id="2413"/> <Node id="2414"/>judge<Node id="2419"/> <Node id="2420"/>the<Node id="2423"/> <Node id="2424"/>correctness<Node id="2435"/> <Node id="2436"/>of<Node id="2438"/> <Node id="2439"/>a<Node id="2440"/> <Node id="2441"/>moral<Node id="2446"/> <Node id="2447"/>judgment<Node id="2455"/>.<Node id="2456"/>
+<Node id="2457"/>
+<Node id="2458"/>True<Node id="2462"/>,<Node id="2463"/> <Node id="2464"/>by<Node id="2466"/> <Node id="2467"/>"<Node id="2468"/>correct<Node id="2475"/>"<Node id="2476"/> <Node id="2477"/>I<Node id="2478"/> <Node id="2479"/>mean<Node id="2483"/> <Node id="2484"/>"<Node id="2485"/>the<Node id="2488"/> <Node id="2489"/>thing<Node id="2494"/> <Node id="2495"/>valued<Node id="2501"/> <Node id="2502"/>is<Node id="2504"/> <Node id="2505"/>really<Node id="2511"/> <Node id="2512"/>good<Node id="2516"/>"<Node id="2517"/>.<Node id="2518"/> <Node id="2519"/> <Node id="2520"/>I<Node id="2521"/> <Node id="2522"/>should<Node id="2528"/>
+<Node id="2529"/>use<Node id="2532"/> <Node id="2533"/>evaluative<Node id="2543"/> <Node id="2544"/>terms<Node id="2549"/>,<Node id="2550"/> <Node id="2551"/>but<Node id="2554"/> <Node id="2555"/>I<Node id="2556"/> <Node id="2557"/>do<Node id="2559"/>n't<Node id="2562"/> <Node id="2563"/>always<Node id="2569"/>.<Node id="2570"/> <Node id="2571"/> <Node id="2572"/>Sorry<Node id="2577"/> <Node id="2578"/>for<Node id="2581"/> <Node id="2582"/>the<Node id="2585"/> <Node id="2586"/>sloppy<Node id="2592"/> <Node id="2593"/>phrasing<Node id="2601"/>.<Node id="2602"/>
+<Node id="2603"/>Can<Node id="2606"/> <Node id="2607"/>you<Node id="2610"/> <Node id="2611"/>answer<Node id="2617"/> <Node id="2618"/>if<Node id="2620"/> <Node id="2621"/>"<Node id="2622"/>betterness<Node id="2632"/>"<Node id="2633"/> <Node id="2634"/>is<Node id="2636"/> <Node id="2637"/>used<Node id="2641"/> <Node id="2642"/>in<Node id="2644"/> <Node id="2645"/>in<Node id="2647"/> <Node id="2648"/>place<Node id="2653"/> <Node id="2654"/>of<Node id="2656"/> <Node id="2657"/>@<Node id="2658"/>correctness<Node id="2669"/>"<Node id="2670"/>?<Node id="2671"/>
+<Node id="2672"/>#<Node id="2673"/>
+<Node id="2674"/>#<Node id="2675"/>Now<Node id="2678"/> <Node id="2679"/>the<Node id="2682"/> <Node id="2683"/>problem<Node id="2690"/> <Node id="2691"/>with<Node id="2695"/> <Node id="2696"/>(<Node id="2697"/>d<Node id="2698"/>)<Node id="2699"/> <Node id="2700"/>is<Node id="2702"/> <Node id="2703"/>that<Node id="2707"/> <Node id="2708"/>it<Node id="2710"/> <Node id="2711"/>is<Node id="2713"/> <Node id="2714"/>double-barrelled<Node id="2730"/>:<Node id="2731"/> <Node id="2732"/> <Node id="2733"/>I<Node id="2734"/> <Node id="2735"/>agree<Node id="2740"/> <Node id="2741"/>with<Node id="2745"/>
+<Node id="2746"/>#<Node id="2747"/>the<Node id="2750"/> <Node id="2751"/>first<Node id="2756"/> <Node id="2757"/>part<Node id="2761"/> <Node id="2762"/>(<Node id="2763"/>that<Node id="2767"/> <Node id="2768"/>the<Node id="2771"/> <Node id="2772"/>"<Node id="2773"/>rightness<Node id="2782"/>"<Node id="2783"/> <Node id="2784"/>of<Node id="2786"/> <Node id="2787"/>a<Node id="2788"/> <Node id="2789"/>moral<Node id="2794"/> <Node id="2795"/>position<Node id="2803"/> <Node id="2804"/>is<Node id="2806"/> <Node id="2807"/>a<Node id="2808"/>
+<Node id="2809"/>#<Node id="2810"/>meaningless<Node id="2821"/> <Node id="2822"/>question<Node id="2830"/>)<Node id="2831"/>,<Node id="2832"/> <Node id="2833"/>for<Node id="2836"/> <Node id="2837"/>the<Node id="2840"/> <Node id="2841"/>reasons<Node id="2848"/> <Node id="2849"/>stated<Node id="2855"/> <Node id="2856"/>above<Node id="2861"/>.<Node id="2862"/> <Node id="2863"/> <Node id="2864"/>But<Node id="2867"/> <Node id="2868"/>that<Node id="2872"/> <Node id="2873"/>is<Node id="2875"/>
+<Node id="2876"/>#<Node id="2877"/>irrelevant<Node id="2887"/> <Node id="2888"/>to<Node id="2890"/> <Node id="2891"/>the<Node id="2894"/> <Node id="2895"/>alleged<Node id="2902"/> <Node id="2903"/>implication<Node id="2914"/> <Node id="2915"/>(<Node id="2916"/>not<Node id="2919"/> <Node id="2920"/>an<Node id="2922"/> <Node id="2923"/>implication<Node id="2934"/> <Node id="2935"/>at<Node id="2937"/> <Node id="2938"/>all<Node id="2941"/>)<Node id="2942"/> <Node id="2943"/>that<Node id="2947"/>
+<Node id="2948"/>#<Node id="2949"/>one<Node id="2952"/> <Node id="2953"/>can<Node id="2956"/>not<Node id="2959"/> <Node id="2960"/>feel<Node id="2964"/> <Node id="2965"/>peace<Node id="2970"/> <Node id="2971"/>is<Node id="2973"/> <Node id="2974"/>better<Node id="2980"/> <Node id="2981"/>than<Node id="2985"/> <Node id="2986"/>war<Node id="2989"/>.<Node id="2990"/> <Node id="2991"/> <Node id="2992"/>I<Node id="2993"/> <Node id="2994"/>certainly<Node id="3003"/> <Node id="3004"/>can<Node id="3007"/> <Node id="3008"/>make<Node id="3012"/>
+<Node id="3013"/>#<Node id="3014"/>value<Node id="3019"/> <Node id="3020"/>judgments<Node id="3029"/> <Node id="3030"/>(<Node id="3031"/>bad<Node id="3034"/>,<Node id="3035"/> <Node id="3036"/>better<Node id="3042"/>,<Node id="3043"/> <Node id="3044"/>best<Node id="3048"/>)<Node id="3049"/> <Node id="3050"/>without<Node id="3057"/> <Node id="3058"/>asserting<Node id="3067"/> <Node id="3068"/>the<Node id="3071"/> <Node id="3072"/>"<Node id="3073"/>correctness<Node id="3084"/>"<Node id="3085"/>
+<Node id="3086"/>#<Node id="3087"/>of<Node id="3089"/> <Node id="3090"/>the<Node id="3093"/> <Node id="3094"/>position<Node id="3102"/>.<Node id="3103"/>
+<Node id="3104"/>
+<Node id="3105"/>You<Node id="3108"/> <Node id="3109"/>can<Node id="3112"/> <Node id="3113"/>never<Node id="3118"/> <Node id="3119"/>say<Node id="3122"/> <Node id="3123"/>that<Node id="3127"/> <Node id="3128"/>the<Node id="3131"/> <Node id="3132"/>thing<Node id="3137"/> <Node id="3138"/>is<Node id="3140"/> <Node id="3141"/>@<Node id="3142"/>really<Node id="3148"/> <Node id="3149"/>better<Node id="3155"/>@<Node id="3156"/>,<Node id="3157"/> <Node id="3158"/>or<Node id="3160"/> <Node id="3161"/>"<Node id="3162"/>more<Node id="3166"/> <Node id="3167"/>likely<Node id="3173"/>
+<Node id="3174"/>to<Node id="3176"/> <Node id="3177"/>better<Node id="3183"/>,<Node id="3184"/> <Node id="3185"/>from<Node id="3189"/> <Node id="3190"/>all<Node id="3193"/> <Node id="3194"/>realistic<Node id="3203"/> <Node id="3204"/>frames<Node id="3210"/> <Node id="3211"/>of<Node id="3213"/> <Node id="3214"/>reference<Node id="3223"/>"<Node id="3224"/>?<Node id="3225"/>
+<Node id="3226"/>
+<Node id="3227"/>#<Node id="3228"/>
+<Node id="3229"/>#<Node id="3230"/>Sorry<Node id="3235"/> <Node id="3236"/>for<Node id="3239"/> <Node id="3240"/>the<Node id="3243"/> <Node id="3244"/>lengthy<Node id="3251"/> <Node id="3252"/>dismissal<Node id="3261"/> <Node id="3262"/>of<Node id="3264"/> <Node id="3265"/>(<Node id="3266"/>a<Node id="3267"/>)<Node id="3268"/>-<Node id="3269"/>(<Node id="3270"/>d<Node id="3271"/>)<Node id="3272"/>.<Node id="3273"/> <Node id="3274"/> <Node id="3275"/>My<Node id="3277"/> <Node id="3278"/>short<Node id="3283"/> <Node id="3284"/>(<Node id="3285"/>e<Node id="3286"/>)<Node id="3287"/> <Node id="3288"/>answer<Node id="3294"/> <Node id="3295"/>is<Node id="3297"/>
+<Node id="3298"/>#<Node id="3299"/>that<Node id="3303"/> <Node id="3304"/>when<Node id="3308"/> <Node id="3309"/>two<Node id="3312"/> <Node id="3313"/>individuals<Node id="3324"/> <Node id="3325"/>grotesquely<Node id="3336"/> <Node id="3337"/>disagree<Node id="3345"/> <Node id="3346"/>on<Node id="3348"/> <Node id="3349"/>a<Node id="3350"/> <Node id="3351"/>moral<Node id="3356"/> <Node id="3357"/>issue<Node id="3362"/>,<Node id="3363"/>
+<Node id="3364"/>#<Node id="3365"/>neither<Node id="3372"/> <Node id="3373"/>is<Node id="3375"/> <Node id="3376"/>right<Node id="3381"/> <Node id="3382"/>(<Node id="3383"/>correct<Node id="3390"/>)<Node id="3391"/> <Node id="3392"/>or<Node id="3394"/> <Node id="3395"/>wrong<Node id="3400"/> <Node id="3401"/>(<Node id="3402"/>incorrect<Node id="3411"/>)<Node id="3412"/>.<Node id="3413"/> <Node id="3414"/> <Node id="3415"/>They<Node id="3419"/> <Node id="3420"/>simply<Node id="3426"/> <Node id="3427"/>hold<Node id="3431"/>
+<Node id="3432"/>#<Node id="3433"/>different<Node id="3442"/> <Node id="3443"/>moral<Node id="3448"/> <Node id="3449"/>values<Node id="3455"/> <Node id="3456"/>(<Node id="3457"/>feelings<Node id="3465"/>)<Node id="3466"/>.<Node id="3467"/>
+<Node id="3468"/>
+<Node id="3469"/>This<Node id="3473"/> <Node id="3474"/>is<Node id="3476"/> <Node id="3477"/>where<Node id="3482"/> <Node id="3483"/>my<Node id="3485"/> <Node id="3486"/>difficulty<Node id="3496"/> <Node id="3497"/>arises<Node id="3503"/>,<Node id="3504"/> <Node id="3505"/>though<Node id="3511"/> <Node id="3512"/>I<Node id="3513"/>'m<Node id="3515"/> <Node id="3516"/>starting<Node id="3524"/> <Node id="3525"/>to<Node id="3527"/> <Node id="3528"/>get<Node id="3531"/>
+<Node id="3532"/>in<Node id="3534"/> <Node id="3535"/>now<Node id="3538"/>.<Node id="3539"/> <Node id="3540"/> <Node id="3541"/>The<Node id="3544"/> <Node id="3545"/>thing<Node id="3550"/> <Node id="3551"/>is<Node id="3553"/>,<Node id="3554"/> <Node id="3555"/>there<Node id="3560"/> <Node id="3561"/>is<Node id="3563"/>n't<Node id="3566"/> <Node id="3567"/>anything<Node id="3575"/> <Node id="3576"/>simple<Node id="3582"/> <Node id="3583"/>about<Node id="3588"/> <Node id="3589"/>different<Node id="3598"/>
+<Node id="3599"/>moral<Node id="3604"/> <Node id="3605"/>values<Node id="3611"/>,<Node id="3612"/> <Node id="3613"/>when<Node id="3617"/> <Node id="3618"/>those<Node id="3623"/> <Node id="3624"/>values<Node id="3630"/> <Node id="3631"/>are<Node id="3634"/> <Node id="3635"/>human<Node id="3640"/> <Node id="3641"/>rights<Node id="3647"/>.<Node id="3648"/>
+<Node id="3649"/>
+<Node id="3650"/>#<Node id="3651"/>"<Node id="3652"/>A<Node id="3653"/> <Node id="3654"/>ruthless<Node id="3662"/>,<Node id="3663"/> <Node id="3664"/>doctrinaire<Node id="3675"/> <Node id="3676"/>avoidance<Node id="3685"/> <Node id="3686"/>of<Node id="3688"/> <Node id="3689"/>degeneracy<Node id="3699"/> <Node id="3700"/>is<Node id="3702"/> <Node id="3703"/>a<Node id="3704"/> <Node id="3705"/>degeneracy<Node id="3715"/> <Node id="3716"/>of<Node id="3718"/>
+<Node id="3719"/>#<Node id="3720"/> <Node id="3721"/>another<Node id="3728"/> <Node id="3729"/>sort<Node id="3733"/>.<Node id="3734"/> <Node id="3735"/> <Node id="3736"/>Getting<Node id="3743"/> <Node id="3744"/>drunk<Node id="3749"/> <Node id="3750"/>and<Node id="3753"/> <Node id="3754"/>picking<Node id="3761"/> <Node id="3762"/>up<Node id="3764"/> <Node id="3765"/>bar-ladies<Node id="3775"/> <Node id="3776"/>and<Node id="3779"/> <Node id="3780"/>writing<Node id="3787"/>
+<Node id="3788"/>#<Node id="3789"/> <Node id="3790"/>metaphysics<Node id="3801"/> <Node id="3802"/>is<Node id="3804"/> <Node id="3805"/>a<Node id="3806"/> <Node id="3807"/>part<Node id="3811"/> <Node id="3812"/>of<Node id="3814"/> <Node id="3815"/>life<Node id="3819"/>.<Node id="3820"/>"<Node id="3821"/> <Node id="3822"/> <Node id="3823"/>-<Node id="3824"/> <Node id="3825"/>from<Node id="3829"/> <Node id="3830"/>_<Node id="3831"/>Lila<Node id="3835"/>_<Node id="3836"/> <Node id="3837"/>by<Node id="3839"/> <Node id="3840"/>R<Node id="3841"/>.<Node id="3842"/> <Node id="3843"/>Pirsig<Node id="3849"/>
+<Node id="3850"/>
+<Node id="3851"/>Peculiar<Node id="3859"/> <Node id="3860"/>-<Node id="3861"/> <Node id="3862"/>you<Node id="3865"/>'re<Node id="3868"/> <Node id="3869"/>getting<Node id="3876"/> <Node id="3877"/>relativism<Node id="3887"/> <Node id="3888"/>from<Node id="3892"/> <Node id="3893"/>this<Node id="3897"/>,<Node id="3898"/> <Node id="3899"/>I<Node id="3900"/>'m<Node id="3902"/> <Node id="3903"/>getting<Node id="3910"/>
+<Node id="3911"/>objectivism<Node id="3922"/> <Node id="3923"/>:<Node id="3924"/>-<Node id="3925"/>)<Node id="3926"/> <Node id="3927"/> <Node id="3928"/>Good<Node id="3932"/> <Node id="3933"/>book<Node id="3937"/>,<Node id="3938"/> <Node id="3939"/>though<Node id="3945"/>,<Node id="3946"/> <Node id="3947"/>and<Node id="3950"/> <Node id="3951"/>a<Node id="3952"/> <Node id="3953"/>good<Node id="3957"/> <Node id="3958"/>quote<Node id="3963"/>.<Node id="3964"/>
+<Node id="3965"/>-<Node id="3966"/>-<Node id="3967"/> <Node id="3968"/>
+<Node id="3969"/>Frank<Node id="3974"/> <Node id="3975"/>O<Node id="3976"/>'<Node id="3977"/>Dwyer<Node id="3982"/> <Node id="3983"/> <Node id="3984"/> <Node id="3985"/> <Node id="3986"/> <Node id="3987"/> <Node id="3988"/> <Node id="3989"/> <Node id="3990"/> <Node id="3991"/> <Node id="3992"/> <Node id="3993"/> <Node id="3994"/> <Node id="3995"/> <Node id="3996"/> <Node id="3997"/> <Node id="3998"/> <Node id="3999"/> <Node id="4000"/> <Node id="4001"/> <Node id="4002"/> <Node id="4003"/> <Node id="4004"/> <Node id="4005"/> <Node id="4006"/> <Node id="4007"/> <Node id="4008"/> <Node id="4009"/> <Node id="4010"/> <Node id="4011"/> <Node id="4012"/> <Node id="4013"/> <Node id="4014"/> <Node id="4015"/> <Node id="4016"/>'<Node id="4017"/>I<Node id="4018"/>'m<Node id="4020"/> <Node id="4021"/>not<Node id="4024"/> <Node id="4025"/>hatching<Node id="4033"/> <Node id="4034"/>That<Node id="4038"/>'<Node id="4039"/>
+<Node id="4040"/>odwyer<Node id="4046"/>@<Node id="4047"/>sse<Node id="4050"/>.<Node id="4051"/>ie<Node id="4053"/> <Node id="4054"/> <Node id="4055"/> <Node id="4056"/> <Node id="4057"/> <Node id="4058"/> <Node id="4059"/> <Node id="4060"/> <Node id="4061"/> <Node id="4062"/> <Node id="4063"/> <Node id="4064"/> <Node id="4065"/> <Node id="4066"/> <Node id="4067"/> <Node id="4068"/> <Node id="4069"/> <Node id="4070"/> <Node id="4071"/> <Node id="4072"/> <Node id="4073"/> <Node id="4074"/> <Node id="4075"/> <Node id="4076"/> <Node id="4077"/> <Node id="4078"/> <Node id="4079"/> <Node id="4080"/> <Node id="4081"/> <Node id="4082"/> <Node id="4083"/> <Node id="4084"/> <Node id="4085"/> <Node id="4086"/> <Node id="4087"/>from<Node id="4091"/> <Node id="4092"/>"<Node id="4093"/>Hens<Node id="4097"/>"<Node id="4098"/>,<Node id="4099"/> <Node id="4100"/> <Node id="4101"/>by<Node id="4103"/> <Node id="4104"/>Evelyn<Node id="4110"/> <Node id="4111"/>Conlon<Node id="4117"/>
+<Node id="4118"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="4118" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="37" Type="Token" StartNode="73" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Token" StartNode="87" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Siemens-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Token" StartNode="95" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Nixdorf</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="Token" StartNode="116" EndNode="124">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="Token" StartNode="175" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sandvik-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="Token" StartNode="162" EndNode="172">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="Token" StartNode="183" EndNode="195">
+</Annotation>
+<Annotation Id="82" Type="Token" StartNode="196" EndNode="208">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sandvik-kent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="111" Type="Token" StartNode="261" EndNode="267">
+</Annotation>
+<Annotation Id="123" Type="Token" StartNode="286" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">NNTP-Posting-Host</Value>
+</Feature>
+</Annotation>
+<Annotation Id="142" Type="Token" StartNode="333" EndNode="340">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">article</Value>
+</Feature>
+</Annotation>
+<Annotation Id="147" Type="Token" StartNode="348" EndNode="354">
+</Annotation>
+<Annotation Id="164" Type="Token" StartNode="381" EndNode="388">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Johnson</Value>
+</Feature>
+</Annotation>
+<Annotation Id="184" Type="Token" StartNode="421" EndNode="428">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">article</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="409" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">writes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="242" Type="Token" StartNode="522" EndNode="534">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Specifically</Value>
+</Feature>
+</Annotation>
+<Annotation Id="259" Type="Token" StartNode="569" EndNode="578">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">concludes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="257" Type="Token" StartNode="558" EndNode="568">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">relativism</Value>
+</Feature>
+</Annotation>
+<Annotation Id="267" Type="Token" StartNode="590" EndNode="596">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">people</Value>
+</Feature>
+</Annotation>
+<Annotation Id="271" Type="Token" StartNode="609" EndNode="617">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">disagree</Value>
+</Feature>
+</Annotation>
+<Annotation Id="269" Type="Token" StartNode="597" EndNode="608">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">grotesquely</Value>
+</Feature>
+</Annotation>
+<Annotation Id="317" Type="Token" StartNode="686" EndNode="695">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sometimes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="339" Type="Token" StartNode="736" EndNode="742">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">pretty</Value>
+</Feature>
+</Annotation>
+<Annotation Id="324" Type="Token" StartNode="712" EndNode="718">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rarely</Value>
+</Feature>
+</Annotation>
+<Annotation Id="322" Type="Token" StartNode="704" EndNode="711">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">perhaps</Value>
+</Feature>
+</Annotation>
+<Annotation Id="320" Type="Token" StartNode="697" EndNode="703">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">though</Value>
+</Feature>
+</Annotation>
+<Annotation Id="381" Type="Token" StartNode="816" EndNode="827">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">information</Value>
+</Feature>
+</Annotation>
+<Annotation Id="412" Type="Token" StartNode="877" EndNode="883">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">really</Value>
+</Feature>
+</Annotation>
+<Annotation Id="446" Type="Token" StartNode="943" EndNode="952">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">judgement</Value>
+</Feature>
+</Annotation>
+<Annotation Id="420" Type="Token" StartNode="896" EndNode="904">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">decision</Value>
+</Feature>
+</Annotation>
+<Annotation Id="470" Type="Token" StartNode="1007" EndNode="1013">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">better</Value>
+</Feature>
+</Annotation>
+<Annotation Id="464" Type="Token" StartNode="990" EndNode="997">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">whether</Value>
+</Feature>
+</Annotation>
+<Annotation Id="453" Type="Token" StartNode="969" EndNode="977">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">implying</Value>
+</Feature>
+</Annotation>
+<Annotation Id="450" Type="Token" StartNode="956" EndNode="967">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">meaningless</Value>
+</Feature>
+</Annotation>
+<Annotation Id="507" Type="Token" StartNode="1080" EndNode="1089">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">discussed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="489" Type="Token" StartNode="1047" EndNode="1055">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">question</Value>
+</Feature>
+</Annotation>
+<Annotation Id="487" Type="Token" StartNode="1035" EndNode="1046">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">meaningless</Value>
+</Feature>
+</Annotation>
+<Annotation Id="544" Type="Token" StartNode="1164" EndNode="1173">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">assertion</Value>
+</Feature>
+</Annotation>
+<Annotation Id="517" Type="Token" StartNode="1104" EndNode="1111">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="519" Type="Token" StartNode="1112" EndNode="1118">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">answer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="531" Type="Token" StartNode="1129" EndNode="1138">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Something</Value>
+</Feature>
+</Annotation>
+<Annotation Id="542" Type="Token" StartNode="1155" EndNode="1163">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="608" Type="Token" StartNode="1301" EndNode="1311">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">statements</Value>
+</Feature>
+</Annotation>
+<Annotation Id="622" Type="Token" StartNode="1333" EndNode="1345">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">consistently</Value>
+</Feature>
+</Annotation>
+<Annotation Id="624" Type="Token" StartNode="1346" EndNode="1352">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">derive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="630" Type="Token" StartNode="1362" EndNode="1372">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">relativist</Value>
+</Feature>
+</Annotation>
+<Annotation Id="632" Type="Token" StartNode="1373" EndNode="1383">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">assumption</Value>
+</Feature>
+</Annotation>
+<Annotation Id="636" Type="Token" StartNode="1389" EndNode="1395">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">values</Value>
+</Feature>
+</Annotation>
+<Annotation Id="583" Type="Token" StartNode="1234" EndNode="1242">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">actually</Value>
+</Feature>
+</Annotation>
+<Annotation Id="585" Type="Token" StartNode="1243" EndNode="1253">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">predicated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="593" Type="Token" StartNode="1263" EndNode="1273">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">assumption</Value>
+</Feature>
+</Annotation>
+<Annotation Id="597" Type="Token" StartNode="1279" EndNode="1285">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">values</Value>
+</Feature>
+</Annotation>
+<Annotation Id="676" Type="Token" StartNode="1483" EndNode="1491">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">question</Value>
+</Feature>
+</Annotation>
+<Annotation Id="672" Type="Token" StartNode="1471" EndNode="1477">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">answer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="698" Type="Token" StartNode="1539" EndNode="1551">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">unanswerable</Value>
+</Feature>
+</Annotation>
+<Annotation Id="692" Type="Token" StartNode="1521" EndNode="1529">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">question</Value>
+</Feature>
+</Annotation>
+<Annotation Id="688" Type="Token" StartNode="1510" EndNode="1516">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">phrase</Value>
+</Feature>
+</Annotation>
+<Annotation Id="648" Type="Token" StartNode="1413" EndNode="1422">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">objective</Value>
+</Feature>
+</Annotation>
+<Annotation Id="650" Type="Token" StartNode="1423" EndNode="1430">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reality</Value>
+</Feature>
+</Annotation>
+<Annotation Id="662" Type="Token" StartNode="1442" EndNode="1452">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">relativist</Value>
+</Feature>
+</Annotation>
+<Annotation Id="744" Type="Token" StartNode="1647" EndNode="1653">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">domain</Value>
+</Feature>
+</Annotation>
+<Annotation Id="750" Type="Token" StartNode="1673" EndNode="1679">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rather</Value>
+</Feature>
+</Annotation>
+<Annotation Id="748" Type="Token" StartNode="1657" EndNode="1672">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">epistemological</Value>
+</Feature>
+</Annotation>
+<Annotation Id="737" Type="Token" StartNode="1632" EndNode="1638">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">belong</Value>
+</Feature>
+</Annotation>
+<Annotation Id="756" Type="Token" StartNode="1691" EndNode="1700">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">questions</Value>
+</Feature>
+</Annotation>
+<Annotation Id="704" Type="Token" StartNode="1558" EndNode="1566">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">concepts</Value>
+</Feature>
+</Annotation>
+<Annotation Id="723" Type="Token" StartNode="1596" EndNode="1603">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="725" Type="Token" StartNode="1604" EndNode="1613">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">incorrect</Value>
+</Feature>
+</Annotation>
+<Annotation Id="820" Type="Token" StartNode="1840" EndNode="1848">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="818" Type="Token" StartNode="1832" EndNode="1839">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">another</Value>
+</Feature>
+</Annotation>
+<Annotation Id="831" Type="Token" StartNode="1861" EndNode="1871">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">illustrate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="814" Type="Token" StartNode="1820" EndNode="1826">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">better</Value>
+</Feature>
+</Annotation>
+<Annotation Id="790" Type="Token" StartNode="1768" EndNode="1776">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">although</Value>
+</Feature>
+</Annotation>
+<Annotation Id="797" Type="Token" StartNode="1784" EndNode="1794">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">legitimate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="779" Type="Token" StartNode="1740" EndNode="1748">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="883" Type="Token" StartNode="2026" EndNode="2033">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">percept</Value>
+</Feature>
+</Annotation>
+<Annotation Id="892" Type="Token" StartNode="2046" EndNode="2053">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="864" Type="Token" StartNode="1972" EndNode="1982">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">motivation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="867" Type="Token" StartNode="1984" EndNode="1996">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">respectively</Value>
+</Feature>
+</Annotation>
+<Annotation Id="875" Type="Token" StartNode="2007" EndNode="2016">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">certainly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="852" Type="Token" StartNode="1931" EndNode="1943">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">epistemology</Value>
+</Feature>
+</Annotation>
+<Annotation Id="856" Type="Token" StartNode="1948" EndNode="1954">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ethics</Value>
+</Feature>
+</Annotation>
+<Annotation Id="860" Type="Token" StartNode="1957" EndNode="1967">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">perception</Value>
+</Feature>
+</Annotation>
+<Annotation Id="839" Type="Token" StartNode="1886" EndNode="1893">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">looking</Value>
+</Feature>
+</Annotation>
+<Annotation Id="847" Type="Token" StartNode="1915" EndNode="1926">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">derivatives</Value>
+</Feature>
+</Annotation>
+<Annotation Id="845" Type="Token" StartNode="1901" EndNode="1914">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">psychological</Value>
+</Feature>
+</Annotation>
+<Annotation Id="939" Type="Token" StartNode="2154" EndNode="2160">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">motive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="926" Type="Token" StartNode="2128" EndNode="2134">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">little</Value>
+</Feature>
+</Annotation>
+<Annotation Id="915" Type="Token" StartNode="2103" EndNode="2111">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">illusory</Value>
+</Feature>
+</Annotation>
+<Annotation Id="909" Type="Token" StartNode="2085" EndNode="2094">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">incorrect</Value>
+</Feature>
+</Annotation>
+<Annotation Id="899" Type="Token" StartNode="2062" EndNode="2071">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">veridical</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1016" Type="Token" StartNode="2339" EndNode="2348">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">suggested</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1018" Type="Token" StartNode="2349" EndNode="2356">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">answers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1011" Type="Token" StartNode="2323" EndNode="2332">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Therefore</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1001" Type="Token" StartNode="2296" EndNode="2304">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">question</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1005" Type="Token" StartNode="2311" EndNode="2318">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">motives</Value>
+</Feature>
+</Annotation>
+<Annotation Id="995" Type="Token" StartNode="2277" EndNode="2286">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">certainly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="979" Type="Token" StartNode="2242" EndNode="2249">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">morally</Value>
+</Feature>
+</Annotation>
+<Annotation Id="971" Type="Token" StartNode="2221" EndNode="2228">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">whether</Value>
+</Feature>
+</Annotation>
+<Annotation Id="975" Type="Token" StartNode="2231" EndNode="2238">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">percept</Value>
+</Feature>
+</Annotation>
+<Annotation Id="965" Type="Token" StartNode="2206" EndNode="2213">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">strange</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1099" Type="Token" StartNode="2533" EndNode="2543">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">evaluative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1095" Type="Token" StartNode="2522" EndNode="2528">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">should</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1112" Type="Token" StartNode="2563" EndNode="2569">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">always</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1131" Type="Token" StartNode="2611" EndNode="2617">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">answer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1124" Type="Token" StartNode="2593" EndNode="2601">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">phrasing</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1122" Type="Token" StartNode="2586" EndNode="2592">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sloppy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1136" Type="Token" StartNode="2622" EndNode="2632">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">betterness</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1036" Type="Token" StartNode="2381" EndNode="2391">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">considered</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1028" Type="Token" StartNode="2365" EndNode="2371">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">simply</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1052" Type="Token" StartNode="2424" EndNode="2435">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correctness</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1042" Type="Token" StartNode="2399" EndNode="2405">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">assume</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1070" Type="Token" StartNode="2468" EndNode="2475">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1060" Type="Token" StartNode="2447" EndNode="2455">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">judgment</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1082" Type="Token" StartNode="2495" EndNode="2501">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">valued</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1086" Type="Token" StartNode="2505" EndNode="2511">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">really</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1220" Type="Token" StartNode="2822" EndNode="2830">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">question</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1218" Type="Token" StartNode="2810" EndNode="2821">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">meaningless</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1228" Type="Token" StartNode="2841" EndNode="2848">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reasons</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1230" Type="Token" StartNode="2849" EndNode="2855">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">stated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1243" Type="Token" StartNode="2877" EndNode="2887">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">irrelevant</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1251" Type="Token" StartNode="2903" EndNode="2914">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">implication</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1249" Type="Token" StartNode="2895" EndNode="2902">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">alleged</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1258" Type="Token" StartNode="2923" EndNode="2934">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">implication</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1278" Type="Token" StartNode="2974" EndNode="2980">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">better</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1152" Type="Token" StartNode="2658" EndNode="2669">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correctness</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1163" Type="Token" StartNode="2683" EndNode="2690">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1179" Type="Token" StartNode="2714" EndNode="2730">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">double-barrelled</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1202" Type="Token" StartNode="2773" EndNode="2782">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rightness</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1211" Type="Token" StartNode="2795" EndNode="2803">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1373" Type="Token" StartNode="3214" EndNode="3223">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reference</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1369" Type="Token" StartNode="3204" EndNode="3210">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">frames</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1367" Type="Token" StartNode="3194" EndNode="3203">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">realistic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1360" Type="Token" StartNode="3177" EndNode="3183">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">better</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1356" Type="Token" StartNode="3167" EndNode="3173">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">likely</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1347" Type="Token" StartNode="3149" EndNode="3155">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">better</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1345" Type="Token" StartNode="3142" EndNode="3148">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">really</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1389" Type="Token" StartNode="3252" EndNode="3261">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dismissal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1387" Type="Token" StartNode="3244" EndNode="3251">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">lengthy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1311" Type="Token" StartNode="3058" EndNode="3067">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">asserting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1309" Type="Token" StartNode="3050" EndNode="3057">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">without</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1297" Type="Token" StartNode="3020" EndNode="3029">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">judgments</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1303" Type="Token" StartNode="3036" EndNode="3042">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">better</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1288" Type="Token" StartNode="2994" EndNode="3003">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">certainly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1324" Type="Token" StartNode="3094" EndNode="3102">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">position</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1316" Type="Token" StartNode="3073" EndNode="3084">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correctness</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1490" Type="Token" StartNode="3505" EndNode="3511">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">though</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1496" Type="Token" StartNode="3516" EndNode="3524">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">starting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1472" Type="Token" StartNode="3457" EndNode="3465">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">feelings</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1487" Type="Token" StartNode="3497" EndNode="3503">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">arises</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1485" Type="Token" StartNode="3486" EndNode="3496">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">difficulty</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1527" Type="Token" StartNode="3589" EndNode="3598">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">different</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1521" Type="Token" StartNode="3567" EndNode="3575">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">anything</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1523" Type="Token" StartNode="3576" EndNode="3582">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">simple</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1531" Type="Token" StartNode="3605" EndNode="3611">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">values</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1426" Type="Token" StartNode="3337" EndNode="3345">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">disagree</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1424" Type="Token" StartNode="3325" EndNode="3336">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">grotesquely</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1438" Type="Token" StartNode="3365" EndNode="3372">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">neither</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1411" Type="Token" StartNode="3288" EndNode="3294">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">answer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1422" Type="Token" StartNode="3313" EndNode="3324">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">individuals</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1460" Type="Token" StartNode="3420" EndNode="3426">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">simply</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1465" Type="Token" StartNode="3433" EndNode="3442">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">different</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1469" Type="Token" StartNode="3449" EndNode="3455">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">values</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1445" Type="Token" StartNode="3383" EndNode="3390">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1453" Type="Token" StartNode="3402" EndNode="3411">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">incorrect</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1638" Type="Token" StartNode="3877" EndNode="3887">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">relativism</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1636" Type="Token" StartNode="3869" EndNode="3876">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">getting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1663" Type="Token" StartNode="3939" EndNode="3945">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">though</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1651" Type="Token" StartNode="3911" EndNode="3922">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">objectivism</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1649" Type="Token" StartNode="3903" EndNode="3910">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">getting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1625" Type="Token" StartNode="3843" EndNode="3849">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Pirsig</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1628" Type="Token" StartNode="3851" EndNode="3859">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Peculiar</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1579" Type="Token" StartNode="3736" EndNode="3743">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Getting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1573" Type="Token" StartNode="3721" EndNode="3728">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">another</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1597" Type="Token" StartNode="3790" EndNode="3801">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">metaphysics</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1593" Type="Token" StartNode="3780" EndNode="3787">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">writing</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1589" Type="Token" StartNode="3765" EndNode="3775">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">bar-ladies</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1585" Type="Token" StartNode="3754" EndNode="3761">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">picking</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1544" Type="Token" StartNode="3641" EndNode="3647">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rights</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1538" Type="Token" StartNode="3624" EndNode="3630">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">values</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1567" Type="Token" StartNode="3705" EndNode="3715">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">degeneracy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1561" Type="Token" StartNode="3689" EndNode="3699">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">degeneracy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1557" Type="Token" StartNode="3676" EndNode="3685">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">avoidance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1552" Type="Token" StartNode="3654" EndNode="3662">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ruthless</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1555" Type="Token" StartNode="3664" EndNode="3675">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">doctrinaire</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1779" Type="Token" StartNode="4104" EndNode="4110">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Evelyn</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1781" Type="Token" StartNode="4111" EndNode="4117">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Conlon</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1730" Type="Token" StartNode="4040" EndNode="4046">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">odwyer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1725" Type="Token" StartNode="4025" EndNode="4033">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">hatching</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: piatt@gdc.COM (Gary Piatt)
+Message-ID: &lt;854@esun179.gdc.com>
+Date: 20 Apr 93 13:34:03 GMT
+References: &lt;1qvb5aINNmoi@darkstar.UCSC.EDU>
+Sender: news@gdc.com
+Organization: General DataComm Ind. Inc., Middlebury, CT 06762
+Lines: 22
+Nntp-Posting-Host: esun228
+X-Newsreader: TIN [version 1.1 PL9]
+
+stephen@orchid.UCSC.EDU wrote:
+: The median of a distribution is that variate-value which divides the
+: distribution halfway, i.e. 1/2 of the distribution (population) have
+: lower and half have higher variate-values.
+
+: So for Males 20-39 the median=7.3, this means that half of these men
+: are higher than this and half are lower than this.  Now if the population
+: sample size is 3300, and 1% of them are gay, 33 males are gay.  If we
+: say they are distributed equally then only 16.5 are greater than 7.3
+: sexual partners, of course, this means that 49.5% heterosexual men are
+: greater than 7.3.
+
+Not quite.  First, the median does not imply that half of the men are
+above and half below 7.3: it simply means that 7.3 is the mid-point
+between the maximum number of partners and the minimum (which is most
+likely zero).  However, assuming your implication to be more-or-less
+correct, your final result is still invalid.  If 50% of *all* males
+have had more than 7.3 partners, and you deduct the assumed 1% of 
+homosexual males, what remains is not 49.5%, but still *50%* of all
+*heterosexual* males.  Which is to say: hey, we're all human.
+
+-garison
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative851</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>piatt<Node id="11"/>@<Node id="12"/>gdc<Node id="15"/>.<Node id="16"/>COM<Node id="19"/> <Node id="20"/>(<Node id="21"/>Gary<Node id="25"/> <Node id="26"/>Piatt<Node id="31"/>)<Node id="32"/>
+<Node id="33"/>Message-<Node id="41"/>ID<Node id="43"/>:<Node id="44"/> <Node id="45"/>&lt;<Node id="46"/>854<Node id="49"/>@<Node id="50"/>esun<Node id="54"/>179<Node id="57"/>.<Node id="58"/>gdc<Node id="61"/>.<Node id="62"/>com<Node id="65"/>&gt;<Node id="66"/>
+<Node id="67"/>Date<Node id="71"/>:<Node id="72"/> <Node id="73"/>20<Node id="75"/> <Node id="76"/>Apr<Node id="79"/> <Node id="80"/>93<Node id="82"/> <Node id="83"/>13<Node id="85"/>:<Node id="86"/>34<Node id="88"/>:<Node id="89"/>03<Node id="91"/> <Node id="92"/>GMT<Node id="95"/>
+<Node id="96"/>References<Node id="106"/>:<Node id="107"/> <Node id="108"/>&lt;<Node id="109"/>1<Node id="110"/>qvb<Node id="113"/>5<Node id="114"/>aINNmoi<Node id="121"/>@<Node id="122"/>darkstar<Node id="130"/>.<Node id="131"/>UCSC<Node id="135"/>.<Node id="136"/>EDU<Node id="139"/>&gt;<Node id="140"/>
+<Node id="141"/>Sender<Node id="147"/>:<Node id="148"/> <Node id="149"/>news<Node id="153"/>@<Node id="154"/>gdc<Node id="157"/>.<Node id="158"/>com<Node id="161"/>
+<Node id="162"/>Organization<Node id="174"/>:<Node id="175"/> <Node id="176"/>General<Node id="183"/> <Node id="184"/>DataComm<Node id="192"/> <Node id="193"/>Ind<Node id="196"/>.<Node id="197"/> <Node id="198"/>Inc<Node id="201"/>.<Node id="202"/>,<Node id="203"/> <Node id="204"/>Middlebury<Node id="214"/>,<Node id="215"/> <Node id="216"/>CT<Node id="218"/> <Node id="219"/>06762<Node id="224"/>
+<Node id="225"/>Lines<Node id="230"/>:<Node id="231"/> <Node id="232"/>22<Node id="234"/>
+<Node id="235"/>Nntp-<Node id="240"/>Posting-<Node id="248"/>Host<Node id="252"/>:<Node id="253"/> <Node id="254"/>esun<Node id="258"/>228<Node id="261"/>
+<Node id="262"/>X-Newsreader<Node id="274"/>:<Node id="275"/> <Node id="276"/>TIN<Node id="279"/> <Node id="280"/>[<Node id="281"/>version<Node id="288"/> <Node id="289"/>1<Node id="290"/>.<Node id="291"/>1<Node id="292"/> <Node id="293"/>PL<Node id="295"/>9<Node id="296"/>]<Node id="297"/>
+<Node id="298"/>
+<Node id="299"/>stephen<Node id="306"/>@<Node id="307"/>orchid<Node id="313"/>.<Node id="314"/>UCSC<Node id="318"/>.<Node id="319"/>EDU<Node id="322"/> <Node id="323"/>wrote<Node id="328"/>:<Node id="329"/>
+<Node id="330"/>:<Node id="331"/> <Node id="332"/>The<Node id="335"/> <Node id="336"/>median<Node id="342"/> <Node id="343"/>of<Node id="345"/> <Node id="346"/>a<Node id="347"/> <Node id="348"/>distribution<Node id="360"/> <Node id="361"/>is<Node id="363"/> <Node id="364"/>that<Node id="368"/> <Node id="369"/>variate-value<Node id="382"/> <Node id="383"/>which<Node id="388"/> <Node id="389"/>divides<Node id="396"/> <Node id="397"/>the<Node id="400"/>
+<Node id="401"/>:<Node id="402"/> <Node id="403"/>distribution<Node id="415"/> <Node id="416"/>halfway<Node id="423"/>,<Node id="424"/> <Node id="425"/>i<Node id="426"/>.<Node id="427"/>e<Node id="428"/>.<Node id="429"/> <Node id="430"/>1<Node id="431"/>/<Node id="432"/>2<Node id="433"/> <Node id="434"/>of<Node id="436"/> <Node id="437"/>the<Node id="440"/> <Node id="441"/>distribution<Node id="453"/> <Node id="454"/>(<Node id="455"/>population<Node id="465"/>)<Node id="466"/> <Node id="467"/>have<Node id="471"/>
+<Node id="472"/>:<Node id="473"/> <Node id="474"/>lower<Node id="479"/> <Node id="480"/>and<Node id="483"/> <Node id="484"/>half<Node id="488"/> <Node id="489"/>have<Node id="493"/> <Node id="494"/>higher<Node id="500"/> <Node id="501"/>variate-values<Node id="515"/>.<Node id="516"/>
+<Node id="517"/>
+<Node id="518"/>:<Node id="519"/> <Node id="520"/>So<Node id="522"/> <Node id="523"/>for<Node id="526"/> <Node id="527"/>Males<Node id="532"/> <Node id="533"/>20<Node id="535"/>-<Node id="536"/>39<Node id="538"/> <Node id="539"/>the<Node id="542"/> <Node id="543"/>median<Node id="549"/>=<Node id="550"/>7<Node id="551"/>.<Node id="552"/>3<Node id="553"/>,<Node id="554"/> <Node id="555"/>this<Node id="559"/> <Node id="560"/>means<Node id="565"/> <Node id="566"/>that<Node id="570"/> <Node id="571"/>half<Node id="575"/> <Node id="576"/>of<Node id="578"/> <Node id="579"/>these<Node id="584"/> <Node id="585"/>men<Node id="588"/>
+<Node id="589"/>:<Node id="590"/> <Node id="591"/>are<Node id="594"/> <Node id="595"/>higher<Node id="601"/> <Node id="602"/>than<Node id="606"/> <Node id="607"/>this<Node id="611"/> <Node id="612"/>and<Node id="615"/> <Node id="616"/>half<Node id="620"/> <Node id="621"/>are<Node id="624"/> <Node id="625"/>lower<Node id="630"/> <Node id="631"/>than<Node id="635"/> <Node id="636"/>this<Node id="640"/>.<Node id="641"/> <Node id="642"/> <Node id="643"/>Now<Node id="646"/> <Node id="647"/>if<Node id="649"/> <Node id="650"/>the<Node id="653"/> <Node id="654"/>population<Node id="664"/>
+<Node id="665"/>:<Node id="666"/> <Node id="667"/>sample<Node id="673"/> <Node id="674"/>size<Node id="678"/> <Node id="679"/>is<Node id="681"/> <Node id="682"/>3300<Node id="686"/>,<Node id="687"/> <Node id="688"/>and<Node id="691"/> <Node id="692"/>1<Node id="693"/>%<Node id="694"/> <Node id="695"/>of<Node id="697"/> <Node id="698"/>them<Node id="702"/> <Node id="703"/>are<Node id="706"/> <Node id="707"/>gay<Node id="710"/>,<Node id="711"/> <Node id="712"/>33<Node id="714"/> <Node id="715"/>males<Node id="720"/> <Node id="721"/>are<Node id="724"/> <Node id="725"/>gay<Node id="728"/>.<Node id="729"/> <Node id="730"/> <Node id="731"/>If<Node id="733"/> <Node id="734"/>we<Node id="736"/>
+<Node id="737"/>:<Node id="738"/> <Node id="739"/>say<Node id="742"/> <Node id="743"/>they<Node id="747"/> <Node id="748"/>are<Node id="751"/> <Node id="752"/>distributed<Node id="763"/> <Node id="764"/>equally<Node id="771"/> <Node id="772"/>then<Node id="776"/> <Node id="777"/>only<Node id="781"/> <Node id="782"/>16<Node id="784"/>.<Node id="785"/>5<Node id="786"/> <Node id="787"/>are<Node id="790"/> <Node id="791"/>greater<Node id="798"/> <Node id="799"/>than<Node id="803"/> <Node id="804"/>7<Node id="805"/>.<Node id="806"/>3<Node id="807"/>
+<Node id="808"/>:<Node id="809"/> <Node id="810"/>sexual<Node id="816"/> <Node id="817"/>partners<Node id="825"/>,<Node id="826"/> <Node id="827"/>of<Node id="829"/> <Node id="830"/>course<Node id="836"/>,<Node id="837"/> <Node id="838"/>this<Node id="842"/> <Node id="843"/>means<Node id="848"/> <Node id="849"/>that<Node id="853"/> <Node id="854"/>49<Node id="856"/>.<Node id="857"/>5<Node id="858"/>%<Node id="859"/> <Node id="860"/>heterosexual<Node id="872"/> <Node id="873"/>men<Node id="876"/> <Node id="877"/>are<Node id="880"/>
+<Node id="881"/>:<Node id="882"/> <Node id="883"/>greater<Node id="890"/> <Node id="891"/>than<Node id="895"/> <Node id="896"/>7<Node id="897"/>.<Node id="898"/>3<Node id="899"/>.<Node id="900"/>
+<Node id="901"/>
+<Node id="902"/>Not<Node id="905"/> <Node id="906"/>quite<Node id="911"/>.<Node id="912"/> <Node id="913"/> <Node id="914"/>First<Node id="919"/>,<Node id="920"/> <Node id="921"/>the<Node id="924"/> <Node id="925"/>median<Node id="931"/> <Node id="932"/>does<Node id="936"/> <Node id="937"/>not<Node id="940"/> <Node id="941"/>imply<Node id="946"/> <Node id="947"/>that<Node id="951"/> <Node id="952"/>half<Node id="956"/> <Node id="957"/>of<Node id="959"/> <Node id="960"/>the<Node id="963"/> <Node id="964"/>men<Node id="967"/> <Node id="968"/>are<Node id="971"/>
+<Node id="972"/>above<Node id="977"/> <Node id="978"/>and<Node id="981"/> <Node id="982"/>half<Node id="986"/> <Node id="987"/>below<Node id="992"/> <Node id="993"/>7<Node id="994"/>.<Node id="995"/>3<Node id="996"/>:<Node id="997"/> <Node id="998"/>it<Node id="1000"/> <Node id="1001"/>simply<Node id="1007"/> <Node id="1008"/>means<Node id="1013"/> <Node id="1014"/>that<Node id="1018"/> <Node id="1019"/>7<Node id="1020"/>.<Node id="1021"/>3<Node id="1022"/> <Node id="1023"/>is<Node id="1025"/> <Node id="1026"/>the<Node id="1029"/> <Node id="1030"/>mid-point<Node id="1039"/>
+<Node id="1040"/>between<Node id="1047"/> <Node id="1048"/>the<Node id="1051"/> <Node id="1052"/>maximum<Node id="1059"/> <Node id="1060"/>number<Node id="1066"/> <Node id="1067"/>of<Node id="1069"/> <Node id="1070"/>partners<Node id="1078"/> <Node id="1079"/>and<Node id="1082"/> <Node id="1083"/>the<Node id="1086"/> <Node id="1087"/>minimum<Node id="1094"/> <Node id="1095"/>(<Node id="1096"/>which<Node id="1101"/> <Node id="1102"/>is<Node id="1104"/> <Node id="1105"/>most<Node id="1109"/>
+<Node id="1110"/>likely<Node id="1116"/> <Node id="1117"/>zero<Node id="1121"/>)<Node id="1122"/>.<Node id="1123"/> <Node id="1124"/> <Node id="1125"/>However<Node id="1132"/>,<Node id="1133"/> <Node id="1134"/>assuming<Node id="1142"/> <Node id="1143"/>your<Node id="1147"/> <Node id="1148"/>implication<Node id="1159"/> <Node id="1160"/>to<Node id="1162"/> <Node id="1163"/>be<Node id="1165"/> <Node id="1166"/>more-or-less<Node id="1178"/>
+<Node id="1179"/>correct<Node id="1186"/>,<Node id="1187"/> <Node id="1188"/>your<Node id="1192"/> <Node id="1193"/>final<Node id="1198"/> <Node id="1199"/>result<Node id="1205"/> <Node id="1206"/>is<Node id="1208"/> <Node id="1209"/>still<Node id="1214"/> <Node id="1215"/>invalid<Node id="1222"/>.<Node id="1223"/> <Node id="1224"/> <Node id="1225"/>If<Node id="1227"/> <Node id="1228"/>50<Node id="1230"/>%<Node id="1231"/> <Node id="1232"/>of<Node id="1234"/> <Node id="1235"/>*<Node id="1236"/>all<Node id="1239"/>*<Node id="1240"/> <Node id="1241"/>males<Node id="1246"/>
+<Node id="1247"/>have<Node id="1251"/> <Node id="1252"/>had<Node id="1255"/> <Node id="1256"/>more<Node id="1260"/> <Node id="1261"/>than<Node id="1265"/> <Node id="1266"/>7<Node id="1267"/>.<Node id="1268"/>3<Node id="1269"/> <Node id="1270"/>partners<Node id="1278"/>,<Node id="1279"/> <Node id="1280"/>and<Node id="1283"/> <Node id="1284"/>you<Node id="1287"/> <Node id="1288"/>deduct<Node id="1294"/> <Node id="1295"/>the<Node id="1298"/> <Node id="1299"/>assumed<Node id="1306"/> <Node id="1307"/>1<Node id="1308"/>%<Node id="1309"/> <Node id="1310"/>of<Node id="1312"/> <Node id="1313"/>
+<Node id="1314"/>homosexual<Node id="1324"/> <Node id="1325"/>males<Node id="1330"/>,<Node id="1331"/> <Node id="1332"/>what<Node id="1336"/> <Node id="1337"/>remains<Node id="1344"/> <Node id="1345"/>is<Node id="1347"/> <Node id="1348"/>not<Node id="1351"/> <Node id="1352"/>49<Node id="1354"/>.<Node id="1355"/>5<Node id="1356"/>%<Node id="1357"/>,<Node id="1358"/> <Node id="1359"/>but<Node id="1362"/> <Node id="1363"/>still<Node id="1368"/> <Node id="1369"/>*<Node id="1370"/>50<Node id="1372"/>%<Node id="1373"/>*<Node id="1374"/> <Node id="1375"/>of<Node id="1377"/> <Node id="1378"/>all<Node id="1381"/>
+<Node id="1382"/>*<Node id="1383"/>heterosexual<Node id="1395"/>*<Node id="1396"/> <Node id="1397"/>males<Node id="1402"/>.<Node id="1403"/> <Node id="1404"/> <Node id="1405"/>Which<Node id="1410"/> <Node id="1411"/>is<Node id="1413"/> <Node id="1414"/>to<Node id="1416"/> <Node id="1417"/>say<Node id="1420"/>:<Node id="1421"/> <Node id="1422"/>hey<Node id="1425"/>,<Node id="1426"/> <Node id="1427"/>we<Node id="1429"/>'re<Node id="1432"/> <Node id="1433"/>all<Node id="1436"/> <Node id="1437"/>human<Node id="1442"/>.<Node id="1443"/>
+<Node id="1444"/>
+<Node id="1445"/>-<Node id="1446"/>garison<Node id="1453"/>
+<Node id="1454"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="1454" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="15" Type="Token" StartNode="33" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Token" StartNode="96" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Token" StartNode="114" EndNode="121">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">aINNmoi</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="122" EndNode="130">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">darkstar</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="Token" StartNode="141" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="Token" StartNode="184" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">DataComm</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="Token" StartNode="162" EndNode="174">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="Token" StartNode="176" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">General</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="Token" StartNode="204" EndNode="214">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Middlebury</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Token" StartNode="240" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Posting-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="106" Type="Token" StartNode="262" EndNode="274">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">X-Newsreader</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="Token" StartNode="281" EndNode="288">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">version</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="Token" StartNode="307" EndNode="313">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">orchid</Value>
+</Feature>
+</Annotation>
+<Annotation Id="123" Type="Token" StartNode="299" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">stephen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="138" Type="Token" StartNode="336" EndNode="342">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">median</Value>
+</Feature>
+</Annotation>
+<Annotation Id="154" Type="Token" StartNode="389" EndNode="396">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">divides</Value>
+</Feature>
+</Annotation>
+<Annotation Id="144" Type="Token" StartNode="348" EndNode="360">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">distribution</Value>
+</Feature>
+</Annotation>
+<Annotation Id="150" Type="Token" StartNode="369" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">variate-value</Value>
+</Feature>
+</Annotation>
+<Annotation Id="162" Type="Token" StartNode="416" EndNode="423">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">halfway</Value>
+</Feature>
+</Annotation>
+<Annotation Id="160" Type="Token" StartNode="403" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">distribution</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="441" EndNode="453">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">distribution</Value>
+</Feature>
+</Annotation>
+<Annotation Id="181" Type="Token" StartNode="455" EndNode="465">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">population</Value>
+</Feature>
+</Annotation>
+<Annotation Id="196" Type="Token" StartNode="494" EndNode="500">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">higher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="198" Type="Token" StartNode="501" EndNode="515">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">variate-values</Value>
+</Feature>
+</Annotation>
+<Annotation Id="216" Type="Token" StartNode="543" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">median</Value>
+</Feature>
+</Annotation>
+<Annotation Id="241" Type="Token" StartNode="595" EndNode="601">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">higher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="267" Type="Token" StartNode="654" EndNode="664">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">population</Value>
+</Feature>
+</Annotation>
+<Annotation Id="271" Type="Token" StartNode="667" EndNode="673">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sample</Value>
+</Feature>
+</Annotation>
+<Annotation Id="316" Type="Token" StartNode="752" EndNode="763">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">distributed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="318" Type="Token" StartNode="764" EndNode="771">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">equally</Value>
+</Feature>
+</Annotation>
+<Annotation Id="342" Type="Token" StartNode="817" EndNode="825">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">partners</Value>
+</Feature>
+</Annotation>
+<Annotation Id="340" Type="Token" StartNode="810" EndNode="816">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sexual</Value>
+</Feature>
+</Annotation>
+<Annotation Id="347" Type="Token" StartNode="830" EndNode="836">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">course</Value>
+</Feature>
+</Annotation>
+<Annotation Id="330" Type="Token" StartNode="791" EndNode="798">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">greater</Value>
+</Feature>
+</Annotation>
+<Annotation Id="369" Type="Token" StartNode="883" EndNode="890">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">greater</Value>
+</Feature>
+</Annotation>
+<Annotation Id="361" Type="Token" StartNode="860" EndNode="872">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">heterosexual</Value>
+</Feature>
+</Annotation>
+<Annotation Id="390" Type="Token" StartNode="925" EndNode="931">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">median</Value>
+</Feature>
+</Annotation>
+<Annotation Id="441" Type="Token" StartNode="1040" EndNode="1047">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">between</Value>
+</Feature>
+</Annotation>
+<Annotation Id="445" Type="Token" StartNode="1052" EndNode="1059">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">maximum</Value>
+</Feature>
+</Annotation>
+<Annotation Id="447" Type="Token" StartNode="1060" EndNode="1066">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="439" Type="Token" StartNode="1030" EndNode="1039">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">mid-point</Value>
+</Feature>
+</Annotation>
+<Annotation Id="425" Type="Token" StartNode="1001" EndNode="1007">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">simply</Value>
+</Feature>
+</Annotation>
+<Annotation Id="476" Type="Token" StartNode="1134" EndNode="1142">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">assuming</Value>
+</Feature>
+</Annotation>
+<Annotation Id="473" Type="Token" StartNode="1125" EndNode="1132">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">However</Value>
+</Feature>
+</Annotation>
+<Annotation Id="466" Type="Token" StartNode="1110" EndNode="1116">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">likely</Value>
+</Feature>
+</Annotation>
+<Annotation Id="457" Type="Token" StartNode="1087" EndNode="1094">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">minimum</Value>
+</Feature>
+</Annotation>
+<Annotation Id="451" Type="Token" StartNode="1070" EndNode="1078">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">partners</Value>
+</Feature>
+</Annotation>
+<Annotation Id="501" Type="Token" StartNode="1215" EndNode="1222">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">invalid</Value>
+</Feature>
+</Annotation>
+<Annotation Id="495" Type="Token" StartNode="1199" EndNode="1205">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">result</Value>
+</Feature>
+</Annotation>
+<Annotation Id="488" Type="Token" StartNode="1179" EndNode="1186">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="486" Type="Token" StartNode="1166" EndNode="1178">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">more-or-less</Value>
+</Feature>
+</Annotation>
+<Annotation Id="480" Type="Token" StartNode="1148" EndNode="1159">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">implication</Value>
+</Feature>
+</Annotation>
+<Annotation Id="549" Type="Token" StartNode="1314" EndNode="1324">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">homosexual</Value>
+</Feature>
+</Annotation>
+<Annotation Id="556" Type="Token" StartNode="1337" EndNode="1344">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">remains</Value>
+</Feature>
+</Annotation>
+<Annotation Id="530" Type="Token" StartNode="1270" EndNode="1278">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">partners</Value>
+</Feature>
+</Annotation>
+<Annotation Id="541" Type="Token" StartNode="1299" EndNode="1306">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">assumed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="537" Type="Token" StartNode="1288" EndNode="1294">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">deduct</Value>
+</Feature>
+</Annotation>
+<Annotation Id="612" Type="Token" StartNode="1446" EndNode="1453">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">garison</Value>
+</Feature>
+</Annotation>
+<Annotation Id="582" Type="Token" StartNode="1383" EndNode="1395">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">heterosexual</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

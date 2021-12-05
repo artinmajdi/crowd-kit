@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: bc744@cleveland.Freenet.Edu (Mark Ira Kaufman)
+Date: 24 Apr 1993 14:08:33 GMT
+Organization: Case Western Reserve University, Cleveland, Ohio (USA)
+Lines: 7
+Message-ID: &lt;1rbhl1$b65@usenet.INS.CWRU.Edu>
+NNTP-Posting-Host: thor.ins.cwru.edu
+
+
+   How many of you readers know anything about Jews living in the
+Arab countries?  How many of you know if Jews still live in these
+countries?  How many of you know what the circumstances of Arabic
+Jews leaving their homelands were?  Just curious.
+
+
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive223</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>bc<Node id="8"/>744<Node id="11"/>@<Node id="12"/>cleveland<Node id="21"/>.<Node id="22"/>Freenet<Node id="29"/>.<Node id="30"/>Edu<Node id="33"/> <Node id="34"/>(<Node id="35"/>Mark<Node id="39"/> <Node id="40"/>Ira<Node id="43"/> <Node id="44"/>Kaufman<Node id="51"/>)<Node id="52"/>
+<Node id="53"/>Date<Node id="57"/>:<Node id="58"/> <Node id="59"/>24<Node id="61"/> <Node id="62"/>Apr<Node id="65"/> <Node id="66"/>1993<Node id="70"/> <Node id="71"/>14<Node id="73"/>:<Node id="74"/>08<Node id="76"/>:<Node id="77"/>33<Node id="79"/> <Node id="80"/>GMT<Node id="83"/>
+<Node id="84"/>Organization<Node id="96"/>:<Node id="97"/> <Node id="98"/>Case<Node id="102"/> <Node id="103"/>Western<Node id="110"/> <Node id="111"/>Reserve<Node id="118"/> <Node id="119"/>University<Node id="129"/>,<Node id="130"/> <Node id="131"/>Cleveland<Node id="140"/>,<Node id="141"/> <Node id="142"/>Ohio<Node id="146"/> <Node id="147"/>(<Node id="148"/>USA<Node id="151"/>)<Node id="152"/>
+<Node id="153"/>Lines<Node id="158"/>:<Node id="159"/> <Node id="160"/>7<Node id="161"/>
+<Node id="162"/>Message-<Node id="170"/>ID<Node id="172"/>:<Node id="173"/> <Node id="174"/>&lt;<Node id="175"/>1<Node id="176"/>rbhl<Node id="180"/>1<Node id="181"/>$<Node id="182"/>b<Node id="183"/>65<Node id="185"/>@<Node id="186"/>usenet<Node id="192"/>.<Node id="193"/>INS<Node id="196"/>.<Node id="197"/>CWRU<Node id="201"/>.<Node id="202"/>Edu<Node id="205"/>&gt;<Node id="206"/>
+<Node id="207"/>NNTP-Posting-Host<Node id="224"/>:<Node id="225"/> <Node id="226"/>thor<Node id="230"/>.<Node id="231"/>ins<Node id="234"/>.<Node id="235"/>cwru<Node id="239"/>.<Node id="240"/>edu<Node id="243"/>
+<Node id="244"/>
+<Node id="245"/>
+<Node id="246"/> <Node id="247"/> <Node id="248"/> <Node id="249"/>How<Node id="252"/> <Node id="253"/>many<Node id="257"/> <Node id="258"/>of<Node id="260"/> <Node id="261"/>you<Node id="264"/> <Node id="265"/>readers<Node id="272"/> <Node id="273"/>know<Node id="277"/> <Node id="278"/>anything<Node id="286"/> <Node id="287"/>about<Node id="292"/> <Node id="293"/>Jews<Node id="297"/> <Node id="298"/>living<Node id="304"/> <Node id="305"/>in<Node id="307"/> <Node id="308"/>the<Node id="311"/>
+<Node id="312"/>Arab<Node id="316"/> <Node id="317"/>countries<Node id="326"/>?<Node id="327"/> <Node id="328"/> <Node id="329"/>How<Node id="332"/> <Node id="333"/>many<Node id="337"/> <Node id="338"/>of<Node id="340"/> <Node id="341"/>you<Node id="344"/> <Node id="345"/>know<Node id="349"/> <Node id="350"/>if<Node id="352"/> <Node id="353"/>Jews<Node id="357"/> <Node id="358"/>still<Node id="363"/> <Node id="364"/>live<Node id="368"/> <Node id="369"/>in<Node id="371"/> <Node id="372"/>these<Node id="377"/>
+<Node id="378"/>countries<Node id="387"/>?<Node id="388"/> <Node id="389"/> <Node id="390"/>How<Node id="393"/> <Node id="394"/>many<Node id="398"/> <Node id="399"/>of<Node id="401"/> <Node id="402"/>you<Node id="405"/> <Node id="406"/>know<Node id="410"/> <Node id="411"/>what<Node id="415"/> <Node id="416"/>the<Node id="419"/> <Node id="420"/>circumstances<Node id="433"/> <Node id="434"/>of<Node id="436"/> <Node id="437"/>Arabic<Node id="443"/>
+<Node id="444"/>Jews<Node id="448"/> <Node id="449"/>leaving<Node id="456"/> <Node id="457"/>their<Node id="462"/> <Node id="463"/>homelands<Node id="472"/> <Node id="473"/>were<Node id="477"/>?<Node id="478"/> <Node id="479"/> <Node id="480"/>Just<Node id="484"/> <Node id="485"/>curious<Node id="492"/>.<Node id="493"/>
+<Node id="494"/>
+<Node id="495"/>
+<Node id="496"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="496" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="6" Type="Token" StartNode="12" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cleveland</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Token" StartNode="22" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Freenet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Token" StartNode="44" EndNode="51">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Kaufman</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Token" StartNode="84" EndNode="96">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Token" StartNode="103" EndNode="110">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Western</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Token" StartNode="119" EndNode="129">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Token" StartNode="111" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reserve</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Token" StartNode="131" EndNode="140">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Cleveland</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="Token" StartNode="162" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="Token" StartNode="186" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">usenet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="Token" StartNode="207" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">NNTP-Posting-Host</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="Token" StartNode="265" EndNode="272">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">readers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="118" Type="Token" StartNode="298" EndNode="304">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">living</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="Token" StartNode="278" EndNode="286">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">anything</Value>
+</Feature>
+</Annotation>
+<Annotation Id="126" Type="Token" StartNode="317" EndNode="326">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">countries</Value>
+</Feature>
+</Annotation>
+<Annotation Id="152" Type="Token" StartNode="378" EndNode="387">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">countries</Value>
+</Feature>
+</Annotation>
+<Annotation Id="170" Type="Token" StartNode="420" EndNode="433">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">circumstances</Value>
+</Feature>
+</Annotation>
+<Annotation Id="174" Type="Token" StartNode="437" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Arabic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="190" Type="Token" StartNode="485" EndNode="492">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">curious</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="449" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">leaving</Value>
+</Feature>
+</Annotation>
+<Annotation Id="182" Type="Token" StartNode="463" EndNode="472">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">homelands</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

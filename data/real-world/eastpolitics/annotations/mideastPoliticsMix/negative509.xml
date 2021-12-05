@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: jhart@agora.rain.com (Jim Hart)
+Message-ID: &lt;C6345y.By3@agora.rain.com>
+Organization: Open Communications Forum
+Date: Mon, 26 Apr 1993 09:39:33 GMT
+Lines: 7
+
+
+You could visit the former Davidian Adventist sanctuary at
+Waco, but the Nazis are still holding that one, and won't let 
+you in....
+
+Jim Hart
+jhart@agora.rain.com
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative509</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>jhart<Node id="11"/>@<Node id="12"/>agora<Node id="17"/>.<Node id="18"/>rain<Node id="22"/>.<Node id="23"/>com<Node id="26"/> <Node id="27"/>(<Node id="28"/>Jim<Node id="31"/> <Node id="32"/>Hart<Node id="36"/>)<Node id="37"/>
+<Node id="38"/>Message-<Node id="46"/>ID<Node id="48"/>:<Node id="49"/> <Node id="50"/>&lt;<Node id="51"/>C<Node id="52"/>6345<Node id="56"/>y<Node id="57"/>.<Node id="58"/>By<Node id="60"/>3<Node id="61"/>@<Node id="62"/>agora<Node id="67"/>.<Node id="68"/>rain<Node id="72"/>.<Node id="73"/>com<Node id="76"/>&gt;<Node id="77"/>
+<Node id="78"/>Organization<Node id="90"/>:<Node id="91"/> <Node id="92"/>Open<Node id="96"/> <Node id="97"/>Communications<Node id="111"/> <Node id="112"/>Forum<Node id="117"/>
+<Node id="118"/>Date<Node id="122"/>:<Node id="123"/> <Node id="124"/>Mon<Node id="127"/>,<Node id="128"/> <Node id="129"/>26<Node id="131"/> <Node id="132"/>Apr<Node id="135"/> <Node id="136"/>1993<Node id="140"/> <Node id="141"/>09<Node id="143"/>:<Node id="144"/>39<Node id="146"/>:<Node id="147"/>33<Node id="149"/> <Node id="150"/>GMT<Node id="153"/>
+<Node id="154"/>Lines<Node id="159"/>:<Node id="160"/> <Node id="161"/>7<Node id="162"/>
+<Node id="163"/>
+<Node id="164"/>
+<Node id="165"/>You<Node id="168"/> <Node id="169"/>could<Node id="174"/> <Node id="175"/>visit<Node id="180"/> <Node id="181"/>the<Node id="184"/> <Node id="185"/>former<Node id="191"/> <Node id="192"/>Davidian<Node id="200"/> <Node id="201"/>Adventist<Node id="210"/> <Node id="211"/>sanctuary<Node id="220"/> <Node id="221"/>at<Node id="223"/>
+<Node id="224"/>Waco<Node id="228"/>,<Node id="229"/> <Node id="230"/>but<Node id="233"/> <Node id="234"/>the<Node id="237"/> <Node id="238"/>Nazis<Node id="243"/> <Node id="244"/>are<Node id="247"/> <Node id="248"/>still<Node id="253"/> <Node id="254"/>holding<Node id="261"/> <Node id="262"/>that<Node id="266"/> <Node id="267"/>one<Node id="270"/>,<Node id="271"/> <Node id="272"/>and<Node id="275"/> <Node id="276"/>wo<Node id="278"/>n't<Node id="281"/> <Node id="282"/>let<Node id="285"/> <Node id="286"/>
+<Node id="287"/>you<Node id="290"/> <Node id="291"/>in<Node id="293"/>.<Node id="294"/>.<Node id="295"/>.<Node id="296"/>.<Node id="297"/>
+<Node id="298"/>
+<Node id="299"/>Jim<Node id="302"/> <Node id="303"/>Hart<Node id="307"/>
+<Node id="308"/>jhart<Node id="313"/>@<Node id="314"/>agora<Node id="319"/>.<Node id="320"/>rain<Node id="324"/>.<Node id="325"/>com<Node id="328"/>
+<Node id="329"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="329" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="17" Type="Token" StartNode="38" EndNode="46">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Token" StartNode="78" EndNode="90">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Token" StartNode="97" EndNode="111">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Communications</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="Token" StartNode="201" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Adventist</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="Token" StartNode="211" EndNode="220">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sanctuary</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="Token" StartNode="185" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">former</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="Token" StartNode="192" EndNode="200">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Davidian</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="Token" StartNode="254" EndNode="261">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">holding</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

@@ -1,0 +1,19 @@
+%1. Title: Tic-Tac-Toe Endgame database
+%
+%2. Source Information
+%   -- Creator: David W. Aha (aha@cs.jhu.edu)
+%   -- Donor: David W. Aha (aha@cs.jhu.edu)
+%   -- Date: 19 August 1991
+
+@RELATION Tic-Tac-Toe
+
+@ATTRIBUTE top-left-square {x,o,b}
+@ATTRIBUTE top-middle-square {x,o,b}
+@ATTRIBUTE top-right-square {x,o,b}
+@ATTRIBUTE middle-left-square {x,o,b}
+@ATTRIBUTE middle-middle-square {x,o,b}
+@ATTRIBUTE middle-right-square {x,o,b}
+@ATTRIBUTE bottom-left-square {x,o,b}
+@ATTRIBUTE bottom-middle-square {x,o,b}
+@ATTRIBUTE bottom-right-square {x,o,b}
+@ATTRIBUTE Class {w, f}

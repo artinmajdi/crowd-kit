@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: cramer@optilink.COM (Clayton Cramer)
+Message-ID: &lt;15457@optilink.COM>
+Date: 19 Apr 93 22:31:31 GMT
+Organization: Optilink Corporation, Petaluma, CA
+Lines: 8
+
+
+The Waco/Whacko Bar-B-Q caused me to remember an official explanation
+from the Vietnam War.  The 90s, liberal version is:
+
+    "It was necessary to incinerate the children in order to save them."
+-- 
+Clayton E. Cramer {uunet,pyramid}!optilink!cramer  My opinions, all mine!
+Relations between people to be by mutual consent, or not at all.
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative18</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>cramer<Node id="12"/>@<Node id="13"/>optilink<Node id="21"/>.<Node id="22"/>COM<Node id="25"/> <Node id="26"/>(<Node id="27"/>Clayton<Node id="34"/> <Node id="35"/>Cramer<Node id="41"/>)<Node id="42"/>
+<Node id="43"/>Message-<Node id="51"/>ID<Node id="53"/>:<Node id="54"/> <Node id="55"/>&lt;<Node id="56"/>15457<Node id="61"/>@<Node id="62"/>optilink<Node id="70"/>.<Node id="71"/>COM<Node id="74"/>&gt;<Node id="75"/>
+<Node id="76"/>Date<Node id="80"/>:<Node id="81"/> <Node id="82"/>19<Node id="84"/> <Node id="85"/>Apr<Node id="88"/> <Node id="89"/>93<Node id="91"/> <Node id="92"/>22<Node id="94"/>:<Node id="95"/>31<Node id="97"/>:<Node id="98"/>31<Node id="100"/> <Node id="101"/>GMT<Node id="104"/>
+<Node id="105"/>Organization<Node id="117"/>:<Node id="118"/> <Node id="119"/>Optilink<Node id="127"/> <Node id="128"/>Corporation<Node id="139"/>,<Node id="140"/> <Node id="141"/>Petaluma<Node id="149"/>,<Node id="150"/> <Node id="151"/>CA<Node id="153"/>
+<Node id="154"/>Lines<Node id="159"/>:<Node id="160"/> <Node id="161"/>8<Node id="162"/>
+<Node id="163"/>
+<Node id="164"/>
+<Node id="165"/>The<Node id="168"/> <Node id="169"/>Waco<Node id="173"/>/<Node id="174"/>Whacko<Node id="180"/> <Node id="181"/>Bar-<Node id="185"/>B-Q<Node id="188"/> <Node id="189"/>caused<Node id="195"/> <Node id="196"/>me<Node id="198"/> <Node id="199"/>to<Node id="201"/> <Node id="202"/>remember<Node id="210"/> <Node id="211"/>an<Node id="213"/> <Node id="214"/>official<Node id="222"/> <Node id="223"/>explanation<Node id="234"/>
+<Node id="235"/>from<Node id="239"/> <Node id="240"/>the<Node id="243"/> <Node id="244"/>Vietnam<Node id="251"/> <Node id="252"/>War<Node id="255"/>.<Node id="256"/> <Node id="257"/> <Node id="258"/>The<Node id="261"/> <Node id="262"/>90<Node id="264"/>s<Node id="265"/>,<Node id="266"/> <Node id="267"/>liberal<Node id="274"/> <Node id="275"/>version<Node id="282"/> <Node id="283"/>is<Node id="285"/>:<Node id="286"/>
+<Node id="287"/>
+<Node id="288"/> <Node id="289"/> <Node id="290"/> <Node id="291"/> <Node id="292"/>"<Node id="293"/>It<Node id="295"/> <Node id="296"/>was<Node id="299"/> <Node id="300"/>necessary<Node id="309"/> <Node id="310"/>to<Node id="312"/> <Node id="313"/>incinerate<Node id="323"/> <Node id="324"/>the<Node id="327"/> <Node id="328"/>children<Node id="336"/> <Node id="337"/>in<Node id="339"/> <Node id="340"/>order<Node id="345"/> <Node id="346"/>to<Node id="348"/> <Node id="349"/>save<Node id="353"/> <Node id="354"/>them<Node id="358"/>.<Node id="359"/>"<Node id="360"/>
+<Node id="361"/>-<Node id="362"/>-<Node id="363"/> <Node id="364"/>
+<Node id="365"/>Clayton<Node id="372"/> <Node id="373"/>E<Node id="374"/>.<Node id="375"/> <Node id="376"/>Cramer<Node id="382"/> <Node id="383"/>{<Node id="384"/>uunet<Node id="389"/>,<Node id="390"/>pyramid<Node id="397"/>}<Node id="398"/>!<Node id="399"/>optilink<Node id="407"/>!<Node id="408"/>cramer<Node id="414"/> <Node id="415"/> <Node id="416"/>My<Node id="418"/> <Node id="419"/>opinions<Node id="427"/>,<Node id="428"/> <Node id="429"/>all<Node id="432"/> <Node id="433"/>mine<Node id="437"/>!<Node id="438"/>
+<Node id="439"/>Relations<Node id="448"/> <Node id="449"/>between<Node id="456"/> <Node id="457"/>people<Node id="463"/> <Node id="464"/>to<Node id="466"/> <Node id="467"/>be<Node id="469"/> <Node id="470"/>by<Node id="472"/> <Node id="473"/>mutual<Node id="479"/> <Node id="480"/>consent<Node id="487"/>,<Node id="488"/> <Node id="489"/>or<Node id="491"/> <Node id="492"/>not<Node id="495"/> <Node id="496"/>at<Node id="498"/> <Node id="499"/>all<Node id="502"/>.<Node id="503"/>
+<Node id="504"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="504" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="3" Type="Token" StartNode="6" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="13" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">optilink</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Token" StartNode="27" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Clayton</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Token" StartNode="35" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Cramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Token" StartNode="43" EndNode="51">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Token" StartNode="62" EndNode="70">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">optilink</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Token" StartNode="119" EndNode="127">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Optilink</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Token" StartNode="105" EndNode="117">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Token" StartNode="128" EndNode="139">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Corporation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="Token" StartNode="141" EndNode="149">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Petaluma</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="Token" StartNode="174" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Whacko</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="Token" StartNode="202" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">remember</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="Token" StartNode="189" EndNode="195">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">caused</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="Token" StartNode="223" EndNode="234">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">explanation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="Token" StartNode="214" EndNode="222">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">official</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="Token" StartNode="244" EndNode="251">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Vietnam</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="Token" StartNode="267" EndNode="274">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">liberal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="Token" StartNode="275" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">version</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="Token" StartNode="313" EndNode="323">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">incinerate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="120" Type="Token" StartNode="300" EndNode="309">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">necessary</Value>
+</Feature>
+</Annotation>
+<Annotation Id="128" Type="Token" StartNode="328" EndNode="336">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">children</Value>
+</Feature>
+</Annotation>
+<Annotation Id="156" Type="Token" StartNode="390" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">pyramid</Value>
+</Feature>
+</Annotation>
+<Annotation Id="159" Type="Token" StartNode="399" EndNode="407">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">optilink</Value>
+</Feature>
+</Annotation>
+<Annotation Id="146" Type="Token" StartNode="365" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Clayton</Value>
+</Feature>
+</Annotation>
+<Annotation Id="151" Type="Token" StartNode="376" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Cramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="174" Type="Token" StartNode="439" EndNode="448">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Relations</Value>
+</Feature>
+</Annotation>
+<Annotation Id="161" Type="Token" StartNode="408" EndNode="414">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="166" Type="Token" StartNode="419" EndNode="427">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">opinions</Value>
+</Feature>
+</Annotation>
+<Annotation Id="186" Type="Token" StartNode="473" EndNode="479">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">mutual</Value>
+</Feature>
+</Annotation>
+<Annotation Id="188" Type="Token" StartNode="480" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">consent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="457" EndNode="463">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">people</Value>
+</Feature>
+</Annotation>
+<Annotation Id="176" Type="Token" StartNode="449" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">between</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

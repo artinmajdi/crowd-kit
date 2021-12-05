@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: cpr@igc.apc.org (Center for Policy Research)
+Message-ID: &lt;1483500347@igc.apc.org>
+Date: 17 Apr 93 22:37:00 GMT
+References: &lt;1483500342@igc.apc.org>
+Sender: Notesfile to Usenet Gateway &lt;notes@igc.apc.org>
+Lines: 8
+Nf-ID: #R:cdp:1483500342:cdp:1483500347:000:151
+Nf-From: cdp.UUCP!cpr    Apr 17 15:37:00 1993
+
+
+Before getting excited and implying that I am posting
+fabrications, I would suggest the readers to consult the
+newspaper in question. 
+
+Tahnks,
+
+Elias
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive119</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>cpr<Node id="9"/>@<Node id="10"/>igc<Node id="13"/>.<Node id="14"/>apc<Node id="17"/>.<Node id="18"/>org<Node id="21"/> <Node id="22"/>(<Node id="23"/>Center<Node id="29"/> <Node id="30"/>for<Node id="33"/> <Node id="34"/>Policy<Node id="40"/> <Node id="41"/>Research<Node id="49"/>)<Node id="50"/>
+<Node id="51"/>Message-<Node id="59"/>ID<Node id="61"/>:<Node id="62"/> <Node id="63"/>&lt;<Node id="64"/>1483500347<Node id="74"/>@<Node id="75"/>igc<Node id="78"/>.<Node id="79"/>apc<Node id="82"/>.<Node id="83"/>org<Node id="86"/>&gt;<Node id="87"/>
+<Node id="88"/>Date<Node id="92"/>:<Node id="93"/> <Node id="94"/>17<Node id="96"/> <Node id="97"/>Apr<Node id="100"/> <Node id="101"/>93<Node id="103"/> <Node id="104"/>22<Node id="106"/>:<Node id="107"/>37<Node id="109"/>:<Node id="110"/>00<Node id="112"/> <Node id="113"/>GMT<Node id="116"/>
+<Node id="117"/>References<Node id="127"/>:<Node id="128"/> <Node id="129"/>&lt;<Node id="130"/>1483500342<Node id="140"/>@<Node id="141"/>igc<Node id="144"/>.<Node id="145"/>apc<Node id="148"/>.<Node id="149"/>org<Node id="152"/>&gt;<Node id="153"/>
+<Node id="154"/>Sender<Node id="160"/>:<Node id="161"/> <Node id="162"/>Notesfile<Node id="171"/> <Node id="172"/>to<Node id="174"/> <Node id="175"/>Usenet<Node id="181"/> <Node id="182"/>Gateway<Node id="189"/> <Node id="190"/>&lt;<Node id="191"/>notes<Node id="196"/>@<Node id="197"/>igc<Node id="200"/>.<Node id="201"/>apc<Node id="204"/>.<Node id="205"/>org<Node id="208"/>&gt;<Node id="209"/>
+<Node id="210"/>Lines<Node id="215"/>:<Node id="216"/> <Node id="217"/>8<Node id="218"/>
+<Node id="219"/>Nf-<Node id="222"/>ID<Node id="224"/>:<Node id="225"/> <Node id="226"/>#<Node id="227"/>R<Node id="228"/>:<Node id="229"/>cdp<Node id="232"/>:<Node id="233"/>1483500342<Node id="243"/>:<Node id="244"/>cdp<Node id="247"/>:<Node id="248"/>1483500347<Node id="258"/>:<Node id="259"/>000<Node id="262"/>:<Node id="263"/>151<Node id="266"/>
+<Node id="267"/>Nf-<Node id="270"/>From<Node id="274"/>:<Node id="275"/> <Node id="276"/>cdp<Node id="279"/>.<Node id="280"/>UUCP<Node id="284"/>!<Node id="285"/>cpr<Node id="288"/> <Node id="289"/> <Node id="290"/> <Node id="291"/> <Node id="292"/>Apr<Node id="295"/> <Node id="296"/>17<Node id="298"/> <Node id="299"/>15<Node id="301"/>:<Node id="302"/>37<Node id="304"/>:<Node id="305"/>00<Node id="307"/> <Node id="308"/>1993<Node id="312"/>
+<Node id="313"/>
+<Node id="314"/>
+<Node id="315"/>Before<Node id="321"/> <Node id="322"/>getting<Node id="329"/> <Node id="330"/>excited<Node id="337"/> <Node id="338"/>and<Node id="341"/> <Node id="342"/>implying<Node id="350"/> <Node id="351"/>that<Node id="355"/> <Node id="356"/>I<Node id="357"/> <Node id="358"/>am<Node id="360"/> <Node id="361"/>posting<Node id="368"/>
+<Node id="369"/>fabrications<Node id="381"/>,<Node id="382"/> <Node id="383"/>I<Node id="384"/> <Node id="385"/>would<Node id="390"/> <Node id="391"/>suggest<Node id="398"/> <Node id="399"/>the<Node id="402"/> <Node id="403"/>readers<Node id="410"/> <Node id="411"/>to<Node id="413"/> <Node id="414"/>consult<Node id="421"/> <Node id="422"/>the<Node id="425"/>
+<Node id="426"/>newspaper<Node id="435"/> <Node id="436"/>in<Node id="438"/> <Node id="439"/>question<Node id="447"/>.<Node id="448"/> <Node id="449"/>
+<Node id="450"/>
+<Node id="451"/>Tahnks<Node id="457"/>,<Node id="458"/>
+<Node id="459"/>
+<Node id="460"/>Elias<Node id="465"/>
+<Node id="466"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="466" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="12" Type="Token" StartNode="23" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Center</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="34" EndNode="40">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Policy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Token" StartNode="41" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Research</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Token" StartNode="51" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Token" StartNode="64" EndNode="74">
+</Annotation>
+<Annotation Id="52" Type="Token" StartNode="117" EndNode="127">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="130" EndNode="140">
+</Annotation>
+<Annotation Id="68" Type="Token" StartNode="162" EndNode="171">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Notesfile</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Token" StartNode="154" EndNode="160">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="Token" StartNode="175" EndNode="181">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Usenet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Token" StartNode="182" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Gateway</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="Token" StartNode="233" EndNode="243">
+</Annotation>
+<Annotation Id="104" Type="Token" StartNode="248" EndNode="258">
+</Annotation>
+<Annotation Id="137" Type="Token" StartNode="315" EndNode="321">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Before</Value>
+</Feature>
+</Annotation>
+<Annotation Id="139" Type="Token" StartNode="322" EndNode="329">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">getting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="141" Type="Token" StartNode="330" EndNode="337">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">excited</Value>
+</Feature>
+</Annotation>
+<Annotation Id="153" Type="Token" StartNode="361" EndNode="368">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">posting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="155" Type="Token" StartNode="369" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">fabrications</Value>
+</Feature>
+</Annotation>
+<Annotation Id="145" Type="Token" StartNode="342" EndNode="350">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">implying</Value>
+</Feature>
+</Annotation>
+<Annotation Id="170" Type="Token" StartNode="414" EndNode="421">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">consult</Value>
+</Feature>
+</Annotation>
+<Annotation Id="174" Type="Token" StartNode="426" EndNode="435">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">newspaper</Value>
+</Feature>
+</Annotation>
+<Annotation Id="162" Type="Token" StartNode="391" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">suggest</Value>
+</Feature>
+</Annotation>
+<Annotation Id="166" Type="Token" StartNode="403" EndNode="410">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">readers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="439" EndNode="447">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">question</Value>
+</Feature>
+</Annotation>
+<Annotation Id="183" Type="Token" StartNode="451" EndNode="457">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Tahnks</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: jodfishe@silver.ucs.indiana.edu (joseph dale fisher)
+Message-ID: &lt;Apr.11.01.02.03.1993.17751@athos.rutgers.edu>
+Date: 11 Apr 93 05:02:03 GMT
+Sender: hedrick@athos.rutgers.edu
+Organization: Indiana University
+Lines: 8
+Approved: christian@aramis.rutgers.edu
+
+Of course, I'd still recommend that Michael read _True and Reasonable_
+by Douglas Jacoby.
+
+Joe Fisher
+
+Oh, and Michael, I wait to see any dents in any armor and my faith
+hasn't wavered since the day I became a disciple.  You may want to try
+it sometime.  It's life-changing!
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative1025</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>jodfishe<Node id="14"/>@<Node id="15"/>silver<Node id="21"/>.<Node id="22"/>ucs<Node id="25"/>.<Node id="26"/>indiana<Node id="33"/>.<Node id="34"/>edu<Node id="37"/> <Node id="38"/>(<Node id="39"/>joseph<Node id="45"/> <Node id="46"/>dale<Node id="50"/> <Node id="51"/>fisher<Node id="57"/>)<Node id="58"/>
+<Node id="59"/>Message-<Node id="67"/>ID<Node id="69"/>:<Node id="70"/> <Node id="71"/>&lt;<Node id="72"/>Apr<Node id="75"/>.<Node id="76"/>11<Node id="78"/>.<Node id="79"/>01<Node id="81"/>.<Node id="82"/>02<Node id="84"/>.<Node id="85"/>03<Node id="87"/>.<Node id="88"/>1993<Node id="92"/>.<Node id="93"/>17751<Node id="98"/>@<Node id="99"/>athos<Node id="104"/>.<Node id="105"/>rutgers<Node id="112"/>.<Node id="113"/>edu<Node id="116"/>&gt;<Node id="117"/>
+<Node id="118"/>Date<Node id="122"/>:<Node id="123"/> <Node id="124"/>11<Node id="126"/> <Node id="127"/>Apr<Node id="130"/> <Node id="131"/>93<Node id="133"/> <Node id="134"/>05<Node id="136"/>:<Node id="137"/>02<Node id="139"/>:<Node id="140"/>03<Node id="142"/> <Node id="143"/>GMT<Node id="146"/>
+<Node id="147"/>Sender<Node id="153"/>:<Node id="154"/> <Node id="155"/>hedrick<Node id="162"/>@<Node id="163"/>athos<Node id="168"/>.<Node id="169"/>rutgers<Node id="176"/>.<Node id="177"/>edu<Node id="180"/>
+<Node id="181"/>Organization<Node id="193"/>:<Node id="194"/> <Node id="195"/>Indiana<Node id="202"/> <Node id="203"/>University<Node id="213"/>
+<Node id="214"/>Lines<Node id="219"/>:<Node id="220"/> <Node id="221"/>8<Node id="222"/>
+<Node id="223"/>Approved<Node id="231"/>:<Node id="232"/> <Node id="233"/>christian<Node id="242"/>@<Node id="243"/>aramis<Node id="249"/>.<Node id="250"/>rutgers<Node id="257"/>.<Node id="258"/>edu<Node id="261"/>
+<Node id="262"/>
+<Node id="263"/>Of<Node id="265"/> <Node id="266"/>course<Node id="272"/>,<Node id="273"/> <Node id="274"/>I<Node id="275"/>'d<Node id="277"/> <Node id="278"/>still<Node id="283"/> <Node id="284"/>recommend<Node id="293"/> <Node id="294"/>that<Node id="298"/> <Node id="299"/>Michael<Node id="306"/> <Node id="307"/>read<Node id="311"/> <Node id="312"/>_<Node id="313"/>True<Node id="317"/> <Node id="318"/>and<Node id="321"/> <Node id="322"/>Reasonable<Node id="332"/>_<Node id="333"/>
+<Node id="334"/>by<Node id="336"/> <Node id="337"/>Douglas<Node id="344"/> <Node id="345"/>Jacoby<Node id="351"/>.<Node id="352"/>
+<Node id="353"/>
+<Node id="354"/>Joe<Node id="357"/> <Node id="358"/>Fisher<Node id="364"/>
+<Node id="365"/>
+<Node id="366"/>Oh<Node id="368"/>,<Node id="369"/> <Node id="370"/>and<Node id="373"/> <Node id="374"/>Michael<Node id="381"/>,<Node id="382"/> <Node id="383"/>I<Node id="384"/> <Node id="385"/>wait<Node id="389"/> <Node id="390"/>to<Node id="392"/> <Node id="393"/>see<Node id="396"/> <Node id="397"/>any<Node id="400"/> <Node id="401"/>dents<Node id="406"/> <Node id="407"/>in<Node id="409"/> <Node id="410"/>any<Node id="413"/> <Node id="414"/>armor<Node id="419"/> <Node id="420"/>and<Node id="423"/> <Node id="424"/>my<Node id="426"/> <Node id="427"/>faith<Node id="432"/>
+<Node id="433"/>has<Node id="436"/>n't<Node id="439"/> <Node id="440"/>wavered<Node id="447"/> <Node id="448"/>since<Node id="453"/> <Node id="454"/>the<Node id="457"/> <Node id="458"/>day<Node id="461"/> <Node id="462"/>I<Node id="463"/> <Node id="464"/>became<Node id="470"/> <Node id="471"/>a<Node id="472"/> <Node id="473"/>disciple<Node id="481"/>.<Node id="482"/> <Node id="483"/> <Node id="484"/>You<Node id="487"/> <Node id="488"/>may<Node id="491"/> <Node id="492"/>want<Node id="496"/> <Node id="497"/>to<Node id="499"/> <Node id="500"/>try<Node id="503"/>
+<Node id="504"/>it<Node id="506"/> <Node id="507"/>sometime<Node id="515"/>.<Node id="516"/> <Node id="517"/> <Node id="518"/>It<Node id="520"/>'s<Node id="522"/> <Node id="523"/>life-changing<Node id="536"/>!<Node id="537"/>
+<Node id="538"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="538" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="3" Type="Token" StartNode="6" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">jodfishe</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="15" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">silver</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Token" StartNode="26" EndNode="33">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">indiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Token" StartNode="39" EndNode="45">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">joseph</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Token" StartNode="51" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">fisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Token" StartNode="59" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Token" StartNode="105" EndNode="112">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rutgers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="Token" StartNode="169" EndNode="176">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rutgers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="Token" StartNode="147" EndNode="153">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="Token" StartNode="155" EndNode="162">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">hedrick</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="Token" StartNode="195" EndNode="202">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Indiana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="Token" StartNode="181" EndNode="193">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="Token" StartNode="223" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Approved</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="Token" StartNode="203" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="Token" StartNode="243" EndNode="249">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">aramis</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="Token" StartNode="250" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rutgers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="90" Type="Token" StartNode="233" EndNode="242">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">christian</Value>
+</Feature>
+</Annotation>
+<Annotation Id="101" Type="Token" StartNode="266" EndNode="272">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">course</Value>
+</Feature>
+</Annotation>
+<Annotation Id="110" Type="Token" StartNode="284" EndNode="293">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">recommend</Value>
+</Feature>
+</Annotation>
+<Annotation Id="114" Type="Token" StartNode="299" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Michael</Value>
+</Feature>
+</Annotation>
+<Annotation Id="123" Type="Token" StartNode="322" EndNode="332">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reasonable</Value>
+</Feature>
+</Annotation>
+<Annotation Id="136" Type="Token" StartNode="358" EndNode="364">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Fisher</Value>
+</Feature>
+</Annotation>
+<Annotation Id="128" Type="Token" StartNode="337" EndNode="344">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Douglas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="130" Type="Token" StartNode="345" EndNode="351">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Jacoby</Value>
+</Feature>
+</Annotation>
+<Annotation Id="144" Type="Token" StartNode="374" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Michael</Value>
+</Feature>
+</Annotation>
+<Annotation Id="175" Type="Token" StartNode="440" EndNode="447">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">wavered</Value>
+</Feature>
+</Annotation>
+<Annotation Id="185" Type="Token" StartNode="464" EndNode="470">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">became</Value>
+</Feature>
+</Annotation>
+<Annotation Id="189" Type="Token" StartNode="473" EndNode="481">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">disciple</Value>
+</Feature>
+</Annotation>
+<Annotation Id="205" Type="Token" StartNode="507" EndNode="515">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sometime</Value>
+</Feature>
+</Annotation>
+<Annotation Id="213" Type="Token" StartNode="523" EndNode="536">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">life-changing</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: enis@cbnewsg.cb.att.com (enis.surensoy)
+Message-ID: &lt;C5ywun.2xG@cbfsb.cb.att.com>
+Sender: news@cbfsb.cb.att.com
+Organization: AT&amp;T
+Date: Sat, 24 Apr 1993 03:11:10 GMT
+Lines: 4
+
+>Armenia says it could shoot down Turkish planes
+
+	Armenia does not have pot to piss in it; let alone shooting
+	down modern war planes.
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive658</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>enis<Node id="10"/>@<Node id="11"/>cbnewsg<Node id="18"/>.<Node id="19"/>cb<Node id="21"/>.<Node id="22"/>att<Node id="25"/>.<Node id="26"/>com<Node id="29"/> <Node id="30"/>(<Node id="31"/>enis<Node id="35"/>.<Node id="36"/>surensoy<Node id="44"/>)<Node id="45"/>
+<Node id="46"/>Message-<Node id="54"/>ID<Node id="56"/>:<Node id="57"/> <Node id="58"/>&lt;<Node id="59"/>C<Node id="60"/>5<Node id="61"/>ywun<Node id="65"/>.<Node id="66"/>2<Node id="67"/>xG<Node id="69"/>@<Node id="70"/>cbfsb<Node id="75"/>.<Node id="76"/>cb<Node id="78"/>.<Node id="79"/>att<Node id="82"/>.<Node id="83"/>com<Node id="86"/>&gt;<Node id="87"/>
+<Node id="88"/>Sender<Node id="94"/>:<Node id="95"/> <Node id="96"/>news<Node id="100"/>@<Node id="101"/>cbfsb<Node id="106"/>.<Node id="107"/>cb<Node id="109"/>.<Node id="110"/>att<Node id="113"/>.<Node id="114"/>com<Node id="117"/>
+<Node id="118"/>Organization<Node id="130"/>:<Node id="131"/> <Node id="132"/>AT<Node id="134"/>&amp;<Node id="135"/>T<Node id="136"/>
+<Node id="137"/>Date<Node id="141"/>:<Node id="142"/> <Node id="143"/>Sat<Node id="146"/>,<Node id="147"/> <Node id="148"/>24<Node id="150"/> <Node id="151"/>Apr<Node id="154"/> <Node id="155"/>1993<Node id="159"/> <Node id="160"/>03<Node id="162"/>:<Node id="163"/>11<Node id="165"/>:<Node id="166"/>10<Node id="168"/> <Node id="169"/>GMT<Node id="172"/>
+<Node id="173"/>Lines<Node id="178"/>:<Node id="179"/> <Node id="180"/>4<Node id="181"/>
+<Node id="182"/>
+<Node id="183"/>&gt;<Node id="184"/>Armenia<Node id="191"/> <Node id="192"/>says<Node id="196"/> <Node id="197"/>it<Node id="199"/> <Node id="200"/>could<Node id="205"/> <Node id="206"/>shoot<Node id="211"/> <Node id="212"/>down<Node id="216"/> <Node id="217"/>Turkish<Node id="224"/> <Node id="225"/>planes<Node id="231"/>
+<Node id="232"/>
+<Node id="233"/>	<Node id="234"/>Armenia<Node id="241"/> <Node id="242"/>does<Node id="246"/> <Node id="247"/>not<Node id="250"/> <Node id="251"/>have<Node id="255"/> <Node id="256"/>pot<Node id="259"/> <Node id="260"/>to<Node id="262"/> <Node id="263"/>piss<Node id="267"/> <Node id="268"/>in<Node id="270"/> <Node id="271"/>it<Node id="273"/>;<Node id="274"/> <Node id="275"/>let<Node id="278"/> <Node id="279"/>alone<Node id="284"/> <Node id="285"/>shooting<Node id="293"/>
+<Node id="294"/>	<Node id="295"/>down<Node id="299"/> <Node id="300"/>modern<Node id="306"/> <Node id="307"/>war<Node id="310"/> <Node id="311"/>planes<Node id="317"/>.<Node id="318"/>
+<Node id="319"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="319" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="5" Type="Token" StartNode="11" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cbnewsg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="36" EndNode="44">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">surensoy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Token" StartNode="46" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Token" StartNode="88" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="Token" StartNode="118" EndNode="130">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="Token" StartNode="184" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Armenia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="101" Type="Token" StartNode="225" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">planes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Token" StartNode="217" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Turkish</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="Token" StartNode="234" EndNode="241">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Armenia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="137" Type="Token" StartNode="311" EndNode="317">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">planes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="128" Type="Token" StartNode="285" EndNode="293">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">shooting</Value>
+</Feature>
+</Annotation>
+<Annotation Id="133" Type="Token" StartNode="300" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">modern</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

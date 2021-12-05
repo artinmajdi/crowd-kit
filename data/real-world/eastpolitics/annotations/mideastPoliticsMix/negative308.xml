@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">Organization: City University of New York
+Date: Saturday, 17 Apr 1993 14:12:38 EDT
+From: &lt;F36SI@CUNYVM.BITNET>
+Message-ID: &lt;93107.141238F36SI@CUNYVM.BITNET>
+Lines: 3
+
+    Just observed at the National Model United Nations here in NYC.
+    Just one word on it : AWSOME.
+                                 Peace, matt
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative308</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Organization<Node id="12"/>:<Node id="13"/> <Node id="14"/>City<Node id="18"/> <Node id="19"/>University<Node id="29"/> <Node id="30"/>of<Node id="32"/> <Node id="33"/>New<Node id="36"/> <Node id="37"/>York<Node id="41"/>
+<Node id="42"/>Date<Node id="46"/>:<Node id="47"/> <Node id="48"/>Saturday<Node id="56"/>,<Node id="57"/> <Node id="58"/>17<Node id="60"/> <Node id="61"/>Apr<Node id="64"/> <Node id="65"/>1993<Node id="69"/> <Node id="70"/>14<Node id="72"/>:<Node id="73"/>12<Node id="75"/>:<Node id="76"/>38<Node id="78"/> <Node id="79"/>EDT<Node id="82"/>
+<Node id="83"/>From<Node id="87"/>:<Node id="88"/> <Node id="89"/>&lt;<Node id="90"/>F<Node id="91"/>36<Node id="93"/>SI<Node id="95"/>@<Node id="96"/>CUNYVM<Node id="102"/>.<Node id="103"/>BITNET<Node id="109"/>&gt;<Node id="110"/>
+<Node id="111"/>Message-<Node id="119"/>ID<Node id="121"/>:<Node id="122"/> <Node id="123"/>&lt;<Node id="124"/>93107<Node id="129"/>.<Node id="130"/>141238<Node id="136"/>F<Node id="137"/>36<Node id="139"/>SI<Node id="141"/>@<Node id="142"/>CUNYVM<Node id="148"/>.<Node id="149"/>BITNET<Node id="155"/>&gt;<Node id="156"/>
+<Node id="157"/>Lines<Node id="162"/>:<Node id="163"/> <Node id="164"/>3<Node id="165"/>
+<Node id="166"/>
+<Node id="167"/> <Node id="168"/> <Node id="169"/> <Node id="170"/> <Node id="171"/>Just<Node id="175"/> <Node id="176"/>observed<Node id="184"/> <Node id="185"/>at<Node id="187"/> <Node id="188"/>the<Node id="191"/> <Node id="192"/>National<Node id="200"/> <Node id="201"/>Model<Node id="206"/> <Node id="207"/>United<Node id="213"/> <Node id="214"/>Nations<Node id="221"/> <Node id="222"/>here<Node id="226"/> <Node id="227"/>in<Node id="229"/> <Node id="230"/>NYC<Node id="233"/>.<Node id="234"/>
+<Node id="235"/> <Node id="236"/> <Node id="237"/> <Node id="238"/> <Node id="239"/>Just<Node id="243"/> <Node id="244"/>one<Node id="247"/> <Node id="248"/>word<Node id="252"/> <Node id="253"/>on<Node id="255"/> <Node id="256"/>it<Node id="258"/> <Node id="259"/>:<Node id="260"/> <Node id="261"/>AWSOME<Node id="267"/>.<Node id="268"/>
+<Node id="269"/> <Node id="270"/> <Node id="271"/> <Node id="272"/> <Node id="273"/> <Node id="274"/> <Node id="275"/> <Node id="276"/> <Node id="277"/> <Node id="278"/> <Node id="279"/> <Node id="280"/> <Node id="281"/> <Node id="282"/> <Node id="283"/> <Node id="284"/> <Node id="285"/> <Node id="286"/> <Node id="287"/> <Node id="288"/> <Node id="289"/> <Node id="290"/> <Node id="291"/> <Node id="292"/> <Node id="293"/> <Node id="294"/> <Node id="295"/> <Node id="296"/> <Node id="297"/> <Node id="298"/> <Node id="299"/> <Node id="300"/> <Node id="301"/> <Node id="302"/>Peace<Node id="307"/>,<Node id="308"/> <Node id="309"/>matt<Node id="313"/>
+<Node id="314"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="314" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="0" Type="Token" StartNode="0" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="19" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="48" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Saturday</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Token" StartNode="103" EndNode="109">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">BITNET</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Token" StartNode="96" EndNode="102">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">CUNYVM</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Token" StartNode="111" EndNode="119">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="Token" StartNode="130" EndNode="136">
+</Annotation>
+<Annotation Id="58" Type="Token" StartNode="142" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">CUNYVM</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Token" StartNode="149" EndNode="155">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">BITNET</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="Token" StartNode="176" EndNode="184">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">observed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="Token" StartNode="207" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">United</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="Token" StartNode="214" EndNode="221">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Nations</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="Token" StartNode="192" EndNode="200">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">National</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="Token" StartNode="261" EndNode="267">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">AWSOME</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: reedr@cgsvax.claremont.edu
+Message-ID: &lt;Apr.25.22.18.47.1993.5487@geneva.rutgers.edu>
+Date: 26 Apr 93 02:18:48 GMT
+Sender: hedrick@geneva.rutgers.edu
+Organization: The Claremont Graduate School
+Lines: 5
+Approved: christian@aramis.rutgers.edu
+
+Just finished reading Burton Mack's new book, _The Lost Gospel, Q and Christian
+Origins_.  I thought it was totally cool.  Anyone else read it and want to 
+talk?
+
+Randy
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative316</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>reedr<Node id="11"/>@<Node id="12"/>cgsvax<Node id="18"/>.<Node id="19"/>claremont<Node id="28"/>.<Node id="29"/>edu<Node id="32"/>
+<Node id="33"/>Message-<Node id="41"/>ID<Node id="43"/>:<Node id="44"/> <Node id="45"/>&lt;<Node id="46"/>Apr<Node id="49"/>.<Node id="50"/>25<Node id="52"/>.<Node id="53"/>22<Node id="55"/>.<Node id="56"/>18<Node id="58"/>.<Node id="59"/>47<Node id="61"/>.<Node id="62"/>1993<Node id="66"/>.<Node id="67"/>5487<Node id="71"/>@<Node id="72"/>geneva<Node id="78"/>.<Node id="79"/>rutgers<Node id="86"/>.<Node id="87"/>edu<Node id="90"/>&gt;<Node id="91"/>
+<Node id="92"/>Date<Node id="96"/>:<Node id="97"/> <Node id="98"/>26<Node id="100"/> <Node id="101"/>Apr<Node id="104"/> <Node id="105"/>93<Node id="107"/> <Node id="108"/>02<Node id="110"/>:<Node id="111"/>18<Node id="113"/>:<Node id="114"/>48<Node id="116"/> <Node id="117"/>GMT<Node id="120"/>
+<Node id="121"/>Sender<Node id="127"/>:<Node id="128"/> <Node id="129"/>hedrick<Node id="136"/>@<Node id="137"/>geneva<Node id="143"/>.<Node id="144"/>rutgers<Node id="151"/>.<Node id="152"/>edu<Node id="155"/>
+<Node id="156"/>Organization<Node id="168"/>:<Node id="169"/> <Node id="170"/>The<Node id="173"/> <Node id="174"/>Claremont<Node id="183"/> <Node id="184"/>Graduate<Node id="192"/> <Node id="193"/>School<Node id="199"/>
+<Node id="200"/>Lines<Node id="205"/>:<Node id="206"/> <Node id="207"/>5<Node id="208"/>
+<Node id="209"/>Approved<Node id="217"/>:<Node id="218"/> <Node id="219"/>christian<Node id="228"/>@<Node id="229"/>aramis<Node id="235"/>.<Node id="236"/>rutgers<Node id="243"/>.<Node id="244"/>edu<Node id="247"/>
+<Node id="248"/>
+<Node id="249"/>Just<Node id="253"/> <Node id="254"/>finished<Node id="262"/> <Node id="263"/>reading<Node id="270"/> <Node id="271"/>Burton<Node id="277"/> <Node id="278"/>Mack<Node id="282"/>'s<Node id="284"/> <Node id="285"/>new<Node id="288"/> <Node id="289"/>book<Node id="293"/>,<Node id="294"/> <Node id="295"/>_<Node id="296"/>The<Node id="299"/> <Node id="300"/>Lost<Node id="304"/> <Node id="305"/>Gospel<Node id="311"/>,<Node id="312"/> <Node id="313"/>Q<Node id="314"/> <Node id="315"/>and<Node id="318"/> <Node id="319"/>Christian<Node id="328"/>
+<Node id="329"/>Origins<Node id="336"/>_<Node id="337"/>.<Node id="338"/> <Node id="339"/> <Node id="340"/>I<Node id="341"/> <Node id="342"/>thought<Node id="349"/> <Node id="350"/>it<Node id="352"/> <Node id="353"/>was<Node id="356"/> <Node id="357"/>totally<Node id="364"/> <Node id="365"/>cool<Node id="369"/>.<Node id="370"/> <Node id="371"/> <Node id="372"/>Anyone<Node id="378"/> <Node id="379"/>else<Node id="383"/> <Node id="384"/>read<Node id="388"/> <Node id="389"/>it<Node id="391"/> <Node id="392"/>and<Node id="395"/> <Node id="396"/>want<Node id="400"/> <Node id="401"/>to<Node id="403"/> <Node id="404"/>
+<Node id="405"/>talk<Node id="409"/>?<Node id="410"/>
+<Node id="411"/>
+<Node id="412"/>Randy<Node id="417"/>
+<Node id="418"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="418" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="5" Type="Token" StartNode="12" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cgsvax</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="19" EndNode="28">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">claremont</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Token" StartNode="33" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Token" StartNode="72" EndNode="78">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">geneva</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Token" StartNode="79" EndNode="86">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rutgers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Token" StartNode="121" EndNode="127">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="Token" StartNode="137" EndNode="143">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">geneva</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="Token" StartNode="129" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">hedrick</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="Token" StartNode="144" EndNode="151">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rutgers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="Token" StartNode="174" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Claremont</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Token" StartNode="156" EndNode="168">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="Token" StartNode="184" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Graduate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Token" StartNode="193" EndNode="199">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">School</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="Token" StartNode="219" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">christian</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="Token" StartNode="229" EndNode="235">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">aramis</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="Token" StartNode="209" EndNode="217">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Approved</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="Token" StartNode="254" EndNode="262">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">finished</Value>
+</Feature>
+</Annotation>
+<Annotation Id="88" Type="Token" StartNode="236" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">rutgers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Token" StartNode="271" EndNode="277">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Burton</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="Token" StartNode="263" EndNode="270">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reading</Value>
+</Feature>
+</Annotation>
+<Annotation Id="115" Type="Token" StartNode="305" EndNode="311">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Gospel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="Token" StartNode="329" EndNode="336">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Origins</Value>
+</Feature>
+</Annotation>
+<Annotation Id="122" Type="Token" StartNode="319" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Christian</Value>
+</Feature>
+</Annotation>
+<Annotation Id="137" Type="Token" StartNode="357" EndNode="364">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">totally</Value>
+</Feature>
+</Annotation>
+<Annotation Id="143" Type="Token" StartNode="372" EndNode="378">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Anyone</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="Token" StartNode="342" EndNode="349">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">thought</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

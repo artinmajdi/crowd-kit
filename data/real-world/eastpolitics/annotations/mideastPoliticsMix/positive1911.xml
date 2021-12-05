@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: adams@bellini.berkeley.edu (Adam L. Schwartz)
+Message-ID: &lt;1993Apr21.211225.4184@pasteur.Berkeley.EDU>
+Sender: nntp@pasteur.Berkeley.EDU (NNTP Poster)
+Nntp-Posting-Host: bellini.berkeley.edu
+Organization: U.C. Berkeley -- ERL
+Date: Wed, 21 Apr 1993 21:12:25 GMT
+Lines: 9
+
+Danny Rubenstein, an Israeli journalist, will be speaking tonight 
+(Wednesday, 7:30 pm) on the messy subject of politics in Israel.
+He is speaking at Hillel on the U.C. Berkeley campus.  The talk is
+sponsored by the Berkeley Israel Action Committee (IAC).
+ 
+-Adam Schwartz
+adams@robotics.berkeley.edu
+
+
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1911</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>adams<Node id="11"/>@<Node id="12"/>bellini<Node id="19"/>.<Node id="20"/>berkeley<Node id="28"/>.<Node id="29"/>edu<Node id="32"/> <Node id="33"/>(<Node id="34"/>Adam<Node id="38"/> <Node id="39"/>L<Node id="40"/>.<Node id="41"/> <Node id="42"/>Schwartz<Node id="50"/>)<Node id="51"/>
+<Node id="52"/>Message-<Node id="60"/>ID<Node id="62"/>:<Node id="63"/> <Node id="64"/>&lt;<Node id="65"/>1993<Node id="69"/>Apr<Node id="72"/>21<Node id="74"/>.<Node id="75"/>211225<Node id="81"/>.<Node id="82"/>4184<Node id="86"/>@<Node id="87"/>pasteur<Node id="94"/>.<Node id="95"/>Berkeley<Node id="103"/>.<Node id="104"/>EDU<Node id="107"/>&gt;<Node id="108"/>
+<Node id="109"/>Sender<Node id="115"/>:<Node id="116"/> <Node id="117"/>nntp<Node id="121"/>@<Node id="122"/>pasteur<Node id="129"/>.<Node id="130"/>Berkeley<Node id="138"/>.<Node id="139"/>EDU<Node id="142"/> <Node id="143"/>(<Node id="144"/>NNTP<Node id="148"/> <Node id="149"/>Poster<Node id="155"/>)<Node id="156"/>
+<Node id="157"/>Nntp-<Node id="162"/>Posting-<Node id="170"/>Host<Node id="174"/>:<Node id="175"/> <Node id="176"/>bellini<Node id="183"/>.<Node id="184"/>berkeley<Node id="192"/>.<Node id="193"/>edu<Node id="196"/>
+<Node id="197"/>Organization<Node id="209"/>:<Node id="210"/> <Node id="211"/>U<Node id="212"/>.<Node id="213"/>C<Node id="214"/>.<Node id="215"/> <Node id="216"/>Berkeley<Node id="224"/> <Node id="225"/>-<Node id="226"/>-<Node id="227"/> <Node id="228"/>ERL<Node id="231"/>
+<Node id="232"/>Date<Node id="236"/>:<Node id="237"/> <Node id="238"/>Wed<Node id="241"/>,<Node id="242"/> <Node id="243"/>21<Node id="245"/> <Node id="246"/>Apr<Node id="249"/> <Node id="250"/>1993<Node id="254"/> <Node id="255"/>21<Node id="257"/>:<Node id="258"/>12<Node id="260"/>:<Node id="261"/>25<Node id="263"/> <Node id="264"/>GMT<Node id="267"/>
+<Node id="268"/>Lines<Node id="273"/>:<Node id="274"/> <Node id="275"/>9<Node id="276"/>
+<Node id="277"/>
+<Node id="278"/>Danny<Node id="283"/> <Node id="284"/>Rubenstein<Node id="294"/>,<Node id="295"/> <Node id="296"/>an<Node id="298"/> <Node id="299"/>Israeli<Node id="306"/> <Node id="307"/>journalist<Node id="317"/>,<Node id="318"/> <Node id="319"/>will<Node id="323"/> <Node id="324"/>be<Node id="326"/> <Node id="327"/>speaking<Node id="335"/> <Node id="336"/>tonight<Node id="343"/> <Node id="344"/>
+<Node id="345"/>(<Node id="346"/>Wednesday<Node id="355"/>,<Node id="356"/> <Node id="357"/>7<Node id="358"/>:<Node id="359"/>30<Node id="361"/> <Node id="362"/>pm<Node id="364"/>)<Node id="365"/> <Node id="366"/>on<Node id="368"/> <Node id="369"/>the<Node id="372"/> <Node id="373"/>messy<Node id="378"/> <Node id="379"/>subject<Node id="386"/> <Node id="387"/>of<Node id="389"/> <Node id="390"/>politics<Node id="398"/> <Node id="399"/>in<Node id="401"/> <Node id="402"/>Israel<Node id="408"/>.<Node id="409"/>
+<Node id="410"/>He<Node id="412"/> <Node id="413"/>is<Node id="415"/> <Node id="416"/>speaking<Node id="424"/> <Node id="425"/>at<Node id="427"/> <Node id="428"/>Hillel<Node id="434"/> <Node id="435"/>on<Node id="437"/> <Node id="438"/>the<Node id="441"/> <Node id="442"/>U<Node id="443"/>.<Node id="444"/>C<Node id="445"/>.<Node id="446"/> <Node id="447"/>Berkeley<Node id="455"/> <Node id="456"/>campus<Node id="462"/>.<Node id="463"/> <Node id="464"/> <Node id="465"/>The<Node id="468"/> <Node id="469"/>talk<Node id="473"/> <Node id="474"/>is<Node id="476"/>
+<Node id="477"/>sponsored<Node id="486"/> <Node id="487"/>by<Node id="489"/> <Node id="490"/>the<Node id="493"/> <Node id="494"/>Berkeley<Node id="502"/> <Node id="503"/>Israel<Node id="509"/> <Node id="510"/>Action<Node id="516"/> <Node id="517"/>Committee<Node id="526"/> <Node id="527"/>(<Node id="528"/>IAC<Node id="531"/>)<Node id="532"/>.<Node id="533"/>
+<Node id="534"/> <Node id="535"/>
+<Node id="536"/>-<Node id="537"/>Adam<Node id="541"/> <Node id="542"/>Schwartz<Node id="550"/>
+<Node id="551"/>adams<Node id="556"/>@<Node id="557"/>robotics<Node id="565"/>.<Node id="566"/>berkeley<Node id="574"/>.<Node id="575"/>edu<Node id="578"/>
+<Node id="579"/>
+<Node id="580"/>
+<Node id="581"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="581" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="5" Type="Token" StartNode="12" EndNode="19">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">bellini</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="20" EndNode="28">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Token" StartNode="42" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Schwartz</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Token" StartNode="52" EndNode="60">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Token" StartNode="75" EndNode="81">
+</Annotation>
+<Annotation Id="35" Type="Token" StartNode="95" EndNode="103">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Token" StartNode="87" EndNode="94">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">pasteur</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Token" StartNode="109" EndNode="115">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Token" StartNode="130" EndNode="138">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Token" StartNode="122" EndNode="129">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">pasteur</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Token" StartNode="149" EndNode="155">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Poster</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Token" StartNode="162" EndNode="170">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Posting-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="Token" StartNode="176" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">bellini</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="Token" StartNode="197" EndNode="209">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="Token" StartNode="184" EndNode="192">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Token" StartNode="216" EndNode="224">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="111" Type="Token" StartNode="284" EndNode="294">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Rubenstein</Value>
+</Feature>
+</Annotation>
+<Annotation Id="118" Type="Token" StartNode="307" EndNode="317">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">journalist</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="Token" StartNode="299" EndNode="306">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israeli</Value>
+</Feature>
+</Annotation>
+<Annotation Id="127" Type="Token" StartNode="336" EndNode="343">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">tonight</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="Token" StartNode="327" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">speaking</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="Token" StartNode="346" EndNode="355">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Wednesday</Value>
+</Feature>
+</Annotation>
+<Annotation Id="155" Type="Token" StartNode="402" EndNode="408">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="147" Type="Token" StartNode="379" EndNode="386">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">subject</Value>
+</Feature>
+</Annotation>
+<Annotation Id="151" Type="Token" StartNode="390" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">politics</Value>
+</Feature>
+</Annotation>
+<Annotation Id="162" Type="Token" StartNode="416" EndNode="424">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">speaking</Value>
+</Feature>
+</Annotation>
+<Annotation Id="166" Type="Token" StartNode="428" EndNode="434">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Hillel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="189" Type="Token" StartNode="477" EndNode="486">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">sponsored</Value>
+</Feature>
+</Annotation>
+<Annotation Id="179" Type="Token" StartNode="456" EndNode="462">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">campus</Value>
+</Feature>
+</Annotation>
+<Annotation Id="177" Type="Token" StartNode="447" EndNode="455">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="201" Type="Token" StartNode="517" EndNode="526">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Committee</Value>
+</Feature>
+</Annotation>
+<Annotation Id="197" Type="Token" StartNode="503" EndNode="509">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="199" Type="Token" StartNode="510" EndNode="516">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Action</Value>
+</Feature>
+</Annotation>
+<Annotation Id="195" Type="Token" StartNode="494" EndNode="502">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="217" Type="Token" StartNode="557" EndNode="565">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">robotics</Value>
+</Feature>
+</Annotation>
+<Annotation Id="219" Type="Token" StartNode="566" EndNode="574">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">berkeley</Value>
+</Feature>
+</Annotation>
+<Annotation Id="213" Type="Token" StartNode="542" EndNode="550">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Schwartz</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

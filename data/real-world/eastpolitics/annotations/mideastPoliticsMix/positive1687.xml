@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: oaf@zurich.ai.mit.edu (Oded Feingold)
+Date: 11 May 93 23:12:27
+Organization: M.I.T. Artificial Intelligence Lab.
+Lines: 1
+Message-ID: &lt;OAF.93May11231227@klosters.ai.mit.edu>
+References: &lt;C6MnAD.MxD@ucdavis.edu>
+Reply-To: oaf@zurich.ai.mit.edu
+NNTP-Posting-Host: klosters.ai.mit.edu
+In-reply-to: szljubi@chip.ucdavis.edu's message of Thu, 6 May 1993 22:47:00 GMT
+
+This is an outrage!  I don't even own a dog.
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1687</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>oaf<Node id="9"/>@<Node id="10"/>zurich<Node id="16"/>.<Node id="17"/>ai<Node id="19"/>.<Node id="20"/>mit<Node id="23"/>.<Node id="24"/>edu<Node id="27"/> <Node id="28"/>(<Node id="29"/>Oded<Node id="33"/> <Node id="34"/>Feingold<Node id="42"/>)<Node id="43"/>
+<Node id="44"/>Date<Node id="48"/>:<Node id="49"/> <Node id="50"/>11<Node id="52"/> <Node id="53"/>May<Node id="56"/> <Node id="57"/>93<Node id="59"/> <Node id="60"/>23<Node id="62"/>:<Node id="63"/>12<Node id="65"/>:<Node id="66"/>27<Node id="68"/>
+<Node id="69"/>Organization<Node id="81"/>:<Node id="82"/> <Node id="83"/>M<Node id="84"/>.<Node id="85"/>I<Node id="86"/>.<Node id="87"/>T<Node id="88"/>.<Node id="89"/> <Node id="90"/>Artificial<Node id="100"/> <Node id="101"/>Intelligence<Node id="113"/> <Node id="114"/>Lab<Node id="117"/>.<Node id="118"/>
+<Node id="119"/>Lines<Node id="124"/>:<Node id="125"/> <Node id="126"/>1<Node id="127"/>
+<Node id="128"/>Message-<Node id="136"/>ID<Node id="138"/>:<Node id="139"/> <Node id="140"/>&lt;<Node id="141"/>OAF<Node id="144"/>.<Node id="145"/>93<Node id="147"/>May<Node id="150"/>11231227<Node id="158"/>@<Node id="159"/>klosters<Node id="167"/>.<Node id="168"/>ai<Node id="170"/>.<Node id="171"/>mit<Node id="174"/>.<Node id="175"/>edu<Node id="178"/>&gt;<Node id="179"/>
+<Node id="180"/>References<Node id="190"/>:<Node id="191"/> <Node id="192"/>&lt;<Node id="193"/>C<Node id="194"/>6<Node id="195"/>MnAD<Node id="199"/>.<Node id="200"/>MxD<Node id="203"/>@<Node id="204"/>ucdavis<Node id="211"/>.<Node id="212"/>edu<Node id="215"/>&gt;<Node id="216"/>
+<Node id="217"/>Reply-<Node id="223"/>To<Node id="225"/>:<Node id="226"/> <Node id="227"/>oaf<Node id="230"/>@<Node id="231"/>zurich<Node id="237"/>.<Node id="238"/>ai<Node id="240"/>.<Node id="241"/>mit<Node id="244"/>.<Node id="245"/>edu<Node id="248"/>
+<Node id="249"/>NNTP-Posting-Host<Node id="266"/>:<Node id="267"/> <Node id="268"/>klosters<Node id="276"/>.<Node id="277"/>ai<Node id="279"/>.<Node id="280"/>mit<Node id="283"/>.<Node id="284"/>edu<Node id="287"/>
+<Node id="288"/>In-reply-to<Node id="299"/>:<Node id="300"/> <Node id="301"/>szljubi<Node id="308"/>@<Node id="309"/>chip<Node id="313"/>.<Node id="314"/>ucdavis<Node id="321"/>.<Node id="322"/>edu<Node id="325"/>'s<Node id="327"/> <Node id="328"/>message<Node id="335"/> <Node id="336"/>of<Node id="338"/> <Node id="339"/>Thu<Node id="342"/>,<Node id="343"/> <Node id="344"/>6<Node id="345"/> <Node id="346"/>May<Node id="349"/> <Node id="350"/>1993<Node id="354"/> <Node id="355"/>22<Node id="357"/>:<Node id="358"/>47<Node id="360"/>:<Node id="361"/>00<Node id="363"/> <Node id="364"/>GMT<Node id="367"/>
+<Node id="368"/>
+<Node id="369"/>This<Node id="373"/> <Node id="374"/>is<Node id="376"/> <Node id="377"/>an<Node id="379"/> <Node id="380"/>outrage<Node id="387"/>!<Node id="388"/> <Node id="389"/> <Node id="390"/>I<Node id="391"/> <Node id="392"/>do<Node id="394"/>n't<Node id="397"/> <Node id="398"/>even<Node id="402"/> <Node id="403"/>own<Node id="406"/> <Node id="407"/>a<Node id="408"/> <Node id="409"/>dog<Node id="412"/>.<Node id="413"/>
+<Node id="414"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="414" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="5" Type="Token" StartNode="10" EndNode="16">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">zurich</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="34" EndNode="42">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Feingold</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Token" StartNode="69" EndNode="81">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Token" StartNode="101" EndNode="113">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Intelligence</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Token" StartNode="90" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Artificial</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="128" EndNode="136">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Token" StartNode="150" EndNode="158">
+</Annotation>
+<Annotation Id="67" Type="Token" StartNode="159" EndNode="167">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">klosters</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Token" StartNode="180" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="Token" StartNode="204" EndNode="211">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ucdavis</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="Token" StartNode="217" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reply-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="Token" StartNode="231" EndNode="237">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">zurich</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="Token" StartNode="268" EndNode="276">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">klosters</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="Token" StartNode="249" EndNode="266">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">NNTP-Posting-Host</Value>
+</Feature>
+</Annotation>
+<Annotation Id="119" Type="Token" StartNode="301" EndNode="308">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">szljubi</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="Token" StartNode="288" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">In-reply-to</Value>
+</Feature>
+</Annotation>
+<Annotation Id="123" Type="Token" StartNode="314" EndNode="321">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ucdavis</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="Token" StartNode="328" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">message</Value>
+</Feature>
+</Annotation>
+<Annotation Id="157" Type="Token" StartNode="380" EndNode="387">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">outrage</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

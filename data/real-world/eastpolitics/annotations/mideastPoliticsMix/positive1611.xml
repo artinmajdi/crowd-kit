@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: nstramer@supergas.dazixco.ingr.com (Naftaly Stramer)
+Message-ID: &lt;1993Apr16.165723.9648@dazixco.ingr.com>
+Sender: nstramer@supergas (Naftaly Stramer)
+Nntp-Posting-Host: supergas
+Reply-To: nstramer@dazixco.ingr.com
+Organization: Intergraph Electronics
+References: &lt;1qdmv4$4qb@usenet.INS.CWRU.Edu> &lt;1993Apr13.164305.701@bernina.ethz.ch>
+Date: Fri, 16 Apr 1993 16:57:23 GMT
+Lines: 40
+
+
+In article &lt;1993Apr13.164305.701@bernina.ethz.ch>, nadeem@p.igp.ethz.ch (Nadeem Malik) writes:
+
+>
+>Actually, if can remember correctly, was it not reported and even on camera
+>some time during the Israeli invasion of Lebanon, or when the itifada began,
+>that CNN caught regular uniformed Israeli soldiers breaking the arms of 
+>some Arab youngsters in a very professional and brutal manner, (someone 
+>please give full details if they can remember). 
+
+So was it on CNN or not? 
+
+>This is one of the few
+>occassions on which such a scene has been transmitted to the West and 
+>in the USA ... it caused uproar and was one of the factors that has significantly
+>changed the preception of the Israeli army's role in the mid-east.
+>
+>So there is proof for you!
+
+
+What proof. You said above: "was it not reported..." and "someone please give 
+full details if they can remember". Hear say is not proof. 
+
+
+>It is obvious that is a systematic policy of the
+>Israelis which must be occurring on a massive scale behind the scenes.
+
+Yes, like the 700 or more Palestinians brutally murdered by their brothers.
+
+
+>
+>Nadeem
+>
+
+
+-----
+Naftaly Stramer 			 | Intergraph Electronics
+Internet: nstramer@dazixco.ingr.com      | 6101 Lookout Road, Suite A    
+Voice: (303)581-2370  FAX: (303)581-9972 | Boulder, CO 80301
+"Quality is everybody's job, and it's everybody's job to watch all that they can."
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1611</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>nstramer<Node id="14"/>@<Node id="15"/>supergas<Node id="23"/>.<Node id="24"/>dazixco<Node id="31"/>.<Node id="32"/>ingr<Node id="36"/>.<Node id="37"/>com<Node id="40"/> <Node id="41"/>(<Node id="42"/>Naftaly<Node id="49"/> <Node id="50"/>Stramer<Node id="57"/>)<Node id="58"/>
+<Node id="59"/>Message-<Node id="67"/>ID<Node id="69"/>:<Node id="70"/> <Node id="71"/>&lt;<Node id="72"/>1993<Node id="76"/>Apr<Node id="79"/>16<Node id="81"/>.<Node id="82"/>165723<Node id="88"/>.<Node id="89"/>9648<Node id="93"/>@<Node id="94"/>dazixco<Node id="101"/>.<Node id="102"/>ingr<Node id="106"/>.<Node id="107"/>com<Node id="110"/>&gt;<Node id="111"/>
+<Node id="112"/>Sender<Node id="118"/>:<Node id="119"/> <Node id="120"/>nstramer<Node id="128"/>@<Node id="129"/>supergas<Node id="137"/> <Node id="138"/>(<Node id="139"/>Naftaly<Node id="146"/> <Node id="147"/>Stramer<Node id="154"/>)<Node id="155"/>
+<Node id="156"/>Nntp-<Node id="161"/>Posting-<Node id="169"/>Host<Node id="173"/>:<Node id="174"/> <Node id="175"/>supergas<Node id="183"/>
+<Node id="184"/>Reply-<Node id="190"/>To<Node id="192"/>:<Node id="193"/> <Node id="194"/>nstramer<Node id="202"/>@<Node id="203"/>dazixco<Node id="210"/>.<Node id="211"/>ingr<Node id="215"/>.<Node id="216"/>com<Node id="219"/>
+<Node id="220"/>Organization<Node id="232"/>:<Node id="233"/> <Node id="234"/>Intergraph<Node id="244"/> <Node id="245"/>Electronics<Node id="256"/>
+<Node id="257"/>References<Node id="267"/>:<Node id="268"/> <Node id="269"/>&lt;<Node id="270"/>1<Node id="271"/>qdmv<Node id="275"/>4<Node id="276"/>$<Node id="277"/>4<Node id="278"/>qb<Node id="280"/>@<Node id="281"/>usenet<Node id="287"/>.<Node id="288"/>INS<Node id="291"/>.<Node id="292"/>CWRU<Node id="296"/>.<Node id="297"/>Edu<Node id="300"/>&gt;<Node id="301"/> <Node id="302"/>&lt;<Node id="303"/>1993<Node id="307"/>Apr<Node id="310"/>13<Node id="312"/>.<Node id="313"/>164305<Node id="319"/>.<Node id="320"/>701<Node id="323"/>@<Node id="324"/>bernina<Node id="331"/>.<Node id="332"/>ethz<Node id="336"/>.<Node id="337"/>ch<Node id="339"/>&gt;<Node id="340"/>
+<Node id="341"/>Date<Node id="345"/>:<Node id="346"/> <Node id="347"/>Fri<Node id="350"/>,<Node id="351"/> <Node id="352"/>16<Node id="354"/> <Node id="355"/>Apr<Node id="358"/> <Node id="359"/>1993<Node id="363"/> <Node id="364"/>16<Node id="366"/>:<Node id="367"/>57<Node id="369"/>:<Node id="370"/>23<Node id="372"/> <Node id="373"/>GMT<Node id="376"/>
+<Node id="377"/>Lines<Node id="382"/>:<Node id="383"/> <Node id="384"/>40<Node id="386"/>
+<Node id="387"/>
+<Node id="388"/>
+<Node id="389"/>In<Node id="391"/> <Node id="392"/>article<Node id="399"/> <Node id="400"/>&lt;<Node id="401"/>1993<Node id="405"/>Apr<Node id="408"/>13<Node id="410"/>.<Node id="411"/>164305<Node id="417"/>.<Node id="418"/>701<Node id="421"/>@<Node id="422"/>bernina<Node id="429"/>.<Node id="430"/>ethz<Node id="434"/>.<Node id="435"/>ch<Node id="437"/>&gt;<Node id="438"/>,<Node id="439"/> <Node id="440"/>nadeem<Node id="446"/>@<Node id="447"/>p<Node id="448"/>.<Node id="449"/>igp<Node id="452"/>.<Node id="453"/>ethz<Node id="457"/>.<Node id="458"/>ch<Node id="460"/> <Node id="461"/>(<Node id="462"/>Nadeem<Node id="468"/> <Node id="469"/>Malik<Node id="474"/>)<Node id="475"/> <Node id="476"/>writes<Node id="482"/>:<Node id="483"/>
+<Node id="484"/>
+<Node id="485"/>&gt;<Node id="486"/>
+<Node id="487"/>&gt;<Node id="488"/>Actually<Node id="496"/>,<Node id="497"/> <Node id="498"/>if<Node id="500"/> <Node id="501"/>can<Node id="504"/> <Node id="505"/>remember<Node id="513"/> <Node id="514"/>correctly<Node id="523"/>,<Node id="524"/> <Node id="525"/>was<Node id="528"/> <Node id="529"/>it<Node id="531"/> <Node id="532"/>not<Node id="535"/> <Node id="536"/>reported<Node id="544"/> <Node id="545"/>and<Node id="548"/> <Node id="549"/>even<Node id="553"/> <Node id="554"/>on<Node id="556"/> <Node id="557"/>camera<Node id="563"/>
+<Node id="564"/>&gt;<Node id="565"/>some<Node id="569"/> <Node id="570"/>time<Node id="574"/> <Node id="575"/>during<Node id="581"/> <Node id="582"/>the<Node id="585"/> <Node id="586"/>Israeli<Node id="593"/> <Node id="594"/>invasion<Node id="602"/> <Node id="603"/>of<Node id="605"/> <Node id="606"/>Lebanon<Node id="613"/>,<Node id="614"/> <Node id="615"/>or<Node id="617"/> <Node id="618"/>when<Node id="622"/> <Node id="623"/>the<Node id="626"/> <Node id="627"/>itifada<Node id="634"/> <Node id="635"/>began<Node id="640"/>,<Node id="641"/>
+<Node id="642"/>&gt;<Node id="643"/>that<Node id="647"/> <Node id="648"/>CNN<Node id="651"/> <Node id="652"/>caught<Node id="658"/> <Node id="659"/>regular<Node id="666"/> <Node id="667"/>uniformed<Node id="676"/> <Node id="677"/>Israeli<Node id="684"/> <Node id="685"/>soldiers<Node id="693"/> <Node id="694"/>breaking<Node id="702"/> <Node id="703"/>the<Node id="706"/> <Node id="707"/>arms<Node id="711"/> <Node id="712"/>of<Node id="714"/> <Node id="715"/>
+<Node id="716"/>&gt;<Node id="717"/>some<Node id="721"/> <Node id="722"/>Arab<Node id="726"/> <Node id="727"/>youngsters<Node id="737"/> <Node id="738"/>in<Node id="740"/> <Node id="741"/>a<Node id="742"/> <Node id="743"/>very<Node id="747"/> <Node id="748"/>professional<Node id="760"/> <Node id="761"/>and<Node id="764"/> <Node id="765"/>brutal<Node id="771"/> <Node id="772"/>manner<Node id="778"/>,<Node id="779"/> <Node id="780"/>(<Node id="781"/>someone<Node id="788"/> <Node id="789"/>
+<Node id="790"/>&gt;<Node id="791"/>please<Node id="797"/> <Node id="798"/>give<Node id="802"/> <Node id="803"/>full<Node id="807"/> <Node id="808"/>details<Node id="815"/> <Node id="816"/>if<Node id="818"/> <Node id="819"/>they<Node id="823"/> <Node id="824"/>can<Node id="827"/> <Node id="828"/>remember<Node id="836"/>)<Node id="837"/>.<Node id="838"/> <Node id="839"/>
+<Node id="840"/>
+<Node id="841"/>So<Node id="843"/> <Node id="844"/>was<Node id="847"/> <Node id="848"/>it<Node id="850"/> <Node id="851"/>on<Node id="853"/> <Node id="854"/>CNN<Node id="857"/> <Node id="858"/>or<Node id="860"/> <Node id="861"/>not<Node id="864"/>?<Node id="865"/> <Node id="866"/>
+<Node id="867"/>
+<Node id="868"/>&gt;<Node id="869"/>This<Node id="873"/> <Node id="874"/>is<Node id="876"/> <Node id="877"/>one<Node id="880"/> <Node id="881"/>of<Node id="883"/> <Node id="884"/>the<Node id="887"/> <Node id="888"/>few<Node id="891"/>
+<Node id="892"/>&gt;<Node id="893"/>occassions<Node id="903"/> <Node id="904"/>on<Node id="906"/> <Node id="907"/>which<Node id="912"/> <Node id="913"/>such<Node id="917"/> <Node id="918"/>a<Node id="919"/> <Node id="920"/>scene<Node id="925"/> <Node id="926"/>has<Node id="929"/> <Node id="930"/>been<Node id="934"/> <Node id="935"/>transmitted<Node id="946"/> <Node id="947"/>to<Node id="949"/> <Node id="950"/>the<Node id="953"/> <Node id="954"/>West<Node id="958"/> <Node id="959"/>and<Node id="962"/> <Node id="963"/>
+<Node id="964"/>&gt;<Node id="965"/>in<Node id="967"/> <Node id="968"/>the<Node id="971"/> <Node id="972"/>USA<Node id="975"/> <Node id="976"/>.<Node id="977"/>.<Node id="978"/>.<Node id="979"/> <Node id="980"/>it<Node id="982"/> <Node id="983"/>caused<Node id="989"/> <Node id="990"/>uproar<Node id="996"/> <Node id="997"/>and<Node id="1000"/> <Node id="1001"/>was<Node id="1004"/> <Node id="1005"/>one<Node id="1008"/> <Node id="1009"/>of<Node id="1011"/> <Node id="1012"/>the<Node id="1015"/> <Node id="1016"/>factors<Node id="1023"/> <Node id="1024"/>that<Node id="1028"/> <Node id="1029"/>has<Node id="1032"/> <Node id="1033"/>significantly<Node id="1046"/>
+<Node id="1047"/>&gt;<Node id="1048"/>changed<Node id="1055"/> <Node id="1056"/>the<Node id="1059"/> <Node id="1060"/>preception<Node id="1070"/> <Node id="1071"/>of<Node id="1073"/> <Node id="1074"/>the<Node id="1077"/> <Node id="1078"/>Israeli<Node id="1085"/> <Node id="1086"/>army<Node id="1090"/>'s<Node id="1092"/> <Node id="1093"/>role<Node id="1097"/> <Node id="1098"/>in<Node id="1100"/> <Node id="1101"/>the<Node id="1104"/> <Node id="1105"/>mid-east<Node id="1113"/>.<Node id="1114"/>
+<Node id="1115"/>&gt;<Node id="1116"/>
+<Node id="1117"/>&gt;<Node id="1118"/>So<Node id="1120"/> <Node id="1121"/>there<Node id="1126"/> <Node id="1127"/>is<Node id="1129"/> <Node id="1130"/>proof<Node id="1135"/> <Node id="1136"/>for<Node id="1139"/> <Node id="1140"/>you<Node id="1143"/>!<Node id="1144"/>
+<Node id="1145"/>
+<Node id="1146"/>
+<Node id="1147"/>What<Node id="1151"/> <Node id="1152"/>proof<Node id="1157"/>.<Node id="1158"/> <Node id="1159"/>You<Node id="1162"/> <Node id="1163"/>said<Node id="1167"/> <Node id="1168"/>above<Node id="1173"/>:<Node id="1174"/> <Node id="1175"/>"<Node id="1176"/>was<Node id="1179"/> <Node id="1180"/>it<Node id="1182"/> <Node id="1183"/>not<Node id="1186"/> <Node id="1187"/>reported<Node id="1195"/>.<Node id="1196"/>.<Node id="1197"/>.<Node id="1198"/>"<Node id="1199"/> <Node id="1200"/>and<Node id="1203"/> <Node id="1204"/>"<Node id="1205"/>someone<Node id="1212"/> <Node id="1213"/>please<Node id="1219"/> <Node id="1220"/>give<Node id="1224"/> <Node id="1225"/>
+<Node id="1226"/>full<Node id="1230"/> <Node id="1231"/>details<Node id="1238"/> <Node id="1239"/>if<Node id="1241"/> <Node id="1242"/>they<Node id="1246"/> <Node id="1247"/>can<Node id="1250"/> <Node id="1251"/>remember<Node id="1259"/>"<Node id="1260"/>.<Node id="1261"/> <Node id="1262"/>Hear<Node id="1266"/> <Node id="1267"/>say<Node id="1270"/> <Node id="1271"/>is<Node id="1273"/> <Node id="1274"/>not<Node id="1277"/> <Node id="1278"/>proof<Node id="1283"/>.<Node id="1284"/> <Node id="1285"/>
+<Node id="1286"/>
+<Node id="1287"/>
+<Node id="1288"/>&gt;<Node id="1289"/>It<Node id="1291"/> <Node id="1292"/>is<Node id="1294"/> <Node id="1295"/>obvious<Node id="1302"/> <Node id="1303"/>that<Node id="1307"/> <Node id="1308"/>is<Node id="1310"/> <Node id="1311"/>a<Node id="1312"/> <Node id="1313"/>systematic<Node id="1323"/> <Node id="1324"/>policy<Node id="1330"/> <Node id="1331"/>of<Node id="1333"/> <Node id="1334"/>the<Node id="1337"/>
+<Node id="1338"/>&gt;<Node id="1339"/>Israelis<Node id="1347"/> <Node id="1348"/>which<Node id="1353"/> <Node id="1354"/>must<Node id="1358"/> <Node id="1359"/>be<Node id="1361"/> <Node id="1362"/>occurring<Node id="1371"/> <Node id="1372"/>on<Node id="1374"/> <Node id="1375"/>a<Node id="1376"/> <Node id="1377"/>massive<Node id="1384"/> <Node id="1385"/>scale<Node id="1390"/> <Node id="1391"/>behind<Node id="1397"/> <Node id="1398"/>the<Node id="1401"/> <Node id="1402"/>scenes<Node id="1408"/>.<Node id="1409"/>
+<Node id="1410"/>
+<Node id="1411"/>Yes<Node id="1414"/>,<Node id="1415"/> <Node id="1416"/>like<Node id="1420"/> <Node id="1421"/>the<Node id="1424"/> <Node id="1425"/>700<Node id="1428"/> <Node id="1429"/>or<Node id="1431"/> <Node id="1432"/>more<Node id="1436"/> <Node id="1437"/>Palestinians<Node id="1449"/> <Node id="1450"/>brutally<Node id="1458"/> <Node id="1459"/>murdered<Node id="1467"/> <Node id="1468"/>by<Node id="1470"/> <Node id="1471"/>their<Node id="1476"/> <Node id="1477"/>brothers<Node id="1485"/>.<Node id="1486"/>
+<Node id="1487"/>
+<Node id="1488"/>
+<Node id="1489"/>&gt;<Node id="1490"/>
+<Node id="1491"/>&gt;<Node id="1492"/>Nadeem<Node id="1498"/>
+<Node id="1499"/>&gt;<Node id="1500"/>
+<Node id="1501"/>
+<Node id="1502"/>
+<Node id="1503"/>-<Node id="1504"/>-<Node id="1505"/>-<Node id="1506"/>-<Node id="1507"/>-<Node id="1508"/>
+<Node id="1509"/>Naftaly<Node id="1516"/> <Node id="1517"/>Stramer<Node id="1524"/> <Node id="1525"/>	<Node id="1526"/>	<Node id="1527"/>	<Node id="1528"/> <Node id="1529"/>|<Node id="1530"/> <Node id="1531"/>Intergraph<Node id="1541"/> <Node id="1542"/>Electronics<Node id="1553"/>
+<Node id="1554"/>Internet<Node id="1562"/>:<Node id="1563"/> <Node id="1564"/>nstramer<Node id="1572"/>@<Node id="1573"/>dazixco<Node id="1580"/>.<Node id="1581"/>ingr<Node id="1585"/>.<Node id="1586"/>com<Node id="1589"/> <Node id="1590"/> <Node id="1591"/> <Node id="1592"/> <Node id="1593"/> <Node id="1594"/> <Node id="1595"/>|<Node id="1596"/> <Node id="1597"/>6101<Node id="1601"/> <Node id="1602"/>Lookout<Node id="1609"/> <Node id="1610"/>Road<Node id="1614"/>,<Node id="1615"/> <Node id="1616"/>Suite<Node id="1621"/> <Node id="1622"/>A<Node id="1623"/> <Node id="1624"/> <Node id="1625"/> <Node id="1626"/> <Node id="1627"/>
+<Node id="1628"/>Voice<Node id="1633"/>:<Node id="1634"/> <Node id="1635"/>(<Node id="1636"/>303<Node id="1639"/>)<Node id="1640"/>581<Node id="1643"/>-<Node id="1644"/>2370<Node id="1648"/> <Node id="1649"/> <Node id="1650"/>FAX<Node id="1653"/>:<Node id="1654"/> <Node id="1655"/>(<Node id="1656"/>303<Node id="1659"/>)<Node id="1660"/>581<Node id="1663"/>-<Node id="1664"/>9972<Node id="1668"/> <Node id="1669"/>|<Node id="1670"/> <Node id="1671"/>Boulder<Node id="1678"/>,<Node id="1679"/> <Node id="1680"/>CO<Node id="1682"/> <Node id="1683"/>80301<Node id="1688"/>
+<Node id="1689"/>"<Node id="1690"/>Quality<Node id="1697"/> <Node id="1698"/>is<Node id="1700"/> <Node id="1701"/>everybody<Node id="1710"/>'s<Node id="1712"/> <Node id="1713"/>job<Node id="1716"/>,<Node id="1717"/> <Node id="1718"/>and<Node id="1721"/> <Node id="1722"/>it<Node id="1724"/>'s<Node id="1726"/> <Node id="1727"/>everybody<Node id="1736"/>'s<Node id="1738"/> <Node id="1739"/>job<Node id="1742"/> <Node id="1743"/>to<Node id="1745"/> <Node id="1746"/>watch<Node id="1751"/> <Node id="1752"/>all<Node id="1755"/> <Node id="1756"/>that<Node id="1760"/> <Node id="1761"/>they<Node id="1765"/> <Node id="1766"/>can<Node id="1769"/>.<Node id="1770"/>"<Node id="1771"/>
+<Node id="1772"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="1772" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="3" Type="Token" StartNode="6" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">nstramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="15" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">supergas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="24" EndNode="31">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dazixco</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Token" StartNode="42" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Naftaly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="50" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Stramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Token" StartNode="59" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Token" StartNode="82" EndNode="88">
+</Annotation>
+<Annotation Id="32" Type="Token" StartNode="94" EndNode="101">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dazixco</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Token" StartNode="112" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Token" StartNode="120" EndNode="128">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">nstramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Token" StartNode="139" EndNode="146">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Naftaly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Token" StartNode="129" EndNode="137">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">supergas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Token" StartNode="147" EndNode="154">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Stramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="Token" StartNode="161" EndNode="169">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Posting-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="Token" StartNode="184" EndNode="190">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reply-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="Token" StartNode="175" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">supergas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="Token" StartNode="194" EndNode="202">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">nstramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="Token" StartNode="220" EndNode="232">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Token" StartNode="203" EndNode="210">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dazixco</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Token" StartNode="245" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Electronics</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="Token" StartNode="257" EndNode="267">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Token" StartNode="234" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Intergraph</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="Token" StartNode="281" EndNode="287">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">usenet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="Token" StartNode="313" EndNode="319">
+</Annotation>
+<Annotation Id="107" Type="Token" StartNode="324" EndNode="331">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">bernina</Value>
+</Feature>
+</Annotation>
+<Annotation Id="143" Type="Token" StartNode="392" EndNode="399">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">article</Value>
+</Feature>
+</Annotation>
+<Annotation Id="154" Type="Token" StartNode="422" EndNode="429">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">bernina</Value>
+</Feature>
+</Annotation>
+<Annotation Id="150" Type="Token" StartNode="411" EndNode="417">
+</Annotation>
+<Annotation Id="173" Type="Token" StartNode="462" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Nadeem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="162" Type="Token" StartNode="440" EndNode="446">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">nadeem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="185" Type="Token" StartNode="488" EndNode="496">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Actually</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="476" EndNode="482">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">writes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="203" Type="Token" StartNode="536" EndNode="544">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reported</Value>
+</Feature>
+</Annotation>
+<Annotation Id="192" Type="Token" StartNode="505" EndNode="513">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">remember</Value>
+</Feature>
+</Annotation>
+<Annotation Id="194" Type="Token" StartNode="514" EndNode="523">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">correctly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="222" Type="Token" StartNode="586" EndNode="593">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israeli</Value>
+</Feature>
+</Annotation>
+<Annotation Id="218" Type="Token" StartNode="575" EndNode="581">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">during</Value>
+</Feature>
+</Annotation>
+<Annotation Id="211" Type="Token" StartNode="557" EndNode="563">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">camera</Value>
+</Feature>
+</Annotation>
+<Annotation Id="237" Type="Token" StartNode="627" EndNode="634">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">itifada</Value>
+</Feature>
+</Annotation>
+<Annotation Id="228" Type="Token" StartNode="606" EndNode="613">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Lebanon</Value>
+</Feature>
+</Annotation>
+<Annotation Id="224" Type="Token" StartNode="594" EndNode="602">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">invasion</Value>
+</Feature>
+</Annotation>
+<Annotation Id="255" Type="Token" StartNode="685" EndNode="693">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">soldiers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="253" Type="Token" StartNode="677" EndNode="684">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israeli</Value>
+</Feature>
+</Annotation>
+<Annotation Id="251" Type="Token" StartNode="667" EndNode="676">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">uniformed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="249" Type="Token" StartNode="659" EndNode="666">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">regular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="247" Type="Token" StartNode="652" EndNode="658">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">caught</Value>
+</Feature>
+</Annotation>
+<Annotation Id="279" Type="Token" StartNode="748" EndNode="760">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">professional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="283" Type="Token" StartNode="765" EndNode="771">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">brutal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="285" Type="Token" StartNode="772" EndNode="778">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">manner</Value>
+</Feature>
+</Annotation>
+<Annotation Id="257" Type="Token" StartNode="694" EndNode="702">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">breaking</Value>
+</Feature>
+</Annotation>
+<Annotation Id="271" Type="Token" StartNode="727" EndNode="737">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">youngsters</Value>
+</Feature>
+</Annotation>
+<Annotation Id="307" Type="Token" StartNode="828" EndNode="836">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">remember</Value>
+</Feature>
+</Annotation>
+<Annotation Id="289" Type="Token" StartNode="781" EndNode="788">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">someone</Value>
+</Feature>
+</Annotation>
+<Annotation Id="293" Type="Token" StartNode="791" EndNode="797">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">please</Value>
+</Feature>
+</Annotation>
+<Annotation Id="299" Type="Token" StartNode="808" EndNode="815">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">details</Value>
+</Feature>
+</Annotation>
+<Annotation Id="344" Type="Token" StartNode="893" EndNode="903">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">occassions</Value>
+</Feature>
+</Annotation>
+<Annotation Id="360" Type="Token" StartNode="935" EndNode="946">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">transmitted</Value>
+</Feature>
+</Annotation>
+<Annotation Id="411" Type="Token" StartNode="1060" EndNode="1070">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">preception</Value>
+</Feature>
+</Annotation>
+<Annotation Id="407" Type="Token" StartNode="1048" EndNode="1055">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">changed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="404" Type="Token" StartNode="1033" EndNode="1046">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">significantly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="398" Type="Token" StartNode="1016" EndNode="1023">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">factors</Value>
+</Feature>
+</Annotation>
+<Annotation Id="386" Type="Token" StartNode="990" EndNode="996">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">uproar</Value>
+</Feature>
+</Annotation>
+<Annotation Id="384" Type="Token" StartNode="983" EndNode="989">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">caused</Value>
+</Feature>
+</Annotation>
+<Annotation Id="429" Type="Token" StartNode="1105" EndNode="1113">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">mid-east</Value>
+</Feature>
+</Annotation>
+<Annotation Id="417" Type="Token" StartNode="1078" EndNode="1085">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israeli</Value>
+</Feature>
+</Annotation>
+<Annotation Id="478" Type="Token" StartNode="1205" EndNode="1212">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">someone</Value>
+</Feature>
+</Annotation>
+<Annotation Id="469" Type="Token" StartNode="1187" EndNode="1195">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reported</Value>
+</Feature>
+</Annotation>
+<Annotation Id="495" Type="Token" StartNode="1251" EndNode="1259">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">remember</Value>
+</Feature>
+</Annotation>
+<Annotation Id="487" Type="Token" StartNode="1231" EndNode="1238">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">details</Value>
+</Feature>
+</Annotation>
+<Annotation Id="480" Type="Token" StartNode="1213" EndNode="1219">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">please</Value>
+</Feature>
+</Annotation>
+<Annotation Id="549" Type="Token" StartNode="1377" EndNode="1384">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">massive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="557" Type="Token" StartNode="1402" EndNode="1408">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">scenes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="553" Type="Token" StartNode="1391" EndNode="1397">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">behind</Value>
+</Feature>
+</Annotation>
+<Annotation Id="574" Type="Token" StartNode="1437" EndNode="1449">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Palestinians</Value>
+</Feature>
+</Annotation>
+<Annotation Id="518" Type="Token" StartNode="1295" EndNode="1302">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">obvious</Value>
+</Feature>
+</Annotation>
+<Annotation Id="526" Type="Token" StartNode="1313" EndNode="1323">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">systematic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="535" Type="Token" StartNode="1339" EndNode="1347">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israelis</Value>
+</Feature>
+</Annotation>
+<Annotation Id="528" Type="Token" StartNode="1324" EndNode="1330">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">policy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="543" Type="Token" StartNode="1362" EndNode="1371">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">occurring</Value>
+</Feature>
+</Annotation>
+<Annotation Id="614" Type="Token" StartNode="1531" EndNode="1541">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Intergraph</Value>
+</Feature>
+</Annotation>
+<Annotation Id="618" Type="Token" StartNode="1554" EndNode="1562">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Internet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="616" Type="Token" StartNode="1542" EndNode="1553">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Electronics</Value>
+</Feature>
+</Annotation>
+<Annotation Id="623" Type="Token" StartNode="1573" EndNode="1580">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dazixco</Value>
+</Feature>
+</Annotation>
+<Annotation Id="621" Type="Token" StartNode="1564" EndNode="1572">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">nstramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="638" Type="Token" StartNode="1602" EndNode="1609">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Lookout</Value>
+</Feature>
+</Annotation>
+<Annotation Id="576" Type="Token" StartNode="1450" EndNode="1458">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">brutally</Value>
+</Feature>
+</Annotation>
+<Annotation Id="578" Type="Token" StartNode="1459" EndNode="1467">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">murdered</Value>
+</Feature>
+</Annotation>
+<Annotation Id="584" Type="Token" StartNode="1477" EndNode="1485">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">brothers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="592" Type="Token" StartNode="1492" EndNode="1498">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Nadeem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="604" Type="Token" StartNode="1509" EndNode="1516">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Naftaly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="606" Type="Token" StartNode="1517" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Stramer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="686" Type="Token" StartNode="1701" EndNode="1710">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">everybody</Value>
+</Feature>
+</Annotation>
+<Annotation Id="682" Type="Token" StartNode="1690" EndNode="1697">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Quality</Value>
+</Feature>
+</Annotation>
+<Annotation Id="674" Type="Token" StartNode="1671" EndNode="1678">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Boulder</Value>
+</Feature>
+</Annotation>
+<Annotation Id="699" Type="Token" StartNode="1727" EndNode="1736">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">everybody</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

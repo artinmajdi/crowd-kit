@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">Organization: University of Illinois at Chicago, academic Computer Center
+Date: Thu, 15 Apr 1993 23:02:30 CDT
+From: &lt;U23590@uicvm.uic.edu>
+Message-ID: &lt;93105.230230U23590@uicvm.uic.edu>
+References: &lt;1qanj0$22d@usenet.INS.CWRU.Edu> &lt;C5F2Go.D03@genie.slhs.udel.edu>
+Lines: 5
+
+Note that Bo Gritz was on the Populist party ticket with David
+Duke (for veep) in 1988 until he found out that Duke was leading
+he ticket, when he withdrew his candidacy.  So Gritz gave up his
+chance to be Vice President of the US just to aviod supporting
+Duke.
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative373</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Organization<Node id="12"/>:<Node id="13"/> <Node id="14"/>University<Node id="24"/> <Node id="25"/>of<Node id="27"/> <Node id="28"/>Illinois<Node id="36"/> <Node id="37"/>at<Node id="39"/> <Node id="40"/>Chicago<Node id="47"/>,<Node id="48"/> <Node id="49"/>academic<Node id="57"/> <Node id="58"/>Computer<Node id="66"/> <Node id="67"/>Center<Node id="73"/>
+<Node id="74"/>Date<Node id="78"/>:<Node id="79"/> <Node id="80"/>Thu<Node id="83"/>,<Node id="84"/> <Node id="85"/>15<Node id="87"/> <Node id="88"/>Apr<Node id="91"/> <Node id="92"/>1993<Node id="96"/> <Node id="97"/>23<Node id="99"/>:<Node id="100"/>02<Node id="102"/>:<Node id="103"/>30<Node id="105"/> <Node id="106"/>CDT<Node id="109"/>
+<Node id="110"/>From<Node id="114"/>:<Node id="115"/> <Node id="116"/>&lt;<Node id="117"/>U<Node id="118"/>23590<Node id="123"/>@<Node id="124"/>uicvm<Node id="129"/>.<Node id="130"/>uic<Node id="133"/>.<Node id="134"/>edu<Node id="137"/>&gt;<Node id="138"/>
+<Node id="139"/>Message-<Node id="147"/>ID<Node id="149"/>:<Node id="150"/> <Node id="151"/>&lt;<Node id="152"/>93105<Node id="157"/>.<Node id="158"/>230230<Node id="164"/>U<Node id="165"/>23590<Node id="170"/>@<Node id="171"/>uicvm<Node id="176"/>.<Node id="177"/>uic<Node id="180"/>.<Node id="181"/>edu<Node id="184"/>&gt;<Node id="185"/>
+<Node id="186"/>References<Node id="196"/>:<Node id="197"/> <Node id="198"/>&lt;<Node id="199"/>1<Node id="200"/>qanj<Node id="204"/>0<Node id="205"/>$<Node id="206"/>22<Node id="208"/>d<Node id="209"/>@<Node id="210"/>usenet<Node id="216"/>.<Node id="217"/>INS<Node id="220"/>.<Node id="221"/>CWRU<Node id="225"/>.<Node id="226"/>Edu<Node id="229"/>&gt;<Node id="230"/> <Node id="231"/>&lt;<Node id="232"/>C<Node id="233"/>5<Node id="234"/>F<Node id="235"/>2<Node id="236"/>Go<Node id="238"/>.<Node id="239"/>D<Node id="240"/>03<Node id="242"/>@<Node id="243"/>genie<Node id="248"/>.<Node id="249"/>slhs<Node id="253"/>.<Node id="254"/>udel<Node id="258"/>.<Node id="259"/>edu<Node id="262"/>&gt;<Node id="263"/>
+<Node id="264"/>Lines<Node id="269"/>:<Node id="270"/> <Node id="271"/>5<Node id="272"/>
+<Node id="273"/>
+<Node id="274"/>Note<Node id="278"/> <Node id="279"/>that<Node id="283"/> <Node id="284"/>Bo<Node id="286"/> <Node id="287"/>Gritz<Node id="292"/> <Node id="293"/>was<Node id="296"/> <Node id="297"/>on<Node id="299"/> <Node id="300"/>the<Node id="303"/> <Node id="304"/>Populist<Node id="312"/> <Node id="313"/>party<Node id="318"/> <Node id="319"/>ticket<Node id="325"/> <Node id="326"/>with<Node id="330"/> <Node id="331"/>David<Node id="336"/>
+<Node id="337"/>Duke<Node id="341"/> <Node id="342"/>(<Node id="343"/>for<Node id="346"/> <Node id="347"/>veep<Node id="351"/>)<Node id="352"/> <Node id="353"/>in<Node id="355"/> <Node id="356"/>1988<Node id="360"/> <Node id="361"/>until<Node id="366"/> <Node id="367"/>he<Node id="369"/> <Node id="370"/>found<Node id="375"/> <Node id="376"/>out<Node id="379"/> <Node id="380"/>that<Node id="384"/> <Node id="385"/>Duke<Node id="389"/> <Node id="390"/>was<Node id="393"/> <Node id="394"/>leading<Node id="401"/>
+<Node id="402"/>he<Node id="404"/> <Node id="405"/>ticket<Node id="411"/>,<Node id="412"/> <Node id="413"/>when<Node id="417"/> <Node id="418"/>he<Node id="420"/> <Node id="421"/>withdrew<Node id="429"/> <Node id="430"/>his<Node id="433"/> <Node id="434"/>candidacy<Node id="443"/>.<Node id="444"/> <Node id="445"/> <Node id="446"/>So<Node id="448"/> <Node id="449"/>Gritz<Node id="454"/> <Node id="455"/>gave<Node id="459"/> <Node id="460"/>up<Node id="462"/> <Node id="463"/>his<Node id="466"/>
+<Node id="467"/>chance<Node id="473"/> <Node id="474"/>to<Node id="476"/> <Node id="477"/>be<Node id="479"/> <Node id="480"/>Vice<Node id="484"/> <Node id="485"/>President<Node id="494"/> <Node id="495"/>of<Node id="497"/> <Node id="498"/>the<Node id="501"/> <Node id="502"/>US<Node id="504"/> <Node id="505"/>just<Node id="509"/> <Node id="510"/>to<Node id="512"/> <Node id="513"/>aviod<Node id="518"/> <Node id="519"/>supporting<Node id="529"/>
+<Node id="530"/>Duke<Node id="534"/>.<Node id="535"/>
+<Node id="536"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="536" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="0" Type="Token" StartNode="0" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Token" StartNode="14" EndNode="24">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="28" EndNode="36">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Illinois</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Token" StartNode="40" EndNode="47">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Chicago</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Token" StartNode="49" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">academic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="58" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Computer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Token" StartNode="67" EndNode="73">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Center</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Token" StartNode="139" EndNode="147">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="Token" StartNode="158" EndNode="164">
+</Annotation>
+<Annotation Id="72" Type="Token" StartNode="186" EndNode="196">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="Token" StartNode="210" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">usenet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="Token" StartNode="304" EndNode="312">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Populist</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="Token" StartNode="319" EndNode="325">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ticket</Value>
+</Feature>
+</Annotation>
+<Annotation Id="171" Type="Token" StartNode="405" EndNode="411">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ticket</Value>
+</Feature>
+</Annotation>
+<Annotation Id="167" Type="Token" StartNode="394" EndNode="401">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">leading</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="421" EndNode="429">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">withdrew</Value>
+</Feature>
+</Annotation>
+<Annotation Id="182" Type="Token" StartNode="434" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">candidacy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="204" Type="Token" StartNode="485" EndNode="494">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">President</Value>
+</Feature>
+</Annotation>
+<Annotation Id="196" Type="Token" StartNode="467" EndNode="473">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">chance</Value>
+</Feature>
+</Annotation>
+<Annotation Id="218" Type="Token" StartNode="519" EndNode="529">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">supporting</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

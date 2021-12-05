@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: A1RODRIG@vma.cc.nd.edu
+Message-ID: &lt;93116.012243A1RODRIG@vma.cc.nd.edu>
+Date: 26 Apr 93 06:22:43 GMT
+Organization: Bullwinkle Fan Club
+Lines: 5
+
+Is this group for real? I honestly can't believe that most of you expect you
+or your concerns to be taken remotely seriously if you behave this way in a
+forum for discussion. Doesn't it ever occur to those of you who write letters
+like the majority of those in this group that you're being mind-bogglingly
+hypocritical?
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1439</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>A<Node id="7"/>1<Node id="8"/>RODRIG<Node id="14"/>@<Node id="15"/>vma<Node id="18"/>.<Node id="19"/>cc<Node id="21"/>.<Node id="22"/>nd<Node id="24"/>.<Node id="25"/>edu<Node id="28"/>
+<Node id="29"/>Message-<Node id="37"/>ID<Node id="39"/>:<Node id="40"/> <Node id="41"/>&lt;<Node id="42"/>93116<Node id="47"/>.<Node id="48"/>012243<Node id="54"/>A<Node id="55"/>1<Node id="56"/>RODRIG<Node id="62"/>@<Node id="63"/>vma<Node id="66"/>.<Node id="67"/>cc<Node id="69"/>.<Node id="70"/>nd<Node id="72"/>.<Node id="73"/>edu<Node id="76"/>&gt;<Node id="77"/>
+<Node id="78"/>Date<Node id="82"/>:<Node id="83"/> <Node id="84"/>26<Node id="86"/> <Node id="87"/>Apr<Node id="90"/> <Node id="91"/>93<Node id="93"/> <Node id="94"/>06<Node id="96"/>:<Node id="97"/>22<Node id="99"/>:<Node id="100"/>43<Node id="102"/> <Node id="103"/>GMT<Node id="106"/>
+<Node id="107"/>Organization<Node id="119"/>:<Node id="120"/> <Node id="121"/>Bullwinkle<Node id="131"/> <Node id="132"/>Fan<Node id="135"/> <Node id="136"/>Club<Node id="140"/>
+<Node id="141"/>Lines<Node id="146"/>:<Node id="147"/> <Node id="148"/>5<Node id="149"/>
+<Node id="150"/>
+<Node id="151"/>Is<Node id="153"/> <Node id="154"/>this<Node id="158"/> <Node id="159"/>group<Node id="164"/> <Node id="165"/>for<Node id="168"/> <Node id="169"/>real<Node id="173"/>?<Node id="174"/> <Node id="175"/>I<Node id="176"/> <Node id="177"/>honestly<Node id="185"/> <Node id="186"/>ca<Node id="188"/>n't<Node id="191"/> <Node id="192"/>believe<Node id="199"/> <Node id="200"/>that<Node id="204"/> <Node id="205"/>most<Node id="209"/> <Node id="210"/>of<Node id="212"/> <Node id="213"/>you<Node id="216"/> <Node id="217"/>expect<Node id="223"/> <Node id="224"/>you<Node id="227"/>
+<Node id="228"/>or<Node id="230"/> <Node id="231"/>your<Node id="235"/> <Node id="236"/>concerns<Node id="244"/> <Node id="245"/>to<Node id="247"/> <Node id="248"/>be<Node id="250"/> <Node id="251"/>taken<Node id="256"/> <Node id="257"/>remotely<Node id="265"/> <Node id="266"/>seriously<Node id="275"/> <Node id="276"/>if<Node id="278"/> <Node id="279"/>you<Node id="282"/> <Node id="283"/>behave<Node id="289"/> <Node id="290"/>this<Node id="294"/> <Node id="295"/>way<Node id="298"/> <Node id="299"/>in<Node id="301"/> <Node id="302"/>a<Node id="303"/>
+<Node id="304"/>forum<Node id="309"/> <Node id="310"/>for<Node id="313"/> <Node id="314"/>discussion<Node id="324"/>.<Node id="325"/> <Node id="326"/>Does<Node id="330"/>n't<Node id="333"/> <Node id="334"/>it<Node id="336"/> <Node id="337"/>ever<Node id="341"/> <Node id="342"/>occur<Node id="347"/> <Node id="348"/>to<Node id="350"/> <Node id="351"/>those<Node id="356"/> <Node id="357"/>of<Node id="359"/> <Node id="360"/>you<Node id="363"/> <Node id="364"/>who<Node id="367"/> <Node id="368"/>write<Node id="373"/> <Node id="374"/>letters<Node id="381"/>
+<Node id="382"/>like<Node id="386"/> <Node id="387"/>the<Node id="390"/> <Node id="391"/>majority<Node id="399"/> <Node id="400"/>of<Node id="402"/> <Node id="403"/>those<Node id="408"/> <Node id="409"/>in<Node id="411"/> <Node id="412"/>this<Node id="416"/> <Node id="417"/>group<Node id="422"/> <Node id="423"/>that<Node id="427"/> <Node id="428"/>you<Node id="431"/>'re<Node id="434"/> <Node id="435"/>being<Node id="440"/> <Node id="441"/>mind-bogglingly<Node id="456"/>
+<Node id="457"/>hypocritical<Node id="469"/>?<Node id="470"/>
+<Node id="471"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="471" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="5" Type="Token" StartNode="8" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">RODRIG</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Token" StartNode="29" EndNode="37">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Token" StartNode="48" EndNode="54">
+</Annotation>
+<Annotation Id="25" Type="Token" StartNode="56" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">RODRIG</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="Token" StartNode="107" EndNode="119">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="121" EndNode="131">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Bullwinkle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="Token" StartNode="192" EndNode="199">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">believe</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="Token" StartNode="177" EndNode="185">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">honestly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="Token" StartNode="217" EndNode="223">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">expect</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="Token" StartNode="236" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">concerns</Value>
+</Feature>
+</Annotation>
+<Annotation Id="115" Type="Token" StartNode="266" EndNode="275">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">seriously</Value>
+</Feature>
+</Annotation>
+<Annotation Id="113" Type="Token" StartNode="257" EndNode="265">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">remotely</Value>
+</Feature>
+</Annotation>
+<Annotation Id="121" Type="Token" StartNode="283" EndNode="289">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">behave</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="Token" StartNode="314" EndNode="324">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">discussion</Value>
+</Feature>
+</Annotation>
+<Annotation Id="160" Type="Token" StartNode="374" EndNode="381">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">letters</Value>
+</Feature>
+</Annotation>
+<Annotation Id="166" Type="Token" StartNode="391" EndNode="399">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">majority</Value>
+</Feature>
+</Annotation>
+<Annotation Id="186" Type="Token" StartNode="441" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">mind-bogglingly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="188" Type="Token" StartNode="457" EndNode="469">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">hypocritical</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

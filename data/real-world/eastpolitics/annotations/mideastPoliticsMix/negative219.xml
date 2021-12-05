@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: bmich@cs.utexas.edu (Brian Keith Michalk)
+Date: 15 Apr 1993 21:48:38 -0500
+Organization: CS Dept, University of Texas at Austin
+Lines: 14
+Distribution: tx
+Message-ID: &lt;lss7k6INNioc@coltexo.cs.utexas.edu>
+References: &lt;lsjku2INNei8@needmore.cs.utexas.edu> &lt;1993Apr13.150740.6221@iqsc.COM>
+NNTP-Posting-Host: coltexo.cs.utexas.edu
+
+In article &lt;1993Apr13.150740.6221@iqsc.COM> rex@iqsc.COM (Rex Black) writes:
+>rail in Texas.  Being from California, I have come to the conclusion 
+>that one has two choices for preventing economic strangulation through
+>traffic:  High speed rail or growth limits.
+>
+>Rex
+
+Growth limits?  How will HSR help with the traffic congestion?  From what
+I understand, the rail will not stop in places like Waco, or Bryan, or
+lots of intermediate places in between.  Even though I live in Austin,
+I don't see myself using the train except on rare occasions.  probably
+twice a year.  And at $65 dollars a ticket I could probably drive for 
+cheaper also. (even if the price of gas went up)
+
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative219</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>bmich<Node id="11"/>@<Node id="12"/>cs<Node id="14"/>.<Node id="15"/>utexas<Node id="21"/>.<Node id="22"/>edu<Node id="25"/> <Node id="26"/>(<Node id="27"/>Brian<Node id="32"/> <Node id="33"/>Keith<Node id="38"/> <Node id="39"/>Michalk<Node id="46"/>)<Node id="47"/>
+<Node id="48"/>Date<Node id="52"/>:<Node id="53"/> <Node id="54"/>15<Node id="56"/> <Node id="57"/>Apr<Node id="60"/> <Node id="61"/>1993<Node id="65"/> <Node id="66"/>21<Node id="68"/>:<Node id="69"/>48<Node id="71"/>:<Node id="72"/>38<Node id="74"/> <Node id="75"/>-<Node id="76"/>0500<Node id="80"/>
+<Node id="81"/>Organization<Node id="93"/>:<Node id="94"/> <Node id="95"/>CS<Node id="97"/> <Node id="98"/>Dept<Node id="102"/>,<Node id="103"/> <Node id="104"/>University<Node id="114"/> <Node id="115"/>of<Node id="117"/> <Node id="118"/>Texas<Node id="123"/> <Node id="124"/>at<Node id="126"/> <Node id="127"/>Austin<Node id="133"/>
+<Node id="134"/>Lines<Node id="139"/>:<Node id="140"/> <Node id="141"/>14<Node id="143"/>
+<Node id="144"/>Distribution<Node id="156"/>:<Node id="157"/> <Node id="158"/>tx<Node id="160"/>
+<Node id="161"/>Message-<Node id="169"/>ID<Node id="171"/>:<Node id="172"/> <Node id="173"/>&lt;<Node id="174"/>lss<Node id="177"/>7<Node id="178"/>k<Node id="179"/>6<Node id="180"/>INNioc<Node id="186"/>@<Node id="187"/>coltexo<Node id="194"/>.<Node id="195"/>cs<Node id="197"/>.<Node id="198"/>utexas<Node id="204"/>.<Node id="205"/>edu<Node id="208"/>&gt;<Node id="209"/>
+<Node id="210"/>References<Node id="220"/>:<Node id="221"/> <Node id="222"/>&lt;<Node id="223"/>lsjku<Node id="228"/>2<Node id="229"/>INNei<Node id="234"/>8<Node id="235"/>@<Node id="236"/>needmore<Node id="244"/>.<Node id="245"/>cs<Node id="247"/>.<Node id="248"/>utexas<Node id="254"/>.<Node id="255"/>edu<Node id="258"/>&gt;<Node id="259"/> <Node id="260"/>&lt;<Node id="261"/>1993<Node id="265"/>Apr<Node id="268"/>13<Node id="270"/>.<Node id="271"/>150740<Node id="277"/>.<Node id="278"/>6221<Node id="282"/>@<Node id="283"/>iqsc<Node id="287"/>.<Node id="288"/>COM<Node id="291"/>&gt;<Node id="292"/>
+<Node id="293"/>NNTP-Posting-Host<Node id="310"/>:<Node id="311"/> <Node id="312"/>coltexo<Node id="319"/>.<Node id="320"/>cs<Node id="322"/>.<Node id="323"/>utexas<Node id="329"/>.<Node id="330"/>edu<Node id="333"/>
+<Node id="334"/>
+<Node id="335"/>In<Node id="337"/> <Node id="338"/>article<Node id="345"/> <Node id="346"/>&lt;<Node id="347"/>1993<Node id="351"/>Apr<Node id="354"/>13<Node id="356"/>.<Node id="357"/>150740<Node id="363"/>.<Node id="364"/>6221<Node id="368"/>@<Node id="369"/>iqsc<Node id="373"/>.<Node id="374"/>COM<Node id="377"/>&gt;<Node id="378"/> <Node id="379"/>rex<Node id="382"/>@<Node id="383"/>iqsc<Node id="387"/>.<Node id="388"/>COM<Node id="391"/> <Node id="392"/>(<Node id="393"/>Rex<Node id="396"/> <Node id="397"/>Black<Node id="402"/>)<Node id="403"/> <Node id="404"/>writes<Node id="410"/>:<Node id="411"/>
+<Node id="412"/>&gt;<Node id="413"/>rail<Node id="417"/> <Node id="418"/>in<Node id="420"/> <Node id="421"/>Texas<Node id="426"/>.<Node id="427"/> <Node id="428"/> <Node id="429"/>Being<Node id="434"/> <Node id="435"/>from<Node id="439"/> <Node id="440"/>California<Node id="450"/>,<Node id="451"/> <Node id="452"/>I<Node id="453"/> <Node id="454"/>have<Node id="458"/> <Node id="459"/>come<Node id="463"/> <Node id="464"/>to<Node id="466"/> <Node id="467"/>the<Node id="470"/> <Node id="471"/>conclusion<Node id="481"/> <Node id="482"/>
+<Node id="483"/>&gt;<Node id="484"/>that<Node id="488"/> <Node id="489"/>one<Node id="492"/> <Node id="493"/>has<Node id="496"/> <Node id="497"/>two<Node id="500"/> <Node id="501"/>choices<Node id="508"/> <Node id="509"/>for<Node id="512"/> <Node id="513"/>preventing<Node id="523"/> <Node id="524"/>economic<Node id="532"/> <Node id="533"/>strangulation<Node id="546"/> <Node id="547"/>through<Node id="554"/>
+<Node id="555"/>&gt;<Node id="556"/>traffic<Node id="563"/>:<Node id="564"/> <Node id="565"/> <Node id="566"/>High<Node id="570"/> <Node id="571"/>speed<Node id="576"/> <Node id="577"/>rail<Node id="581"/> <Node id="582"/>or<Node id="584"/> <Node id="585"/>growth<Node id="591"/> <Node id="592"/>limits<Node id="598"/>.<Node id="599"/>
+<Node id="600"/>&gt;<Node id="601"/>
+<Node id="602"/>&gt;<Node id="603"/>Rex<Node id="606"/>
+<Node id="607"/>
+<Node id="608"/>Growth<Node id="614"/> <Node id="615"/>limits<Node id="621"/>?<Node id="622"/> <Node id="623"/> <Node id="624"/>How<Node id="627"/> <Node id="628"/>will<Node id="632"/> <Node id="633"/>HSR<Node id="636"/> <Node id="637"/>help<Node id="641"/> <Node id="642"/>with<Node id="646"/> <Node id="647"/>the<Node id="650"/> <Node id="651"/>traffic<Node id="658"/> <Node id="659"/>congestion<Node id="669"/>?<Node id="670"/> <Node id="671"/> <Node id="672"/>From<Node id="676"/> <Node id="677"/>what<Node id="681"/>
+<Node id="682"/>I<Node id="683"/> <Node id="684"/>understand<Node id="694"/>,<Node id="695"/> <Node id="696"/>the<Node id="699"/> <Node id="700"/>rail<Node id="704"/> <Node id="705"/>will<Node id="709"/> <Node id="710"/>not<Node id="713"/> <Node id="714"/>stop<Node id="718"/> <Node id="719"/>in<Node id="721"/> <Node id="722"/>places<Node id="728"/> <Node id="729"/>like<Node id="733"/> <Node id="734"/>Waco<Node id="738"/>,<Node id="739"/> <Node id="740"/>or<Node id="742"/> <Node id="743"/>Bryan<Node id="748"/>,<Node id="749"/> <Node id="750"/>or<Node id="752"/>
+<Node id="753"/>lots<Node id="757"/> <Node id="758"/>of<Node id="760"/> <Node id="761"/>intermediate<Node id="773"/> <Node id="774"/>places<Node id="780"/> <Node id="781"/>in<Node id="783"/> <Node id="784"/>between<Node id="791"/>.<Node id="792"/> <Node id="793"/> <Node id="794"/>Even<Node id="798"/> <Node id="799"/>though<Node id="805"/> <Node id="806"/>I<Node id="807"/> <Node id="808"/>live<Node id="812"/> <Node id="813"/>in<Node id="815"/> <Node id="816"/>Austin<Node id="822"/>,<Node id="823"/>
+<Node id="824"/>I<Node id="825"/> <Node id="826"/>do<Node id="828"/>n't<Node id="831"/> <Node id="832"/>see<Node id="835"/> <Node id="836"/>myself<Node id="842"/> <Node id="843"/>using<Node id="848"/> <Node id="849"/>the<Node id="852"/> <Node id="853"/>train<Node id="858"/> <Node id="859"/>except<Node id="865"/> <Node id="866"/>on<Node id="868"/> <Node id="869"/>rare<Node id="873"/> <Node id="874"/>occasions<Node id="883"/>.<Node id="884"/> <Node id="885"/> <Node id="886"/>probably<Node id="894"/>
+<Node id="895"/>twice<Node id="900"/> <Node id="901"/>a<Node id="902"/> <Node id="903"/>year<Node id="907"/>.<Node id="908"/> <Node id="909"/> <Node id="910"/>And<Node id="913"/> <Node id="914"/>at<Node id="916"/> <Node id="917"/>$<Node id="918"/>65<Node id="920"/> <Node id="921"/>dollars<Node id="928"/> <Node id="929"/>a<Node id="930"/> <Node id="931"/>ticket<Node id="937"/> <Node id="938"/>I<Node id="939"/> <Node id="940"/>could<Node id="945"/> <Node id="946"/>probably<Node id="954"/> <Node id="955"/>drive<Node id="960"/> <Node id="961"/>for<Node id="964"/> <Node id="965"/>
+<Node id="966"/>cheaper<Node id="973"/> <Node id="974"/>also<Node id="978"/>.<Node id="979"/> <Node id="980"/>(<Node id="981"/>even<Node id="985"/> <Node id="986"/>if<Node id="988"/> <Node id="989"/>the<Node id="992"/> <Node id="993"/>price<Node id="998"/> <Node id="999"/>of<Node id="1001"/> <Node id="1002"/>gas<Node id="1005"/> <Node id="1006"/>went<Node id="1010"/> <Node id="1011"/>up<Node id="1013"/>)<Node id="1014"/>
+<Node id="1015"/>
+<Node id="1016"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="1016" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="7" Type="Token" StartNode="15" EndNode="21">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">utexas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="39" EndNode="46">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Michalk</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Token" StartNode="81" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Token" StartNode="104" EndNode="114">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="Token" StartNode="127" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Austin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Token" StartNode="144" EndNode="156">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Distribution</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Token" StartNode="161" EndNode="169">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Token" StartNode="187" EndNode="194">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">coltexo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Token" StartNode="180" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">INNioc</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="Token" StartNode="210" EndNode="220">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="Token" StartNode="198" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">utexas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="Token" StartNode="236" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">needmore</Value>
+</Feature>
+</Annotation>
+<Annotation Id="98" Type="Token" StartNode="248" EndNode="254">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">utexas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="Token" StartNode="271" EndNode="277">
+</Annotation>
+<Annotation Id="117" Type="Token" StartNode="293" EndNode="310">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">NNTP-Posting-Host</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="Token" StartNode="323" EndNode="329">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">utexas</Value>
+</Feature>
+</Annotation>
+<Annotation Id="120" Type="Token" StartNode="312" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">coltexo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="138" Type="Token" StartNode="357" EndNode="363">
+</Annotation>
+<Annotation Id="131" Type="Token" StartNode="338" EndNode="345">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">article</Value>
+</Feature>
+</Annotation>
+<Annotation Id="159" Type="Token" StartNode="404" EndNode="410">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">writes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="175" Type="Token" StartNode="440" EndNode="450">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">California</Value>
+</Feature>
+</Annotation>
+<Annotation Id="188" Type="Token" StartNode="471" EndNode="481">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">conclusion</Value>
+</Feature>
+</Annotation>
+<Annotation Id="204" Type="Token" StartNode="513" EndNode="523">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">preventing</Value>
+</Feature>
+</Annotation>
+<Annotation Id="206" Type="Token" StartNode="524" EndNode="532">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">economic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="200" Type="Token" StartNode="501" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">choices</Value>
+</Feature>
+</Annotation>
+<Annotation Id="213" Type="Token" StartNode="556" EndNode="563">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">traffic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="208" Type="Token" StartNode="533" EndNode="546">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">strangulation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="210" Type="Token" StartNode="547" EndNode="554">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">through</Value>
+</Feature>
+</Annotation>
+<Annotation Id="238" Type="Token" StartNode="615" EndNode="621">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">limits</Value>
+</Feature>
+</Annotation>
+<Annotation Id="236" Type="Token" StartNode="608" EndNode="614">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Growth</Value>
+</Feature>
+</Annotation>
+<Annotation Id="227" Type="Token" StartNode="592" EndNode="598">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">limits</Value>
+</Feature>
+</Annotation>
+<Annotation Id="225" Type="Token" StartNode="585" EndNode="591">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">growth</Value>
+</Feature>
+</Annotation>
+<Annotation Id="254" Type="Token" StartNode="651" EndNode="658">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">traffic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="281" Type="Token" StartNode="722" EndNode="728">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">places</Value>
+</Feature>
+</Annotation>
+<Annotation Id="256" Type="Token" StartNode="659" EndNode="669">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">congestion</Value>
+</Feature>
+</Annotation>
+<Annotation Id="266" Type="Token" StartNode="684" EndNode="694">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">understand</Value>
+</Feature>
+</Annotation>
+<Annotation Id="305" Type="Token" StartNode="784" EndNode="791">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">between</Value>
+</Feature>
+</Annotation>
+<Annotation Id="311" Type="Token" StartNode="799" EndNode="805">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">though</Value>
+</Feature>
+</Annotation>
+<Annotation Id="319" Type="Token" StartNode="816" EndNode="822">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Austin</Value>
+</Feature>
+</Annotation>
+<Annotation Id="299" Type="Token" StartNode="761" EndNode="773">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">intermediate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="301" Type="Token" StartNode="774" EndNode="780">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">places</Value>
+</Feature>
+</Annotation>
+<Annotation Id="338" Type="Token" StartNode="859" EndNode="865">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">except</Value>
+</Feature>
+</Annotation>
+<Annotation Id="348" Type="Token" StartNode="886" EndNode="894">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">probably</Value>
+</Feature>
+</Annotation>
+<Annotation Id="344" Type="Token" StartNode="874" EndNode="883">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">occasions</Value>
+</Feature>
+</Annotation>
+<Annotation Id="330" Type="Token" StartNode="836" EndNode="842">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">myself</Value>
+</Feature>
+</Annotation>
+<Annotation Id="375" Type="Token" StartNode="946" EndNode="954">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">probably</Value>
+</Feature>
+</Annotation>
+<Annotation Id="369" Type="Token" StartNode="931" EndNode="937">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ticket</Value>
+</Feature>
+</Annotation>
+<Annotation Id="382" Type="Token" StartNode="966" EndNode="973">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cheaper</Value>
+</Feature>
+</Annotation>
+<Annotation Id="365" Type="Token" StartNode="921" EndNode="928">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dollars</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

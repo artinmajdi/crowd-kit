@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: pgf5@cunixb.cc.columbia.edu (Peter Garfiel Freeman)
+Message-ID: &lt;1993Apr27.011340.1273@news.columbia.edu>
+Sender: usenet@news.columbia.edu (The Network News)
+Nntp-Posting-Host: cunixb.cc.columbia.edu
+Organization: Columbia University
+Date: Tue, 27 Apr 1993 01:13:40 GMT
+Lines: 10
+
+Wow!  It's sad to see that the University of Virginia has begun
+to produce such a virulent breed of Jew-haters and self-hating
+Jews!  
+
+
+Roar Lion Roar
+
+
+
+
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1862</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>pgf<Node id="9"/>5<Node id="10"/>@<Node id="11"/>cunixb<Node id="17"/>.<Node id="18"/>cc<Node id="20"/>.<Node id="21"/>columbia<Node id="29"/>.<Node id="30"/>edu<Node id="33"/> <Node id="34"/>(<Node id="35"/>Peter<Node id="40"/> <Node id="41"/>Garfiel<Node id="48"/> <Node id="49"/>Freeman<Node id="56"/>)<Node id="57"/>
+<Node id="58"/>Message-<Node id="66"/>ID<Node id="68"/>:<Node id="69"/> <Node id="70"/>&lt;<Node id="71"/>1993<Node id="75"/>Apr<Node id="78"/>27<Node id="80"/>.<Node id="81"/>011340<Node id="87"/>.<Node id="88"/>1273<Node id="92"/>@<Node id="93"/>news<Node id="97"/>.<Node id="98"/>columbia<Node id="106"/>.<Node id="107"/>edu<Node id="110"/>&gt;<Node id="111"/>
+<Node id="112"/>Sender<Node id="118"/>:<Node id="119"/> <Node id="120"/>usenet<Node id="126"/>@<Node id="127"/>news<Node id="131"/>.<Node id="132"/>columbia<Node id="140"/>.<Node id="141"/>edu<Node id="144"/> <Node id="145"/>(<Node id="146"/>The<Node id="149"/> <Node id="150"/>Network<Node id="157"/> <Node id="158"/>News<Node id="162"/>)<Node id="163"/>
+<Node id="164"/>Nntp-<Node id="169"/>Posting-<Node id="177"/>Host<Node id="181"/>:<Node id="182"/> <Node id="183"/>cunixb<Node id="189"/>.<Node id="190"/>cc<Node id="192"/>.<Node id="193"/>columbia<Node id="201"/>.<Node id="202"/>edu<Node id="205"/>
+<Node id="206"/>Organization<Node id="218"/>:<Node id="219"/> <Node id="220"/>Columbia<Node id="228"/> <Node id="229"/>University<Node id="239"/>
+<Node id="240"/>Date<Node id="244"/>:<Node id="245"/> <Node id="246"/>Tue<Node id="249"/>,<Node id="250"/> <Node id="251"/>27<Node id="253"/> <Node id="254"/>Apr<Node id="257"/> <Node id="258"/>1993<Node id="262"/> <Node id="263"/>01<Node id="265"/>:<Node id="266"/>13<Node id="268"/>:<Node id="269"/>40<Node id="271"/> <Node id="272"/>GMT<Node id="275"/>
+<Node id="276"/>Lines<Node id="281"/>:<Node id="282"/> <Node id="283"/>10<Node id="285"/>
+<Node id="286"/>
+<Node id="287"/>Wow<Node id="290"/>!<Node id="291"/> <Node id="292"/> <Node id="293"/>It<Node id="295"/>'s<Node id="297"/> <Node id="298"/>sad<Node id="301"/> <Node id="302"/>to<Node id="304"/> <Node id="305"/>see<Node id="308"/> <Node id="309"/>that<Node id="313"/> <Node id="314"/>the<Node id="317"/> <Node id="318"/>University<Node id="328"/> <Node id="329"/>of<Node id="331"/> <Node id="332"/>Virginia<Node id="340"/> <Node id="341"/>has<Node id="344"/> <Node id="345"/>begun<Node id="350"/>
+<Node id="351"/>to<Node id="353"/> <Node id="354"/>produce<Node id="361"/> <Node id="362"/>such<Node id="366"/> <Node id="367"/>a<Node id="368"/> <Node id="369"/>virulent<Node id="377"/> <Node id="378"/>breed<Node id="383"/> <Node id="384"/>of<Node id="386"/> <Node id="387"/>Jew-haters<Node id="397"/> <Node id="398"/>and<Node id="401"/> <Node id="402"/>self-hating<Node id="413"/>
+<Node id="414"/>Jews<Node id="418"/>!<Node id="419"/> <Node id="420"/> <Node id="421"/>
+<Node id="422"/>
+<Node id="423"/>
+<Node id="424"/>Roar<Node id="428"/> <Node id="429"/>Lion<Node id="433"/> <Node id="434"/>Roar<Node id="438"/>
+<Node id="439"/>
+<Node id="440"/>
+<Node id="441"/>
+<Node id="442"/>
+<Node id="443"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="443" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="6" Type="Token" StartNode="11" EndNode="17">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cunixb</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Token" StartNode="21" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">columbia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Token" StartNode="41" EndNode="48">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Garfiel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Token" StartNode="49" EndNode="56">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Freeman</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Token" StartNode="58" EndNode="66">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Token" StartNode="81" EndNode="87">
+</Annotation>
+<Annotation Id="37" Type="Token" StartNode="98" EndNode="106">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">columbia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Token" StartNode="112" EndNode="118">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Token" StartNode="120" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">usenet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Token" StartNode="132" EndNode="140">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">columbia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="150" EndNode="157">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Network</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="Token" StartNode="169" EndNode="177">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Posting-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="Token" StartNode="193" EndNode="201">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">columbia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="Token" StartNode="183" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">cunixb</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="Token" StartNode="220" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Columbia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="Token" StartNode="229" EndNode="239">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Token" StartNode="206" EndNode="218">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="Token" StartNode="318" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="137" Type="Token" StartNode="354" EndNode="361">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">produce</Value>
+</Feature>
+</Annotation>
+<Annotation Id="143" Type="Token" StartNode="369" EndNode="377">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">virulent</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="Token" StartNode="332" EndNode="340">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Virginia</Value>
+</Feature>
+</Annotation>
+<Annotation Id="153" Type="Token" StartNode="402" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">self-hating</Value>
+</Feature>
+</Annotation>
+<Annotation Id="149" Type="Token" StartNode="387" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Jew-haters</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: CVRKATZ@TECHNION.BITNET (Eran Katz)
+Message-ID: &lt;93117.165950CVRKATZ@TECHNION.BITNET>
+Date: 27 Apr 93 14:41:01 GMT
+References: &lt;20APR93.23565659.0109@VM1.MCGILL.CA>
+Organization: TECHNION - Israel Institute of Technology.
+Lines: 1
+
+Yes, I want to read such a article.
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1626</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>CVRKATZ<Node id="13"/>@<Node id="14"/>TECHNION<Node id="22"/>.<Node id="23"/>BITNET<Node id="29"/> <Node id="30"/>(<Node id="31"/>Eran<Node id="35"/> <Node id="36"/>Katz<Node id="40"/>)<Node id="41"/>
+<Node id="42"/>Message-<Node id="50"/>ID<Node id="52"/>:<Node id="53"/> <Node id="54"/>&lt;<Node id="55"/>93117<Node id="60"/>.<Node id="61"/>165950<Node id="67"/>CVRKATZ<Node id="74"/>@<Node id="75"/>TECHNION<Node id="83"/>.<Node id="84"/>BITNET<Node id="90"/>&gt;<Node id="91"/>
+<Node id="92"/>Date<Node id="96"/>:<Node id="97"/> <Node id="98"/>27<Node id="100"/> <Node id="101"/>Apr<Node id="104"/> <Node id="105"/>93<Node id="107"/> <Node id="108"/>14<Node id="110"/>:<Node id="111"/>41<Node id="113"/>:<Node id="114"/>01<Node id="116"/> <Node id="117"/>GMT<Node id="120"/>
+<Node id="121"/>References<Node id="131"/>:<Node id="132"/> <Node id="133"/>&lt;<Node id="134"/>20<Node id="136"/>APR<Node id="139"/>93<Node id="141"/>.<Node id="142"/>23565659<Node id="150"/>.<Node id="151"/>0109<Node id="155"/>@<Node id="156"/>VM<Node id="158"/>1<Node id="159"/>.<Node id="160"/>MCGILL<Node id="166"/>.<Node id="167"/>CA<Node id="169"/>&gt;<Node id="170"/>
+<Node id="171"/>Organization<Node id="183"/>:<Node id="184"/> <Node id="185"/>TECHNION<Node id="193"/> <Node id="194"/>-<Node id="195"/> <Node id="196"/>Israel<Node id="202"/> <Node id="203"/>Institute<Node id="212"/> <Node id="213"/>of<Node id="215"/> <Node id="216"/>Technology<Node id="226"/>.<Node id="227"/>
+<Node id="228"/>Lines<Node id="233"/>:<Node id="234"/> <Node id="235"/>1<Node id="236"/>
+<Node id="237"/>
+<Node id="238"/>Yes<Node id="241"/>,<Node id="242"/> <Node id="243"/>I<Node id="244"/> <Node id="245"/>want<Node id="249"/> <Node id="250"/>to<Node id="252"/> <Node id="253"/>read<Node id="257"/> <Node id="258"/>such<Node id="262"/> <Node id="263"/>a<Node id="264"/> <Node id="265"/>article<Node id="272"/>.<Node id="273"/>
+<Node id="274"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="274" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="3" Type="Token" StartNode="6" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">CVRKATZ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Token" StartNode="14" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">TECHNION</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="23" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">BITNET</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Token" StartNode="42" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Token" StartNode="67" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">CVRKATZ</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Token" StartNode="61" EndNode="67">
+</Annotation>
+<Annotation Id="25" Type="Token" StartNode="75" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">TECHNION</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Token" StartNode="84" EndNode="90">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">BITNET</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Token" StartNode="121" EndNode="131">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="Token" StartNode="142" EndNode="150">
+</Annotation>
+<Annotation Id="62" Type="Token" StartNode="160" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">MCGILL</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="Token" StartNode="185" EndNode="193">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">TECHNION</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="Token" StartNode="171" EndNode="183">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Token" StartNode="203" EndNode="212">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Institute</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Token" StartNode="196" EndNode="202">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="Token" StartNode="216" EndNode="226">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Technology</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="Token" StartNode="265" EndNode="272">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">article</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

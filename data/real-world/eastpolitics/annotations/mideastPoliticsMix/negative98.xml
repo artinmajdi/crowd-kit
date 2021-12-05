@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: demon@desire.wright.edu (Not a Boomer)
+Message-ID: &lt;1993Apr6.125825.8263@desire.wright.edu>
+Date: 6 Apr 93 17:58:25 GMT
+Article-I.D.: desire.1993Apr6.125825.8263
+References: &lt;Ufk_Gqu00WBKE7cX5V@andrew.cmu.edu>
+Distribution: na
+Organization: ACME Products
+Lines: 60
+
+In article &lt;Ufk_Gqu00WBKE7cX5V@andrew.cmu.edu>, Ashish Arora &lt;ashish+@andrew.cmu.edu> writes:
+> Excerpts from netnews.sci.econ: 5-Apr-93 Re: Supply Side Economic Po..
+> by Not a Boomer@desire.wrig 
+> [...]
+> 
+>>    The deficits declined from 84-9, reaching a low of 2.9% of GNP before  
+>> the tax and spending hike of 1990 reversed the trend.
+>>  
+>> Brett
+> Is this true ?  Some more details would be appreciated.
+
+In billions of dollars (%GNP):
+year  GNP    receipts     outlays       deficit     debt    unempl%  admin
+====  ====   ===========  ============  =========   ======  =======  =======
+1977  1930   355.6 (18.4) 409.2  (21.2) 53.6 (2.8)   709.1           Carter
+1978  2174   399.6 (18.4) 458.7  (21.1) 59.2 (2.7)   780.4           Carter
+1979  2444   463.3 (19.0) 503.5  (20.6) 40.2 (1.6)   833.8           Carter
+1980  2674   517.1 (19.3) 590.9  (22.1) 73.8 (2.8)   914.3   7.9     Carter
+1981  2986   599.3 (20.1) 678.2  (22.7) 78.9 (2.6)  1003.9   8.4     Reagan
+1982  3130   617.8 (19.7) 745.7  (23.8) 127.9 (4.1) 1147.0  11.0     Reagan
+1983  3325   600.6 (18.1) 808.3  (24.3) 207.8 (6.2) 1381.9  10.9     Reagan
+1984  3688   666.5 (18.1) 851.8  (23.1) 185.3 (5.0) 1576.7   8.6     Reagan
+1985  3958   734.1 (18.5) 946.3  (23.9) 212.3 (5.4) 1827.5   8.1     Reagan
+1986  4177   769.1 (18.4) 989.8  (23.7) 220.7 (5.3) 2129.5   7.9     Reagan
+1987  4442   854.1 (19.2) 1002.1 (22.6) 148.0 (3.4) 2354.3   7.1     Reagan
+1988  4771   909.0 (19.1) 1064.1 (22.3) 155.1 (3.2) 2614.6   6.3     Reagan
+1989  5201   990.8 (19.0) 1142.8 (22.0)	152.0 (2.9) 2881.1           Bush
+1990         1031.2       1251.6        220.4       3190.5           Bush
+1991	     1054.3	  1323.0	268.7       3599.0           Bush
+
+[Source: Statistical Abstract of the US (1990 version), American Almanac 
+(1993 version), Universal Almanac (1993 version), Information Please Almanac
+(1991 version)]
+
+		GRAPHICALLY: Deficits as a % of GNP, 1981-89
+
+% GNP
+7|
+ |
+6|                       X
+ |                                       X       X
+5|                               X                
+ |                                                
+4|               X
+ |                                                       X
+3|                                                               X       X
+ |       X
+2|
+ |
+1|
+ |____________________________________________________________________________
+0	1981	1982	1983	1984	1985	1986	1987	1988	1989
+
+	Ironically, Bush could have frozen spending, kept his "no new taxes"
+pledge and balanced the budget.
+
+Brett
+________________________________________________________________________________
+	"There's nothing so passionate as a vested interest disguised as an
+intellectual conviction."  Sean O'Casey in _The White Plague_ by Frank Herbert.
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/negative98</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>demon<Node id="11"/>@<Node id="12"/>desire<Node id="18"/>.<Node id="19"/>wright<Node id="25"/>.<Node id="26"/>edu<Node id="29"/> <Node id="30"/>(<Node id="31"/>Not<Node id="34"/> <Node id="35"/>a<Node id="36"/> <Node id="37"/>Boomer<Node id="43"/>)<Node id="44"/>
+<Node id="45"/>Message-<Node id="53"/>ID<Node id="55"/>:<Node id="56"/> <Node id="57"/>&lt;<Node id="58"/>1993<Node id="62"/>Apr<Node id="65"/>6<Node id="66"/>.<Node id="67"/>125825<Node id="73"/>.<Node id="74"/>8263<Node id="78"/>@<Node id="79"/>desire<Node id="85"/>.<Node id="86"/>wright<Node id="92"/>.<Node id="93"/>edu<Node id="96"/>&gt;<Node id="97"/>
+<Node id="98"/>Date<Node id="102"/>:<Node id="103"/> <Node id="104"/>6<Node id="105"/> <Node id="106"/>Apr<Node id="109"/> <Node id="110"/>93<Node id="112"/> <Node id="113"/>17<Node id="115"/>:<Node id="116"/>58<Node id="118"/>:<Node id="119"/>25<Node id="121"/> <Node id="122"/>GMT<Node id="125"/>
+<Node id="126"/>Article-<Node id="134"/>I<Node id="135"/>.<Node id="136"/>D<Node id="137"/>.<Node id="138"/>:<Node id="139"/> <Node id="140"/>desire<Node id="146"/>.<Node id="147"/>1993<Node id="151"/>Apr<Node id="154"/>6<Node id="155"/>.<Node id="156"/>125825<Node id="162"/>.<Node id="163"/>8263<Node id="167"/>
+<Node id="168"/>References<Node id="178"/>:<Node id="179"/> <Node id="180"/>&lt;<Node id="181"/>Ufk<Node id="184"/>_<Node id="185"/>Gqu<Node id="188"/>00<Node id="190"/>WBKE<Node id="194"/>7<Node id="195"/>cX<Node id="197"/>5<Node id="198"/>V<Node id="199"/>@<Node id="200"/>andrew<Node id="206"/>.<Node id="207"/>cmu<Node id="210"/>.<Node id="211"/>edu<Node id="214"/>&gt;<Node id="215"/>
+<Node id="216"/>Distribution<Node id="228"/>:<Node id="229"/> <Node id="230"/>na<Node id="232"/>
+<Node id="233"/>Organization<Node id="245"/>:<Node id="246"/> <Node id="247"/>ACME<Node id="251"/> <Node id="252"/>Products<Node id="260"/>
+<Node id="261"/>Lines<Node id="266"/>:<Node id="267"/> <Node id="268"/>60<Node id="270"/>
+<Node id="271"/>
+<Node id="272"/>In<Node id="274"/> <Node id="275"/>article<Node id="282"/> <Node id="283"/>&lt;<Node id="284"/>Ufk<Node id="287"/>_<Node id="288"/>Gqu<Node id="291"/>00<Node id="293"/>WBKE<Node id="297"/>7<Node id="298"/>cX<Node id="300"/>5<Node id="301"/>V<Node id="302"/>@<Node id="303"/>andrew<Node id="309"/>.<Node id="310"/>cmu<Node id="313"/>.<Node id="314"/>edu<Node id="317"/>&gt;<Node id="318"/>,<Node id="319"/> <Node id="320"/>Ashish<Node id="326"/> <Node id="327"/>Arora<Node id="332"/> <Node id="333"/>&lt;<Node id="334"/>ashish<Node id="340"/>+<Node id="341"/>@<Node id="342"/>andrew<Node id="348"/>.<Node id="349"/>cmu<Node id="352"/>.<Node id="353"/>edu<Node id="356"/>&gt;<Node id="357"/> <Node id="358"/>writes<Node id="364"/>:<Node id="365"/>
+<Node id="366"/>&gt;<Node id="367"/> <Node id="368"/>Excerpts<Node id="376"/> <Node id="377"/>from<Node id="381"/> <Node id="382"/>netnews<Node id="389"/>.<Node id="390"/>sci<Node id="393"/>.<Node id="394"/>econ<Node id="398"/>:<Node id="399"/> <Node id="400"/>5<Node id="401"/>-<Node id="402"/>Apr-<Node id="406"/>93<Node id="408"/> <Node id="409"/>Re<Node id="411"/>:<Node id="412"/> <Node id="413"/>Supply<Node id="419"/> <Node id="420"/>Side<Node id="424"/> <Node id="425"/>Economic<Node id="433"/> <Node id="434"/>Po<Node id="436"/>.<Node id="437"/>.<Node id="438"/>
+<Node id="439"/>&gt;<Node id="440"/> <Node id="441"/>by<Node id="443"/> <Node id="444"/>Not<Node id="447"/> <Node id="448"/>a<Node id="449"/> <Node id="450"/>Boomer<Node id="456"/>@<Node id="457"/>desire<Node id="463"/>.<Node id="464"/>wrig<Node id="468"/> <Node id="469"/>
+<Node id="470"/>&gt;<Node id="471"/> <Node id="472"/>[<Node id="473"/>.<Node id="474"/>.<Node id="475"/>.<Node id="476"/>]<Node id="477"/>
+<Node id="478"/>&gt;<Node id="479"/> <Node id="480"/>
+<Node id="481"/>&gt;<Node id="482"/>&gt;<Node id="483"/> <Node id="484"/> <Node id="485"/> <Node id="486"/> <Node id="487"/>The<Node id="490"/> <Node id="491"/>deficits<Node id="499"/> <Node id="500"/>declined<Node id="508"/> <Node id="509"/>from<Node id="513"/> <Node id="514"/>84<Node id="516"/>-<Node id="517"/>9<Node id="518"/>,<Node id="519"/> <Node id="520"/>reaching<Node id="528"/> <Node id="529"/>a<Node id="530"/> <Node id="531"/>low<Node id="534"/> <Node id="535"/>of<Node id="537"/> <Node id="538"/>2<Node id="539"/>.<Node id="540"/>9<Node id="541"/>%<Node id="542"/> <Node id="543"/>of<Node id="545"/> <Node id="546"/>GNP<Node id="549"/> <Node id="550"/>before<Node id="556"/> <Node id="557"/> <Node id="558"/>
+<Node id="559"/>&gt;<Node id="560"/>&gt;<Node id="561"/> <Node id="562"/>the<Node id="565"/> <Node id="566"/>tax<Node id="569"/> <Node id="570"/>and<Node id="573"/> <Node id="574"/>spending<Node id="582"/> <Node id="583"/>hike<Node id="587"/> <Node id="588"/>of<Node id="590"/> <Node id="591"/>1990<Node id="595"/> <Node id="596"/>reversed<Node id="604"/> <Node id="605"/>the<Node id="608"/> <Node id="609"/>trend<Node id="614"/>.<Node id="615"/>
+<Node id="616"/>&gt;<Node id="617"/>&gt;<Node id="618"/> <Node id="619"/> <Node id="620"/>
+<Node id="621"/>&gt;<Node id="622"/>&gt;<Node id="623"/> <Node id="624"/>Brett<Node id="629"/>
+<Node id="630"/>&gt;<Node id="631"/> <Node id="632"/>Is<Node id="634"/> <Node id="635"/>this<Node id="639"/> <Node id="640"/>true<Node id="644"/> <Node id="645"/>?<Node id="646"/> <Node id="647"/> <Node id="648"/>Some<Node id="652"/> <Node id="653"/>more<Node id="657"/> <Node id="658"/>details<Node id="665"/> <Node id="666"/>would<Node id="671"/> <Node id="672"/>be<Node id="674"/> <Node id="675"/>appreciated<Node id="686"/>.<Node id="687"/>
+<Node id="688"/>
+<Node id="689"/>In<Node id="691"/> <Node id="692"/>billions<Node id="700"/> <Node id="701"/>of<Node id="703"/> <Node id="704"/>dollars<Node id="711"/> <Node id="712"/>(<Node id="713"/>%<Node id="714"/>GNP<Node id="717"/>)<Node id="718"/>:<Node id="719"/>
+<Node id="720"/>year<Node id="724"/> <Node id="725"/> <Node id="726"/>GNP<Node id="729"/> <Node id="730"/> <Node id="731"/> <Node id="732"/> <Node id="733"/>receipts<Node id="741"/> <Node id="742"/> <Node id="743"/> <Node id="744"/> <Node id="745"/> <Node id="746"/>outlays<Node id="753"/> <Node id="754"/> <Node id="755"/> <Node id="756"/> <Node id="757"/> <Node id="758"/> <Node id="759"/> <Node id="760"/>deficit<Node id="767"/> <Node id="768"/> <Node id="769"/> <Node id="770"/> <Node id="771"/> <Node id="772"/>debt<Node id="776"/> <Node id="777"/> <Node id="778"/> <Node id="779"/> <Node id="780"/>unempl<Node id="786"/>%<Node id="787"/> <Node id="788"/> <Node id="789"/>admin<Node id="794"/>
+<Node id="795"/>=<Node id="796"/>=<Node id="797"/>=<Node id="798"/>=<Node id="799"/> <Node id="800"/> <Node id="801"/>=<Node id="802"/>=<Node id="803"/>=<Node id="804"/>=<Node id="805"/> <Node id="806"/> <Node id="807"/> <Node id="808"/>=<Node id="809"/>=<Node id="810"/>=<Node id="811"/>=<Node id="812"/>=<Node id="813"/>=<Node id="814"/>=<Node id="815"/>=<Node id="816"/>=<Node id="817"/>=<Node id="818"/>=<Node id="819"/> <Node id="820"/> <Node id="821"/>=<Node id="822"/>=<Node id="823"/>=<Node id="824"/>=<Node id="825"/>=<Node id="826"/>=<Node id="827"/>=<Node id="828"/>=<Node id="829"/>=<Node id="830"/>=<Node id="831"/>=<Node id="832"/>=<Node id="833"/> <Node id="834"/> <Node id="835"/>=<Node id="836"/>=<Node id="837"/>=<Node id="838"/>=<Node id="839"/>=<Node id="840"/>=<Node id="841"/>=<Node id="842"/>=<Node id="843"/>=<Node id="844"/> <Node id="845"/> <Node id="846"/> <Node id="847"/>=<Node id="848"/>=<Node id="849"/>=<Node id="850"/>=<Node id="851"/>=<Node id="852"/>=<Node id="853"/> <Node id="854"/> <Node id="855"/>=<Node id="856"/>=<Node id="857"/>=<Node id="858"/>=<Node id="859"/>=<Node id="860"/>=<Node id="861"/>=<Node id="862"/> <Node id="863"/> <Node id="864"/>=<Node id="865"/>=<Node id="866"/>=<Node id="867"/>=<Node id="868"/>=<Node id="869"/>=<Node id="870"/>=<Node id="871"/>
+<Node id="872"/>1977<Node id="876"/> <Node id="877"/> <Node id="878"/>1930<Node id="882"/> <Node id="883"/> <Node id="884"/> <Node id="885"/>355<Node id="888"/>.<Node id="889"/>6<Node id="890"/> <Node id="891"/>(<Node id="892"/>18<Node id="894"/>.<Node id="895"/>4<Node id="896"/>)<Node id="897"/> <Node id="898"/>409<Node id="901"/>.<Node id="902"/>2<Node id="903"/> <Node id="904"/> <Node id="905"/>(<Node id="906"/>21<Node id="908"/>.<Node id="909"/>2<Node id="910"/>)<Node id="911"/> <Node id="912"/>53<Node id="914"/>.<Node id="915"/>6<Node id="916"/> <Node id="917"/>(<Node id="918"/>2<Node id="919"/>.<Node id="920"/>8<Node id="921"/>)<Node id="922"/> <Node id="923"/> <Node id="924"/> <Node id="925"/>709<Node id="928"/>.<Node id="929"/>1<Node id="930"/> <Node id="931"/> <Node id="932"/> <Node id="933"/> <Node id="934"/> <Node id="935"/> <Node id="936"/> <Node id="937"/> <Node id="938"/> <Node id="939"/> <Node id="940"/> <Node id="941"/>Carter<Node id="947"/>
+<Node id="948"/>1978<Node id="952"/> <Node id="953"/> <Node id="954"/>2174<Node id="958"/> <Node id="959"/> <Node id="960"/> <Node id="961"/>399<Node id="964"/>.<Node id="965"/>6<Node id="966"/> <Node id="967"/>(<Node id="968"/>18<Node id="970"/>.<Node id="971"/>4<Node id="972"/>)<Node id="973"/> <Node id="974"/>458<Node id="977"/>.<Node id="978"/>7<Node id="979"/> <Node id="980"/> <Node id="981"/>(<Node id="982"/>21<Node id="984"/>.<Node id="985"/>1<Node id="986"/>)<Node id="987"/> <Node id="988"/>59<Node id="990"/>.<Node id="991"/>2<Node id="992"/> <Node id="993"/>(<Node id="994"/>2<Node id="995"/>.<Node id="996"/>7<Node id="997"/>)<Node id="998"/> <Node id="999"/> <Node id="1000"/> <Node id="1001"/>780<Node id="1004"/>.<Node id="1005"/>4<Node id="1006"/> <Node id="1007"/> <Node id="1008"/> <Node id="1009"/> <Node id="1010"/> <Node id="1011"/> <Node id="1012"/> <Node id="1013"/> <Node id="1014"/> <Node id="1015"/> <Node id="1016"/> <Node id="1017"/>Carter<Node id="1023"/>
+<Node id="1024"/>1979<Node id="1028"/> <Node id="1029"/> <Node id="1030"/>2444<Node id="1034"/> <Node id="1035"/> <Node id="1036"/> <Node id="1037"/>463<Node id="1040"/>.<Node id="1041"/>3<Node id="1042"/> <Node id="1043"/>(<Node id="1044"/>19<Node id="1046"/>.<Node id="1047"/>0<Node id="1048"/>)<Node id="1049"/> <Node id="1050"/>503<Node id="1053"/>.<Node id="1054"/>5<Node id="1055"/> <Node id="1056"/> <Node id="1057"/>(<Node id="1058"/>20<Node id="1060"/>.<Node id="1061"/>6<Node id="1062"/>)<Node id="1063"/> <Node id="1064"/>40<Node id="1066"/>.<Node id="1067"/>2<Node id="1068"/> <Node id="1069"/>(<Node id="1070"/>1<Node id="1071"/>.<Node id="1072"/>6<Node id="1073"/>)<Node id="1074"/> <Node id="1075"/> <Node id="1076"/> <Node id="1077"/>833<Node id="1080"/>.<Node id="1081"/>8<Node id="1082"/> <Node id="1083"/> <Node id="1084"/> <Node id="1085"/> <Node id="1086"/> <Node id="1087"/> <Node id="1088"/> <Node id="1089"/> <Node id="1090"/> <Node id="1091"/> <Node id="1092"/> <Node id="1093"/>Carter<Node id="1099"/>
+<Node id="1100"/>1980<Node id="1104"/> <Node id="1105"/> <Node id="1106"/>2674<Node id="1110"/> <Node id="1111"/> <Node id="1112"/> <Node id="1113"/>517<Node id="1116"/>.<Node id="1117"/>1<Node id="1118"/> <Node id="1119"/>(<Node id="1120"/>19<Node id="1122"/>.<Node id="1123"/>3<Node id="1124"/>)<Node id="1125"/> <Node id="1126"/>590<Node id="1129"/>.<Node id="1130"/>9<Node id="1131"/> <Node id="1132"/> <Node id="1133"/>(<Node id="1134"/>22<Node id="1136"/>.<Node id="1137"/>1<Node id="1138"/>)<Node id="1139"/> <Node id="1140"/>73<Node id="1142"/>.<Node id="1143"/>8<Node id="1144"/> <Node id="1145"/>(<Node id="1146"/>2<Node id="1147"/>.<Node id="1148"/>8<Node id="1149"/>)<Node id="1150"/> <Node id="1151"/> <Node id="1152"/> <Node id="1153"/>914<Node id="1156"/>.<Node id="1157"/>3<Node id="1158"/> <Node id="1159"/> <Node id="1160"/> <Node id="1161"/>7<Node id="1162"/>.<Node id="1163"/>9<Node id="1164"/> <Node id="1165"/> <Node id="1166"/> <Node id="1167"/> <Node id="1168"/> <Node id="1169"/>Carter<Node id="1175"/>
+<Node id="1176"/>1981<Node id="1180"/> <Node id="1181"/> <Node id="1182"/>2986<Node id="1186"/> <Node id="1187"/> <Node id="1188"/> <Node id="1189"/>599<Node id="1192"/>.<Node id="1193"/>3<Node id="1194"/> <Node id="1195"/>(<Node id="1196"/>20<Node id="1198"/>.<Node id="1199"/>1<Node id="1200"/>)<Node id="1201"/> <Node id="1202"/>678<Node id="1205"/>.<Node id="1206"/>2<Node id="1207"/> <Node id="1208"/> <Node id="1209"/>(<Node id="1210"/>22<Node id="1212"/>.<Node id="1213"/>7<Node id="1214"/>)<Node id="1215"/> <Node id="1216"/>78<Node id="1218"/>.<Node id="1219"/>9<Node id="1220"/> <Node id="1221"/>(<Node id="1222"/>2<Node id="1223"/>.<Node id="1224"/>6<Node id="1225"/>)<Node id="1226"/> <Node id="1227"/> <Node id="1228"/>1003<Node id="1232"/>.<Node id="1233"/>9<Node id="1234"/> <Node id="1235"/> <Node id="1236"/> <Node id="1237"/>8<Node id="1238"/>.<Node id="1239"/>4<Node id="1240"/> <Node id="1241"/> <Node id="1242"/> <Node id="1243"/> <Node id="1244"/> <Node id="1245"/>Reagan<Node id="1251"/>
+<Node id="1252"/>1982<Node id="1256"/> <Node id="1257"/> <Node id="1258"/>3130<Node id="1262"/> <Node id="1263"/> <Node id="1264"/> <Node id="1265"/>617<Node id="1268"/>.<Node id="1269"/>8<Node id="1270"/> <Node id="1271"/>(<Node id="1272"/>19<Node id="1274"/>.<Node id="1275"/>7<Node id="1276"/>)<Node id="1277"/> <Node id="1278"/>745<Node id="1281"/>.<Node id="1282"/>7<Node id="1283"/> <Node id="1284"/> <Node id="1285"/>(<Node id="1286"/>23<Node id="1288"/>.<Node id="1289"/>8<Node id="1290"/>)<Node id="1291"/> <Node id="1292"/>127<Node id="1295"/>.<Node id="1296"/>9<Node id="1297"/> <Node id="1298"/>(<Node id="1299"/>4<Node id="1300"/>.<Node id="1301"/>1<Node id="1302"/>)<Node id="1303"/> <Node id="1304"/>1147<Node id="1308"/>.<Node id="1309"/>0<Node id="1310"/> <Node id="1311"/> <Node id="1312"/>11<Node id="1314"/>.<Node id="1315"/>0<Node id="1316"/> <Node id="1317"/> <Node id="1318"/> <Node id="1319"/> <Node id="1320"/> <Node id="1321"/>Reagan<Node id="1327"/>
+<Node id="1328"/>1983<Node id="1332"/> <Node id="1333"/> <Node id="1334"/>3325<Node id="1338"/> <Node id="1339"/> <Node id="1340"/> <Node id="1341"/>600<Node id="1344"/>.<Node id="1345"/>6<Node id="1346"/> <Node id="1347"/>(<Node id="1348"/>18<Node id="1350"/>.<Node id="1351"/>1<Node id="1352"/>)<Node id="1353"/> <Node id="1354"/>808<Node id="1357"/>.<Node id="1358"/>3<Node id="1359"/> <Node id="1360"/> <Node id="1361"/>(<Node id="1362"/>24<Node id="1364"/>.<Node id="1365"/>3<Node id="1366"/>)<Node id="1367"/> <Node id="1368"/>207<Node id="1371"/>.<Node id="1372"/>8<Node id="1373"/> <Node id="1374"/>(<Node id="1375"/>6<Node id="1376"/>.<Node id="1377"/>2<Node id="1378"/>)<Node id="1379"/> <Node id="1380"/>1381<Node id="1384"/>.<Node id="1385"/>9<Node id="1386"/> <Node id="1387"/> <Node id="1388"/>10<Node id="1390"/>.<Node id="1391"/>9<Node id="1392"/> <Node id="1393"/> <Node id="1394"/> <Node id="1395"/> <Node id="1396"/> <Node id="1397"/>Reagan<Node id="1403"/>
+<Node id="1404"/>1984<Node id="1408"/> <Node id="1409"/> <Node id="1410"/>3688<Node id="1414"/> <Node id="1415"/> <Node id="1416"/> <Node id="1417"/>666<Node id="1420"/>.<Node id="1421"/>5<Node id="1422"/> <Node id="1423"/>(<Node id="1424"/>18<Node id="1426"/>.<Node id="1427"/>1<Node id="1428"/>)<Node id="1429"/> <Node id="1430"/>851<Node id="1433"/>.<Node id="1434"/>8<Node id="1435"/> <Node id="1436"/> <Node id="1437"/>(<Node id="1438"/>23<Node id="1440"/>.<Node id="1441"/>1<Node id="1442"/>)<Node id="1443"/> <Node id="1444"/>185<Node id="1447"/>.<Node id="1448"/>3<Node id="1449"/> <Node id="1450"/>(<Node id="1451"/>5<Node id="1452"/>.<Node id="1453"/>0<Node id="1454"/>)<Node id="1455"/> <Node id="1456"/>1576<Node id="1460"/>.<Node id="1461"/>7<Node id="1462"/> <Node id="1463"/> <Node id="1464"/> <Node id="1465"/>8<Node id="1466"/>.<Node id="1467"/>6<Node id="1468"/> <Node id="1469"/> <Node id="1470"/> <Node id="1471"/> <Node id="1472"/> <Node id="1473"/>Reagan<Node id="1479"/>
+<Node id="1480"/>1985<Node id="1484"/> <Node id="1485"/> <Node id="1486"/>3958<Node id="1490"/> <Node id="1491"/> <Node id="1492"/> <Node id="1493"/>734<Node id="1496"/>.<Node id="1497"/>1<Node id="1498"/> <Node id="1499"/>(<Node id="1500"/>18<Node id="1502"/>.<Node id="1503"/>5<Node id="1504"/>)<Node id="1505"/> <Node id="1506"/>946<Node id="1509"/>.<Node id="1510"/>3<Node id="1511"/> <Node id="1512"/> <Node id="1513"/>(<Node id="1514"/>23<Node id="1516"/>.<Node id="1517"/>9<Node id="1518"/>)<Node id="1519"/> <Node id="1520"/>212<Node id="1523"/>.<Node id="1524"/>3<Node id="1525"/> <Node id="1526"/>(<Node id="1527"/>5<Node id="1528"/>.<Node id="1529"/>4<Node id="1530"/>)<Node id="1531"/> <Node id="1532"/>1827<Node id="1536"/>.<Node id="1537"/>5<Node id="1538"/> <Node id="1539"/> <Node id="1540"/> <Node id="1541"/>8<Node id="1542"/>.<Node id="1543"/>1<Node id="1544"/> <Node id="1545"/> <Node id="1546"/> <Node id="1547"/> <Node id="1548"/> <Node id="1549"/>Reagan<Node id="1555"/>
+<Node id="1556"/>1986<Node id="1560"/> <Node id="1561"/> <Node id="1562"/>4177<Node id="1566"/> <Node id="1567"/> <Node id="1568"/> <Node id="1569"/>769<Node id="1572"/>.<Node id="1573"/>1<Node id="1574"/> <Node id="1575"/>(<Node id="1576"/>18<Node id="1578"/>.<Node id="1579"/>4<Node id="1580"/>)<Node id="1581"/> <Node id="1582"/>989<Node id="1585"/>.<Node id="1586"/>8<Node id="1587"/> <Node id="1588"/> <Node id="1589"/>(<Node id="1590"/>23<Node id="1592"/>.<Node id="1593"/>7<Node id="1594"/>)<Node id="1595"/> <Node id="1596"/>220<Node id="1599"/>.<Node id="1600"/>7<Node id="1601"/> <Node id="1602"/>(<Node id="1603"/>5<Node id="1604"/>.<Node id="1605"/>3<Node id="1606"/>)<Node id="1607"/> <Node id="1608"/>2129<Node id="1612"/>.<Node id="1613"/>5<Node id="1614"/> <Node id="1615"/> <Node id="1616"/> <Node id="1617"/>7<Node id="1618"/>.<Node id="1619"/>9<Node id="1620"/> <Node id="1621"/> <Node id="1622"/> <Node id="1623"/> <Node id="1624"/> <Node id="1625"/>Reagan<Node id="1631"/>
+<Node id="1632"/>1987<Node id="1636"/> <Node id="1637"/> <Node id="1638"/>4442<Node id="1642"/> <Node id="1643"/> <Node id="1644"/> <Node id="1645"/>854<Node id="1648"/>.<Node id="1649"/>1<Node id="1650"/> <Node id="1651"/>(<Node id="1652"/>19<Node id="1654"/>.<Node id="1655"/>2<Node id="1656"/>)<Node id="1657"/> <Node id="1658"/>1002<Node id="1662"/>.<Node id="1663"/>1<Node id="1664"/> <Node id="1665"/>(<Node id="1666"/>22<Node id="1668"/>.<Node id="1669"/>6<Node id="1670"/>)<Node id="1671"/> <Node id="1672"/>148<Node id="1675"/>.<Node id="1676"/>0<Node id="1677"/> <Node id="1678"/>(<Node id="1679"/>3<Node id="1680"/>.<Node id="1681"/>4<Node id="1682"/>)<Node id="1683"/> <Node id="1684"/>2354<Node id="1688"/>.<Node id="1689"/>3<Node id="1690"/> <Node id="1691"/> <Node id="1692"/> <Node id="1693"/>7<Node id="1694"/>.<Node id="1695"/>1<Node id="1696"/> <Node id="1697"/> <Node id="1698"/> <Node id="1699"/> <Node id="1700"/> <Node id="1701"/>Reagan<Node id="1707"/>
+<Node id="1708"/>1988<Node id="1712"/> <Node id="1713"/> <Node id="1714"/>4771<Node id="1718"/> <Node id="1719"/> <Node id="1720"/> <Node id="1721"/>909<Node id="1724"/>.<Node id="1725"/>0<Node id="1726"/> <Node id="1727"/>(<Node id="1728"/>19<Node id="1730"/>.<Node id="1731"/>1<Node id="1732"/>)<Node id="1733"/> <Node id="1734"/>1064<Node id="1738"/>.<Node id="1739"/>1<Node id="1740"/> <Node id="1741"/>(<Node id="1742"/>22<Node id="1744"/>.<Node id="1745"/>3<Node id="1746"/>)<Node id="1747"/> <Node id="1748"/>155<Node id="1751"/>.<Node id="1752"/>1<Node id="1753"/> <Node id="1754"/>(<Node id="1755"/>3<Node id="1756"/>.<Node id="1757"/>2<Node id="1758"/>)<Node id="1759"/> <Node id="1760"/>2614<Node id="1764"/>.<Node id="1765"/>6<Node id="1766"/> <Node id="1767"/> <Node id="1768"/> <Node id="1769"/>6<Node id="1770"/>.<Node id="1771"/>3<Node id="1772"/> <Node id="1773"/> <Node id="1774"/> <Node id="1775"/> <Node id="1776"/> <Node id="1777"/>Reagan<Node id="1783"/>
+<Node id="1784"/>1989<Node id="1788"/> <Node id="1789"/> <Node id="1790"/>5201<Node id="1794"/> <Node id="1795"/> <Node id="1796"/> <Node id="1797"/>990<Node id="1800"/>.<Node id="1801"/>8<Node id="1802"/> <Node id="1803"/>(<Node id="1804"/>19<Node id="1806"/>.<Node id="1807"/>0<Node id="1808"/>)<Node id="1809"/> <Node id="1810"/>1142<Node id="1814"/>.<Node id="1815"/>8<Node id="1816"/> <Node id="1817"/>(<Node id="1818"/>22<Node id="1820"/>.<Node id="1821"/>0<Node id="1822"/>)<Node id="1823"/>	<Node id="1824"/>152<Node id="1827"/>.<Node id="1828"/>0<Node id="1829"/> <Node id="1830"/>(<Node id="1831"/>2<Node id="1832"/>.<Node id="1833"/>9<Node id="1834"/>)<Node id="1835"/> <Node id="1836"/>2881<Node id="1840"/>.<Node id="1841"/>1<Node id="1842"/> <Node id="1843"/> <Node id="1844"/> <Node id="1845"/> <Node id="1846"/> <Node id="1847"/> <Node id="1848"/> <Node id="1849"/> <Node id="1850"/> <Node id="1851"/> <Node id="1852"/> <Node id="1853"/>Bush<Node id="1857"/>
+<Node id="1858"/>1990<Node id="1862"/> <Node id="1863"/> <Node id="1864"/> <Node id="1865"/> <Node id="1866"/> <Node id="1867"/> <Node id="1868"/> <Node id="1869"/> <Node id="1870"/> <Node id="1871"/>1031<Node id="1875"/>.<Node id="1876"/>2<Node id="1877"/> <Node id="1878"/> <Node id="1879"/> <Node id="1880"/> <Node id="1881"/> <Node id="1882"/> <Node id="1883"/> <Node id="1884"/>1251<Node id="1888"/>.<Node id="1889"/>6<Node id="1890"/> <Node id="1891"/> <Node id="1892"/> <Node id="1893"/> <Node id="1894"/> <Node id="1895"/> <Node id="1896"/> <Node id="1897"/> <Node id="1898"/>220<Node id="1901"/>.<Node id="1902"/>4<Node id="1903"/> <Node id="1904"/> <Node id="1905"/> <Node id="1906"/> <Node id="1907"/> <Node id="1908"/> <Node id="1909"/> <Node id="1910"/>3190<Node id="1914"/>.<Node id="1915"/>5<Node id="1916"/> <Node id="1917"/> <Node id="1918"/> <Node id="1919"/> <Node id="1920"/> <Node id="1921"/> <Node id="1922"/> <Node id="1923"/> <Node id="1924"/> <Node id="1925"/> <Node id="1926"/> <Node id="1927"/>Bush<Node id="1931"/>
+<Node id="1932"/>1991<Node id="1936"/>	<Node id="1937"/> <Node id="1938"/> <Node id="1939"/> <Node id="1940"/> <Node id="1941"/> <Node id="1942"/>1054<Node id="1946"/>.<Node id="1947"/>3<Node id="1948"/>	<Node id="1949"/> <Node id="1950"/> <Node id="1951"/>1323<Node id="1955"/>.<Node id="1956"/>0<Node id="1957"/>	<Node id="1958"/>268<Node id="1961"/>.<Node id="1962"/>7<Node id="1963"/> <Node id="1964"/> <Node id="1965"/> <Node id="1966"/> <Node id="1967"/> <Node id="1968"/> <Node id="1969"/> <Node id="1970"/>3599<Node id="1974"/>.<Node id="1975"/>0<Node id="1976"/> <Node id="1977"/> <Node id="1978"/> <Node id="1979"/> <Node id="1980"/> <Node id="1981"/> <Node id="1982"/> <Node id="1983"/> <Node id="1984"/> <Node id="1985"/> <Node id="1986"/> <Node id="1987"/>Bush<Node id="1991"/>
+<Node id="1992"/>
+<Node id="1993"/>[<Node id="1994"/>Source<Node id="2000"/>:<Node id="2001"/> <Node id="2002"/>Statistical<Node id="2013"/> <Node id="2014"/>Abstract<Node id="2022"/> <Node id="2023"/>of<Node id="2025"/> <Node id="2026"/>the<Node id="2029"/> <Node id="2030"/>US<Node id="2032"/> <Node id="2033"/>(<Node id="2034"/>1990<Node id="2038"/> <Node id="2039"/>version<Node id="2046"/>)<Node id="2047"/>,<Node id="2048"/> <Node id="2049"/>American<Node id="2057"/> <Node id="2058"/>Almanac<Node id="2065"/> <Node id="2066"/>
+<Node id="2067"/>(<Node id="2068"/>1993<Node id="2072"/> <Node id="2073"/>version<Node id="2080"/>)<Node id="2081"/>,<Node id="2082"/> <Node id="2083"/>Universal<Node id="2092"/> <Node id="2093"/>Almanac<Node id="2100"/> <Node id="2101"/>(<Node id="2102"/>1993<Node id="2106"/> <Node id="2107"/>version<Node id="2114"/>)<Node id="2115"/>,<Node id="2116"/> <Node id="2117"/>Information<Node id="2128"/> <Node id="2129"/>Please<Node id="2135"/> <Node id="2136"/>Almanac<Node id="2143"/>
+<Node id="2144"/>(<Node id="2145"/>1991<Node id="2149"/> <Node id="2150"/>version<Node id="2157"/>)<Node id="2158"/>]<Node id="2159"/>
+<Node id="2160"/>
+<Node id="2161"/>	<Node id="2162"/>	<Node id="2163"/>GRAPHICALLY<Node id="2174"/>:<Node id="2175"/> <Node id="2176"/>Deficits<Node id="2184"/> <Node id="2185"/>as<Node id="2187"/> <Node id="2188"/>a<Node id="2189"/> <Node id="2190"/>%<Node id="2191"/> <Node id="2192"/>of<Node id="2194"/> <Node id="2195"/>GNP<Node id="2198"/>,<Node id="2199"/> <Node id="2200"/>1981<Node id="2204"/>-<Node id="2205"/>89<Node id="2207"/>
+<Node id="2208"/>
+<Node id="2209"/>%<Node id="2210"/> <Node id="2211"/>GNP<Node id="2214"/>
+<Node id="2215"/>7<Node id="2216"/>|<Node id="2217"/>
+<Node id="2218"/> <Node id="2219"/>|<Node id="2220"/>
+<Node id="2221"/>6<Node id="2222"/>|<Node id="2223"/> <Node id="2224"/> <Node id="2225"/> <Node id="2226"/> <Node id="2227"/> <Node id="2228"/> <Node id="2229"/> <Node id="2230"/> <Node id="2231"/> <Node id="2232"/> <Node id="2233"/> <Node id="2234"/> <Node id="2235"/> <Node id="2236"/> <Node id="2237"/> <Node id="2238"/> <Node id="2239"/> <Node id="2240"/> <Node id="2241"/> <Node id="2242"/> <Node id="2243"/> <Node id="2244"/> <Node id="2245"/> <Node id="2246"/>X<Node id="2247"/>
+<Node id="2248"/> <Node id="2249"/>|<Node id="2250"/> <Node id="2251"/> <Node id="2252"/> <Node id="2253"/> <Node id="2254"/> <Node id="2255"/> <Node id="2256"/> <Node id="2257"/> <Node id="2258"/> <Node id="2259"/> <Node id="2260"/> <Node id="2261"/> <Node id="2262"/> <Node id="2263"/> <Node id="2264"/> <Node id="2265"/> <Node id="2266"/> <Node id="2267"/> <Node id="2268"/> <Node id="2269"/> <Node id="2270"/> <Node id="2271"/> <Node id="2272"/> <Node id="2273"/> <Node id="2274"/> <Node id="2275"/> <Node id="2276"/> <Node id="2277"/> <Node id="2278"/> <Node id="2279"/> <Node id="2280"/> <Node id="2281"/> <Node id="2282"/> <Node id="2283"/> <Node id="2284"/> <Node id="2285"/> <Node id="2286"/> <Node id="2287"/> <Node id="2288"/> <Node id="2289"/>X<Node id="2290"/> <Node id="2291"/> <Node id="2292"/> <Node id="2293"/> <Node id="2294"/> <Node id="2295"/> <Node id="2296"/> <Node id="2297"/>X<Node id="2298"/>
+<Node id="2299"/>5<Node id="2300"/>|<Node id="2301"/> <Node id="2302"/> <Node id="2303"/> <Node id="2304"/> <Node id="2305"/> <Node id="2306"/> <Node id="2307"/> <Node id="2308"/> <Node id="2309"/> <Node id="2310"/> <Node id="2311"/> <Node id="2312"/> <Node id="2313"/> <Node id="2314"/> <Node id="2315"/> <Node id="2316"/> <Node id="2317"/> <Node id="2318"/> <Node id="2319"/> <Node id="2320"/> <Node id="2321"/> <Node id="2322"/> <Node id="2323"/> <Node id="2324"/> <Node id="2325"/> <Node id="2326"/> <Node id="2327"/> <Node id="2328"/> <Node id="2329"/> <Node id="2330"/> <Node id="2331"/> <Node id="2332"/>X<Node id="2333"/> <Node id="2334"/> <Node id="2335"/> <Node id="2336"/> <Node id="2337"/> <Node id="2338"/> <Node id="2339"/> <Node id="2340"/> <Node id="2341"/> <Node id="2342"/> <Node id="2343"/> <Node id="2344"/> <Node id="2345"/> <Node id="2346"/> <Node id="2347"/> <Node id="2348"/> <Node id="2349"/>
+<Node id="2350"/> <Node id="2351"/>|<Node id="2352"/> <Node id="2353"/> <Node id="2354"/> <Node id="2355"/> <Node id="2356"/> <Node id="2357"/> <Node id="2358"/> <Node id="2359"/> <Node id="2360"/> <Node id="2361"/> <Node id="2362"/> <Node id="2363"/> <Node id="2364"/> <Node id="2365"/> <Node id="2366"/> <Node id="2367"/> <Node id="2368"/> <Node id="2369"/> <Node id="2370"/> <Node id="2371"/> <Node id="2372"/> <Node id="2373"/> <Node id="2374"/> <Node id="2375"/> <Node id="2376"/> <Node id="2377"/> <Node id="2378"/> <Node id="2379"/> <Node id="2380"/> <Node id="2381"/> <Node id="2382"/> <Node id="2383"/> <Node id="2384"/> <Node id="2385"/> <Node id="2386"/> <Node id="2387"/> <Node id="2388"/> <Node id="2389"/> <Node id="2390"/> <Node id="2391"/> <Node id="2392"/> <Node id="2393"/> <Node id="2394"/> <Node id="2395"/> <Node id="2396"/> <Node id="2397"/> <Node id="2398"/> <Node id="2399"/> <Node id="2400"/>
+<Node id="2401"/>4<Node id="2402"/>|<Node id="2403"/> <Node id="2404"/> <Node id="2405"/> <Node id="2406"/> <Node id="2407"/> <Node id="2408"/> <Node id="2409"/> <Node id="2410"/> <Node id="2411"/> <Node id="2412"/> <Node id="2413"/> <Node id="2414"/> <Node id="2415"/> <Node id="2416"/> <Node id="2417"/> <Node id="2418"/>X<Node id="2419"/>
+<Node id="2420"/> <Node id="2421"/>|<Node id="2422"/> <Node id="2423"/> <Node id="2424"/> <Node id="2425"/> <Node id="2426"/> <Node id="2427"/> <Node id="2428"/> <Node id="2429"/> <Node id="2430"/> <Node id="2431"/> <Node id="2432"/> <Node id="2433"/> <Node id="2434"/> <Node id="2435"/> <Node id="2436"/> <Node id="2437"/> <Node id="2438"/> <Node id="2439"/> <Node id="2440"/> <Node id="2441"/> <Node id="2442"/> <Node id="2443"/> <Node id="2444"/> <Node id="2445"/> <Node id="2446"/> <Node id="2447"/> <Node id="2448"/> <Node id="2449"/> <Node id="2450"/> <Node id="2451"/> <Node id="2452"/> <Node id="2453"/> <Node id="2454"/> <Node id="2455"/> <Node id="2456"/> <Node id="2457"/> <Node id="2458"/> <Node id="2459"/> <Node id="2460"/> <Node id="2461"/> <Node id="2462"/> <Node id="2463"/> <Node id="2464"/> <Node id="2465"/> <Node id="2466"/> <Node id="2467"/> <Node id="2468"/> <Node id="2469"/> <Node id="2470"/> <Node id="2471"/> <Node id="2472"/> <Node id="2473"/> <Node id="2474"/> <Node id="2475"/> <Node id="2476"/> <Node id="2477"/>X<Node id="2478"/>
+<Node id="2479"/>3<Node id="2480"/>|<Node id="2481"/> <Node id="2482"/> <Node id="2483"/> <Node id="2484"/> <Node id="2485"/> <Node id="2486"/> <Node id="2487"/> <Node id="2488"/> <Node id="2489"/> <Node id="2490"/> <Node id="2491"/> <Node id="2492"/> <Node id="2493"/> <Node id="2494"/> <Node id="2495"/> <Node id="2496"/> <Node id="2497"/> <Node id="2498"/> <Node id="2499"/> <Node id="2500"/> <Node id="2501"/> <Node id="2502"/> <Node id="2503"/> <Node id="2504"/> <Node id="2505"/> <Node id="2506"/> <Node id="2507"/> <Node id="2508"/> <Node id="2509"/> <Node id="2510"/> <Node id="2511"/> <Node id="2512"/> <Node id="2513"/> <Node id="2514"/> <Node id="2515"/> <Node id="2516"/> <Node id="2517"/> <Node id="2518"/> <Node id="2519"/> <Node id="2520"/> <Node id="2521"/> <Node id="2522"/> <Node id="2523"/> <Node id="2524"/> <Node id="2525"/> <Node id="2526"/> <Node id="2527"/> <Node id="2528"/> <Node id="2529"/> <Node id="2530"/> <Node id="2531"/> <Node id="2532"/> <Node id="2533"/> <Node id="2534"/> <Node id="2535"/> <Node id="2536"/> <Node id="2537"/> <Node id="2538"/> <Node id="2539"/> <Node id="2540"/> <Node id="2541"/> <Node id="2542"/> <Node id="2543"/> <Node id="2544"/>X<Node id="2545"/> <Node id="2546"/> <Node id="2547"/> <Node id="2548"/> <Node id="2549"/> <Node id="2550"/> <Node id="2551"/> <Node id="2552"/>X<Node id="2553"/>
+<Node id="2554"/> <Node id="2555"/>|<Node id="2556"/> <Node id="2557"/> <Node id="2558"/> <Node id="2559"/> <Node id="2560"/> <Node id="2561"/> <Node id="2562"/> <Node id="2563"/>X<Node id="2564"/>
+<Node id="2565"/>2<Node id="2566"/>|<Node id="2567"/>
+<Node id="2568"/> <Node id="2569"/>|<Node id="2570"/>
+<Node id="2571"/>1<Node id="2572"/>|<Node id="2573"/>
+<Node id="2574"/> <Node id="2575"/>|<Node id="2576"/>_<Node id="2577"/>_<Node id="2578"/>_<Node id="2579"/>_<Node id="2580"/>_<Node id="2581"/>_<Node id="2582"/>_<Node id="2583"/>_<Node id="2584"/>_<Node id="2585"/>_<Node id="2586"/>_<Node id="2587"/>_<Node id="2588"/>_<Node id="2589"/>_<Node id="2590"/>_<Node id="2591"/>_<Node id="2592"/>_<Node id="2593"/>_<Node id="2594"/>_<Node id="2595"/>_<Node id="2596"/>_<Node id="2597"/>_<Node id="2598"/>_<Node id="2599"/>_<Node id="2600"/>_<Node id="2601"/>_<Node id="2602"/>_<Node id="2603"/>_<Node id="2604"/>_<Node id="2605"/>_<Node id="2606"/>_<Node id="2607"/>_<Node id="2608"/>_<Node id="2609"/>_<Node id="2610"/>_<Node id="2611"/>_<Node id="2612"/>_<Node id="2613"/>_<Node id="2614"/>_<Node id="2615"/>_<Node id="2616"/>_<Node id="2617"/>_<Node id="2618"/>_<Node id="2619"/>_<Node id="2620"/>_<Node id="2621"/>_<Node id="2622"/>_<Node id="2623"/>_<Node id="2624"/>_<Node id="2625"/>_<Node id="2626"/>_<Node id="2627"/>_<Node id="2628"/>_<Node id="2629"/>_<Node id="2630"/>_<Node id="2631"/>_<Node id="2632"/>_<Node id="2633"/>_<Node id="2634"/>_<Node id="2635"/>_<Node id="2636"/>_<Node id="2637"/>_<Node id="2638"/>_<Node id="2639"/>_<Node id="2640"/>_<Node id="2641"/>_<Node id="2642"/>_<Node id="2643"/>_<Node id="2644"/>_<Node id="2645"/>_<Node id="2646"/>_<Node id="2647"/>_<Node id="2648"/>_<Node id="2649"/>_<Node id="2650"/>_<Node id="2651"/>_<Node id="2652"/>
+<Node id="2653"/>0<Node id="2654"/>	<Node id="2655"/>1981<Node id="2659"/>	<Node id="2660"/>1982<Node id="2664"/>	<Node id="2665"/>1983<Node id="2669"/>	<Node id="2670"/>1984<Node id="2674"/>	<Node id="2675"/>1985<Node id="2679"/>	<Node id="2680"/>1986<Node id="2684"/>	<Node id="2685"/>1987<Node id="2689"/>	<Node id="2690"/>1988<Node id="2694"/>	<Node id="2695"/>1989<Node id="2699"/>
+<Node id="2700"/>
+<Node id="2701"/>	<Node id="2702"/>Ironically<Node id="2712"/>,<Node id="2713"/> <Node id="2714"/>Bush<Node id="2718"/> <Node id="2719"/>could<Node id="2724"/> <Node id="2725"/>have<Node id="2729"/> <Node id="2730"/>frozen<Node id="2736"/> <Node id="2737"/>spending<Node id="2745"/>,<Node id="2746"/> <Node id="2747"/>kept<Node id="2751"/> <Node id="2752"/>his<Node id="2755"/> <Node id="2756"/>"<Node id="2757"/>no<Node id="2759"/> <Node id="2760"/>new<Node id="2763"/> <Node id="2764"/>taxes<Node id="2769"/>"<Node id="2770"/>
+<Node id="2771"/>pledge<Node id="2777"/> <Node id="2778"/>and<Node id="2781"/> <Node id="2782"/>balanced<Node id="2790"/> <Node id="2791"/>the<Node id="2794"/> <Node id="2795"/>budget<Node id="2801"/>.<Node id="2802"/>
+<Node id="2803"/>
+<Node id="2804"/>Brett<Node id="2809"/>
+<Node id="2810"/>_<Node id="2811"/>_<Node id="2812"/>_<Node id="2813"/>_<Node id="2814"/>_<Node id="2815"/>_<Node id="2816"/>_<Node id="2817"/>_<Node id="2818"/>_<Node id="2819"/>_<Node id="2820"/>_<Node id="2821"/>_<Node id="2822"/>_<Node id="2823"/>_<Node id="2824"/>_<Node id="2825"/>_<Node id="2826"/>_<Node id="2827"/>_<Node id="2828"/>_<Node id="2829"/>_<Node id="2830"/>_<Node id="2831"/>_<Node id="2832"/>_<Node id="2833"/>_<Node id="2834"/>_<Node id="2835"/>_<Node id="2836"/>_<Node id="2837"/>_<Node id="2838"/>_<Node id="2839"/>_<Node id="2840"/>_<Node id="2841"/>_<Node id="2842"/>_<Node id="2843"/>_<Node id="2844"/>_<Node id="2845"/>_<Node id="2846"/>_<Node id="2847"/>_<Node id="2848"/>_<Node id="2849"/>_<Node id="2850"/>_<Node id="2851"/>_<Node id="2852"/>_<Node id="2853"/>_<Node id="2854"/>_<Node id="2855"/>_<Node id="2856"/>_<Node id="2857"/>_<Node id="2858"/>_<Node id="2859"/>_<Node id="2860"/>_<Node id="2861"/>_<Node id="2862"/>_<Node id="2863"/>_<Node id="2864"/>_<Node id="2865"/>_<Node id="2866"/>_<Node id="2867"/>_<Node id="2868"/>_<Node id="2869"/>_<Node id="2870"/>_<Node id="2871"/>_<Node id="2872"/>_<Node id="2873"/>_<Node id="2874"/>_<Node id="2875"/>_<Node id="2876"/>_<Node id="2877"/>_<Node id="2878"/>_<Node id="2879"/>_<Node id="2880"/>_<Node id="2881"/>_<Node id="2882"/>_<Node id="2883"/>_<Node id="2884"/>_<Node id="2885"/>_<Node id="2886"/>_<Node id="2887"/>_<Node id="2888"/>_<Node id="2889"/>_<Node id="2890"/>
+<Node id="2891"/>	<Node id="2892"/>"<Node id="2893"/>There<Node id="2898"/>'s<Node id="2900"/> <Node id="2901"/>nothing<Node id="2908"/> <Node id="2909"/>so<Node id="2911"/> <Node id="2912"/>passionate<Node id="2922"/> <Node id="2923"/>as<Node id="2925"/> <Node id="2926"/>a<Node id="2927"/> <Node id="2928"/>vested<Node id="2934"/> <Node id="2935"/>interest<Node id="2943"/> <Node id="2944"/>disguised<Node id="2953"/> <Node id="2954"/>as<Node id="2956"/> <Node id="2957"/>an<Node id="2959"/>
+<Node id="2960"/>intellectual<Node id="2972"/> <Node id="2973"/>conviction<Node id="2983"/>.<Node id="2984"/>"<Node id="2985"/> <Node id="2986"/> <Node id="2987"/>Sean<Node id="2991"/> <Node id="2992"/>O<Node id="2993"/>'<Node id="2994"/>Casey<Node id="2999"/> <Node id="3000"/>in<Node id="3002"/> <Node id="3003"/>_<Node id="3004"/>The<Node id="3007"/> <Node id="3008"/>White<Node id="3013"/> <Node id="3014"/>Plague<Node id="3020"/>_<Node id="3021"/> <Node id="3022"/>by<Node id="3024"/> <Node id="3025"/>Frank<Node id="3030"/> <Node id="3031"/>Herbert<Node id="3038"/>.<Node id="3039"/>
+<Node id="3040"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="3040" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="5" Type="Token" StartNode="12" EndNode="18">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">desire</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Token" StartNode="19" EndNode="25">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">wright</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Token" StartNode="37" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Boomer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Token" StartNode="45" EndNode="53">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Token" StartNode="67" EndNode="73">
+</Annotation>
+<Annotation Id="34" Type="Token" StartNode="86" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">wright</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Token" StartNode="79" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">desire</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Token" StartNode="126" EndNode="134">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Article-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="Token" StartNode="140" EndNode="146">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">desire</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="Token" StartNode="156" EndNode="162">
+</Annotation>
+<Annotation Id="73" Type="Token" StartNode="168" EndNode="178">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">References</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="Token" StartNode="200" EndNode="206">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">andrew</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="Token" StartNode="216" EndNode="228">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Distribution</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Token" StartNode="233" EndNode="245">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="Token" StartNode="252" EndNode="260">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Products</Value>
+</Feature>
+</Annotation>
+<Annotation Id="114" Type="Token" StartNode="275" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">article</Value>
+</Feature>
+</Annotation>
+<Annotation Id="127" Type="Token" StartNode="303" EndNode="309">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">andrew</Value>
+</Feature>
+</Annotation>
+<Annotation Id="140" Type="Token" StartNode="334" EndNode="340">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">ashish</Value>
+</Feature>
+</Annotation>
+<Annotation Id="143" Type="Token" StartNode="342" EndNode="348">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">andrew</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="Token" StartNode="320" EndNode="326">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Ashish</Value>
+</Feature>
+</Annotation>
+<Annotation Id="155" Type="Token" StartNode="368" EndNode="376">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Excerpts</Value>
+</Feature>
+</Annotation>
+<Annotation Id="159" Type="Token" StartNode="382" EndNode="389">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">netnews</Value>
+</Feature>
+</Annotation>
+<Annotation Id="150" Type="Token" StartNode="358" EndNode="364">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">writes</Value>
+</Feature>
+</Annotation>
+<Annotation Id="174" Type="Token" StartNode="413" EndNode="419">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Supply</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="Token" StartNode="425" EndNode="433">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Economic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="192" Type="Token" StartNode="450" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Boomer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="194" Type="Token" StartNode="457" EndNode="463">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">desire</Value>
+</Feature>
+</Annotation>
+<Annotation Id="220" Type="Token" StartNode="500" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">declined</Value>
+</Feature>
+</Annotation>
+<Annotation Id="218" Type="Token" StartNode="491" EndNode="499">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">deficits</Value>
+</Feature>
+</Annotation>
+<Annotation Id="229" Type="Token" StartNode="520" EndNode="528">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reaching</Value>
+</Feature>
+</Annotation>
+<Annotation Id="246" Type="Token" StartNode="550" EndNode="556">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">before</Value>
+</Feature>
+</Annotation>
+<Annotation Id="259" Type="Token" StartNode="574" EndNode="582">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">spending</Value>
+</Feature>
+</Annotation>
+<Annotation Id="267" Type="Token" StartNode="596" EndNode="604">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">reversed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="305" Type="Token" StartNode="675" EndNode="686">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">appreciated</Value>
+</Feature>
+</Annotation>
+<Annotation Id="311" Type="Token" StartNode="692" EndNode="700">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">billions</Value>
+</Feature>
+</Annotation>
+<Annotation Id="315" Type="Token" StartNode="704" EndNode="711">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">dollars</Value>
+</Feature>
+</Annotation>
+<Annotation Id="299" Type="Token" StartNode="658" EndNode="665">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">details</Value>
+</Feature>
+</Annotation>
+<Annotation Id="337" Type="Token" StartNode="746" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">outlays</Value>
+</Feature>
+</Annotation>
+<Annotation Id="345" Type="Token" StartNode="760" EndNode="767">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">deficit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="331" Type="Token" StartNode="733" EndNode="741">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">receipts</Value>
+</Feature>
+</Annotation>
+<Annotation Id="356" Type="Token" StartNode="780" EndNode="786">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">unempl</Value>
+</Feature>
+</Annotation>
+<Annotation Id="493" Type="Token" StartNode="941" EndNode="947">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Carter</Value>
+</Feature>
+</Annotation>
+<Annotation Id="549" Type="Token" StartNode="1017" EndNode="1023">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Carter</Value>
+</Feature>
+</Annotation>
+<Annotation Id="605" Type="Token" StartNode="1093" EndNode="1099">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Carter</Value>
+</Feature>
+</Annotation>
+<Annotation Id="661" Type="Token" StartNode="1169" EndNode="1175">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Carter</Value>
+</Feature>
+</Annotation>
+<Annotation Id="716" Type="Token" StartNode="1245" EndNode="1251">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="822" Type="Token" StartNode="1397" EndNode="1403">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="769" Type="Token" StartNode="1321" EndNode="1327">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="876" Type="Token" StartNode="1473" EndNode="1479">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="930" Type="Token" StartNode="1549" EndNode="1555">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="984" Type="Token" StartNode="1625" EndNode="1631">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1090" Type="Token" StartNode="1777" EndNode="1783">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1037" Type="Token" StartNode="1701" EndNode="1707">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Reagan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1247" Type="Token" StartNode="1994" EndNode="2000">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Source</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1252" Type="Token" StartNode="2014" EndNode="2022">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Abstract</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1250" Type="Token" StartNode="2002" EndNode="2013">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Statistical</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1263" Type="Token" StartNode="2039" EndNode="2046">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">version</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1269" Type="Token" StartNode="2058" EndNode="2065">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Almanac</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1267" Type="Token" StartNode="2049" EndNode="2057">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">American</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1279" Type="Token" StartNode="2083" EndNode="2092">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Universal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1275" Type="Token" StartNode="2073" EndNode="2080">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">version</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1306" Type="Token" StartNode="2163" EndNode="2174">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">GRAPHICALLY</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1309" Type="Token" StartNode="2176" EndNode="2184">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Deficits</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1299" Type="Token" StartNode="2150" EndNode="2157">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">version</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1290" Type="Token" StartNode="2117" EndNode="2128">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Information</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1294" Type="Token" StartNode="2136" EndNode="2143">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Almanac</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1292" Type="Token" StartNode="2129" EndNode="2135">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Please</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1281" Type="Token" StartNode="2093" EndNode="2100">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Almanac</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1286" Type="Token" StartNode="2107" EndNode="2114">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">version</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1791" Type="Token" StartNode="2702" EndNode="2712">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Ironically</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1918" Type="Token" StartNode="2901" EndNode="2908">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">nothing</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1825" Type="Token" StartNode="2795" EndNode="2801">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">budget</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1821" Type="Token" StartNode="2782" EndNode="2790">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">balanced</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1817" Type="Token" StartNode="2771" EndNode="2777">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">pledge</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1802" Type="Token" StartNode="2737" EndNode="2745">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">spending</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1800" Type="Token" StartNode="2730" EndNode="2736">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">frozen</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1958" Type="Token" StartNode="3014" EndNode="3020">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Plague</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1965" Type="Token" StartNode="3031" EndNode="3038">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Herbert</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1940" Type="Token" StartNode="2973" EndNode="2983">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">conviction</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1938" Type="Token" StartNode="2960" EndNode="2972">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">intellectual</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1922" Type="Token" StartNode="2912" EndNode="2922">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">passionate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1932" Type="Token" StartNode="2944" EndNode="2953">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">disguised</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1930" Type="Token" StartNode="2935" EndNode="2943">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">interest</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1928" Type="Token" StartNode="2928" EndNode="2934">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">vested</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>

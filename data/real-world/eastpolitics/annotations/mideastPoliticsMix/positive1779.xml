@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">Original_document_content_on_load</Name>
+  <Value className="java.lang.String">From: eshneken@ux4.cso.uiuc.edu (Edward A Shnekendorf)
+Date: Mon, 26 Apr 1993 17:57:50 GMT
+Message-ID: &lt;C63r8F.76s@news.cso.uiuc.edu>
+Sender: usenet@news.cso.uiuc.edu (Net Noise owner)
+Organization: University of Illinois at Urbana
+Lines: 2
+
+Israel - Happy 45th Birthday!
+
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/jian/Documents/NetBeansProjects/NoiseReductionTechniques/mideastPoliticsMix/positive1779</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>From<Node id="4"/>:<Node id="5"/> <Node id="6"/>eshneken<Node id="14"/>@<Node id="15"/>ux<Node id="17"/>4<Node id="18"/>.<Node id="19"/>cso<Node id="22"/>.<Node id="23"/>uiuc<Node id="27"/>.<Node id="28"/>edu<Node id="31"/> <Node id="32"/>(<Node id="33"/>Edward<Node id="39"/> <Node id="40"/>A<Node id="41"/> <Node id="42"/>Shnekendorf<Node id="53"/>)<Node id="54"/>
+<Node id="55"/>Date<Node id="59"/>:<Node id="60"/> <Node id="61"/>Mon<Node id="64"/>,<Node id="65"/> <Node id="66"/>26<Node id="68"/> <Node id="69"/>Apr<Node id="72"/> <Node id="73"/>1993<Node id="77"/> <Node id="78"/>17<Node id="80"/>:<Node id="81"/>57<Node id="83"/>:<Node id="84"/>50<Node id="86"/> <Node id="87"/>GMT<Node id="90"/>
+<Node id="91"/>Message-<Node id="99"/>ID<Node id="101"/>:<Node id="102"/> <Node id="103"/>&lt;<Node id="104"/>C<Node id="105"/>63<Node id="107"/>r<Node id="108"/>8<Node id="109"/>F<Node id="110"/>.<Node id="111"/>76<Node id="113"/>s<Node id="114"/>@<Node id="115"/>news<Node id="119"/>.<Node id="120"/>cso<Node id="123"/>.<Node id="124"/>uiuc<Node id="128"/>.<Node id="129"/>edu<Node id="132"/>&gt;<Node id="133"/>
+<Node id="134"/>Sender<Node id="140"/>:<Node id="141"/> <Node id="142"/>usenet<Node id="148"/>@<Node id="149"/>news<Node id="153"/>.<Node id="154"/>cso<Node id="157"/>.<Node id="158"/>uiuc<Node id="162"/>.<Node id="163"/>edu<Node id="166"/> <Node id="167"/>(<Node id="168"/>Net<Node id="171"/> <Node id="172"/>Noise<Node id="177"/> <Node id="178"/>owner<Node id="183"/>)<Node id="184"/>
+<Node id="185"/>Organization<Node id="197"/>:<Node id="198"/> <Node id="199"/>University<Node id="209"/> <Node id="210"/>of<Node id="212"/> <Node id="213"/>Illinois<Node id="221"/> <Node id="222"/>at<Node id="224"/> <Node id="225"/>Urbana<Node id="231"/>
+<Node id="232"/>Lines<Node id="237"/>:<Node id="238"/> <Node id="239"/>2<Node id="240"/>
+<Node id="241"/>
+<Node id="242"/>Israel<Node id="248"/> <Node id="249"/>-<Node id="250"/> <Node id="251"/>Happy<Node id="256"/> <Node id="257"/>45th<Node id="261"/> <Node id="262"/>Birthday<Node id="270"/>!<Node id="271"/>
+<Node id="272"/>
+<Node id="273"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation EndNode="273" StartNode="0" Type="Mention" Id="9999999">
+<Feature>
+<Name classname="java.lang.String">Class</Name>
+<Value classname="java.lang.String">1</Value>
+</Feature>
+</Annotation>
+
+<Annotation Id="3" Type="Token" StartNode="6" EndNode="14">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">eshneken</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Token" StartNode="33" EndNode="39">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Edward</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Token" StartNode="42" EndNode="53">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Shnekendorf</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Token" StartNode="91" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Message-</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="Token" StartNode="142" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">usenet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Token" StartNode="134" EndNode="140">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Sender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="Token" StartNode="185" EndNode="197">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Organization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="Token" StartNode="213" EndNode="221">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Illinois</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="Token" StartNode="199" EndNode="209">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">University</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="Token" StartNode="225" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Urbana</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="Token" StartNode="242" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Israel</Value>
+</Feature>
+</Annotation>
+<Annotation Id="114" Type="Token" StartNode="262" EndNode="270">
+<Feature>
+  <Name className="java.lang.String">string</Name>
+  <Value className="java.lang.String">Birthday</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<AnnotationSet Name="Original markups"> </AnnotationSet>
+</GateDocument>
