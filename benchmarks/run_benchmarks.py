@@ -53,6 +53,9 @@ def update_results_repo(asv_dir, results_dir):
 @click.option('--crowdkit-dir')
 @click.option('--results-dir')
 def main(crowdkit_dir, results_dir):
+    
+    print(f'{results_dir}')
+    
     bench_dir = os.path.join(crowdkit_dir, 'benchmarks')
     asv_dir = os.path.join(bench_dir, '.asv')
 
@@ -64,4 +67,6 @@ def main(crowdkit_dir, results_dir):
 
 
 if __name__ == '__main__':
+    # crowdkit_dir = '/Volumes/GoogleDrive/My Drive/RESEARCH/phd/code/crowd_kit'
+    # results_dir = '/Users/artin/Documents/projects/phd/code/crowd_kit/benchmarks/results'
     main()
