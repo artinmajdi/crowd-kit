@@ -7,6 +7,11 @@
 	"settings": {
 		"DockerRun.DisableDockerrc": true,
 		"DockerRun.DisableAutoGenerateConfig": true
+	},
+	"extensions": {
+		"recommendations": [
+			"uloco.theme-bluloco-dark"
+		]
 	}
 	
 }
