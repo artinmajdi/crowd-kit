@@ -474,8 +474,14 @@ def load_chest_xray_with_mode(dataset: str='chexpert', mode: str='train_val', ma
     
 def aim1_3_read_download_UCI_database(WHICH_DATASET=5, mode='read'):
 
-    local_parent_path = '/groups/jjrodrig/projects/datasets/uci_multilabeler_aim1_3'
-
+    # main directory
+    local_parent_path = os.path.dirname(os.path.dirname(__file__)) + '/data_mine'
+    
+    if not os.path.isdir(local_parent_path):
+        print('directory not found', local_parent_path)
+    else:
+        print('directory found', local_parent_path)
+        
     def read_raw_names_files(WHICH_DATASET=1):
 
         main_url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/'

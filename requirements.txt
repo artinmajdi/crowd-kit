@@ -1,12 +1,14 @@
 crowd-kit
-attrs
-numpy
-pandas >= 1.1.0
-tqdm
-scikit-learn
-nltk
-transformers
 tensorflow >= 2.0.0
 torch 
 torchvision
 ipywidgets
+
+# Below are the requirements for crowd-kit
+# attrs
+# numpy
+# pandas >= 1.1.0
+# tqdm
+# scikit-learn
+# nltk
+# transformers
