@@ -695,3 +695,4 @@ if __name__ == '__main__':
     dataset = 'chexpert'
     dir = '/groups/jjrodrig/projects/chest/dataset/' + dataset + '/'
     chexpert(dir=dir, max_sample=1000)
+    
