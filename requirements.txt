@@ -9,4 +9,4 @@ transformers
 tensorflow >= 2.0.0
 torch 
 torchvision
-ipywidget
+ipywidgets
