@@ -1,8 +1,10 @@
+pip >= 21.3.0
 crowd-kit
-tensorflow >= 2.0.0
+tensorflow
 torch 
 torchvision
 ipywidgets
+wget
 
 # Below are the requirements for crowd-kit
 # attrs
