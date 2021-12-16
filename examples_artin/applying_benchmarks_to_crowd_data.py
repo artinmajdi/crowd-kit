@@ -2,14 +2,23 @@
 # from crowdkit.aggregation.utils import get_accuracy
 # from crowdkit.aggregation import GoldMajorityVote, MajorityVote, DawidSkene, MMSR, Wawa, ZeroBasedSkill, GLAD
 
-import crowdkit
-import load_data
+from crowdkit import aggregation as crowdkit_aggregation
 import pandas as pd 
 from sklearn import metrics
 import click 
 
 
-class NistTrecRelevance:
+import os, sys 
+data_dir = os.path.dirname(os.path.realpath('.'))
+sys.path.append(data_dir)
+
+import load_data
+import funcs 
+
+
+
+
+class ApplyingBenchmarksToCrowdData:
     '''
     List of all benchmarks:
         GoldMajorityVote, 
@@ -38,24 +47,26 @@ class NistTrecRelevance:
         
         # Measuring predicted labels for each benchmar technique:
         
-        self.aggregatedLabels = df_empty.copy()
+        self.aggregatedLabels = {}
                     
-        self.aggregatedLabels['GoldMajorityVote'] = crowdkit.aggregation.GoldMajorityVote().fit_predict(self.crowd_labels, self.ground_truth)        
+        self.aggregatedLabels['GoldMajorityVote'] = crowdkit_aggregation.GoldMajorityVote().fit_predict(self.crowd_labels, self.ground_truth)        
         
-        self.aggregatedLabels['MajorityVote']     = crowdkit.aggregation.MajorityVote().fit_predict(self.crowd_labels)        
+        self.aggregatedLabels['MajorityVote']     = crowdkit_aggregation.MajorityVote().fit_predict(self.crowd_labels)        
         
-        self.aggregatedLabels['MMSR']             = crowdkit.aggregation.MMSR(n_iter=5).fit_predict(self.crowd_labels)               
+        self.aggregatedLabels['MMSR']             = crowdkit_aggregation.MMSR(n_iter=5).fit_predict(self.crowd_labels)               
         
-        self.aggregatedLabels['Wawa']             = crowdkit.aggregation.Wawa().fit_predict(self.crowd_labels)        
+        self.aggregatedLabels['Wawa']             = crowdkit_aggregation.Wawa().fit_predict(self.crowd_labels)        
         
-        self.aggregatedLabels['ZeroBasedSkill']   = crowdkit.aggregation.ZeroBasedSkill(n_iter=5).fit_predict(self.crowd_labels)        
+        self.aggregatedLabels['ZeroBasedSkill']   = crowdkit_aggregation.ZeroBasedSkill(n_iter=5).fit_predict(self.crowd_labels)        
         
-        self.aggregatedLabels['GLAD']             = crowdkit.aggregation.GLAD(max_iter=5).fit_predict(self.crowd_labels)        
+        self.aggregatedLabels['GLAD']             = crowdkit_aggregation.GLAD(max_iter=5).fit_predict(self.crowd_labels)        
         
-        self.aggregatedLabels['DawidSkene']       = crowdkit.aggregation.DawidSkene(n_iter=5).fit_predict(self.crowd_labels)
+        self.aggregatedLabels['DawidSkene']       = crowdkit_aggregation.DawidSkene(n_iter=5).fit_predict(self.crowd_labels)
 
 
-
+        self.aggregatedLabels = pd.DataFrame.from_dict(self.aggregatedLabels)
+        
+        
         # Measuring the Accuracy & F1-score for each benchmark:
         
         self.accuracy = df_empty.copy()
@@ -100,13 +111,13 @@ class NistTrecRelevance:
 def main(dataset_name = 'ionosphere'):
     
     # Loading the dataset
-    data, feature_columns = load_data.aim1_3_read_download_UCI_database(WHICH_DATASET=dataset_name, mode='read')
+    data, feature_columns = load_data.aim1_3_read_download_UCI_database(WhichDataset=dataset_name)
 
 
 
     # generating the noisy true labels for each crowd worker
     
-    ARLS = {'num_labelers': 10,  'low_dis':      0.3,   'high_dis':     0.9}
+    ARLS = {'num_labelers':10,  'low_dis':0.3,   'high_dis':0.9}
 
     predicted_labels, uncertainty, true_labels, labelers_strength = funcs.apply_technique_aim_1_3( data = data, ARLS = ARLS, num_simulations = 20,  feature_columns = feature_columns)
 
@@ -114,11 +125,11 @@ def main(dataset_name = 'ionosphere'):
 
     # Finding the accuracy for all benchmark techniques
     
-    NTR = NistTrecRelevance(true_labels=true_labels['train'] , num_labelers=ARLS['num_labelers'])
+    ABTC = ApplyingBenchmarksToCrowdData(true_labels=true_labels['train'] , num_labelers=ARLS['num_labelers'])
     
-    NTR.apply_all_benchmarks()
+    ABTC.apply_all_benchmarks()
     
-    return NTR.accuracy, NTR.f1_score
+    return ABTC.accuracy, ABTC.f1_score
 
 
 

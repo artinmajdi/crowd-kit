@@ -472,17 +472,15 @@ def load_chest_xray_with_mode(dataset: str='chexpert', mode: str='train_val', ma
     return Data, Info, data_generator, data_generator_aug
 
     
-def aim1_3_read_download_UCI_database(WHICH_DATASET=5, mode='read'):
+def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', dir_all_datasets='datasets/'):
 
-    # main directory
-    local_parent_path = os.path.dirname(os.path.dirname(__file__)) + '/data_mine'
+    dir_all_datasets = os.path.abspath(dir_all_datasets)
     
-    if not os.path.isdir(local_parent_path):
-        print('directory not found', local_parent_path)
-    else:
-        print('directory found', local_parent_path)
+    if not os.path.isdir(dir_all_datasets):
+        raise ValueError('The directory does not exist')
+
         
-    def read_raw_names_files(WHICH_DATASET=1):
+    def read_raw_names_files(WHICH_DATASET='ionosphere'):
 
         main_url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/'
 
@@ -554,11 +552,11 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET=5, mode='read'):
 
         return dataset, names, files, url
 
-    def download_data(local_parent_path=''):
+    def download_data(dir_all_datasets=''):
 
         dataset, _, files, url = read_raw_names_files(WHICH_DATASET=WHICH_DATASET)
 
-        local_path = f'{local_parent_path}/UCI_{dataset}'
+        local_path = f'{dir_all_datasets}/UCI_{dataset}'
 
         if not os.path.isdir(local_path):  
             os.mkdir(local_path) 
@@ -566,12 +564,12 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET=5, mode='read'):
         for name in files: 
             wget.download(url + name, local_path)
 
-        data_raw = pd.read_csv( local_parent_path + f'/UCI_{dataset}/{dataset}.data')
+        data_raw = pd.read_csv( dir_all_datasets + f'/UCI_{dataset}/{dataset}.data')
 
 
         return data_raw, []
 
-    def read_data(local_parent_path='', WHICH_DATASET=0):
+    def read_data(dir_all_datasets='', WHICH_DATASET=0):
 
         def postprocess(data_raw=[], names=[], WHICH_DATASET=0):
 
@@ -661,13 +659,13 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET=5, mode='read'):
 
 
         if dataset == 'biodeg':        
-            command = {'filepath_or_buffer': local_parent_path + f'/UCI_{dataset}/{dataset}.csv', 'delimiter':';'}
+            command = {'filepath_or_buffer': dir_all_datasets + f'/UCI_{dataset}/{dataset}.csv', 'delimiter':';'}
 
         elif dataset == 'horse-colic': 
-            command = {'filepath_or_buffer': local_parent_path + f'/UCI_{dataset}/{dataset}.data', 'delimiter':' ', 'index_col':None}
+            command = {'filepath_or_buffer': dir_all_datasets + f'/UCI_{dataset}/{dataset}.data', 'delimiter':' ', 'index_col':None}
 
         else:                   
-            command = {'filepath_or_buffer': local_parent_path + f'/UCI_{dataset}/{dataset}.data'}
+            command = {'filepath_or_buffer': dir_all_datasets + f'/UCI_{dataset}/{dataset}.data'}
                             
         if mode == 'read':
             data_raw = pd.read_csv(**command, names=names)
@@ -682,10 +680,10 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET=5, mode='read'):
 
 
     if   'download' in mode: 
-        return download_data(local_parent_path=local_parent_path)
+        return download_data(dir_all_datasets=dir_all_datasets)
         
     elif 'read'     in mode: 
-        return read_data(    local_parent_path=local_parent_path, WHICH_DATASET=WHICH_DATASET)
+        return read_data(    dir_all_datasets=dir_all_datasets, WHICH_DATASET=WHICH_DATASET)
 
 
 
