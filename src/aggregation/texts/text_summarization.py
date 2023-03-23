@@ -83,15 +83,13 @@ class TextSummarization(BaseTextsAggregator):
         if not self.n_permutations:
             return self._generate_output(outputs)
 
-        generated_outputs = []
-
         # TODO: generate only `n_permutations` permutations
         permutations = list(itertools.permutations(outputs))
         permutations_idx = np.random.choice(len(permutations), size=self.n_permutations, replace=False)
         permutations = [permutations[i] for i in permutations_idx]
-        for permutation in permutations:
-            generated_outputs.append(self._generate_output(permutation))
-
+        generated_outputs = [
+            self._generate_output(permutation) for permutation in permutations
+        ]
         data = pd.DataFrame({'task': [''] * len(generated_outputs), 'text': generated_outputs})
         if self.permutation_aggregator is not None:
             return self.permutation_aggregator.fit_predict(data)['']

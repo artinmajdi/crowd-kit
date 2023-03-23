@@ -258,11 +258,11 @@ def evaluate(dir: str, dataset: str='chexpert', batch_size: int=1000, model=tf.k
                                             batch_size = batch_size, 
                                             mode       = 'test' )
 
-    score = measure_loss_acc_on_test_data( generator   = Data.generator['test'], 
-                                           model       = model, 
-                                           pathologies = Info.pathologies )
-
-    return score
+    return measure_loss_acc_on_test_data(
+        generator=Data.generator['test'],
+        model=model,
+        pathologies=Info.pathologies,
+    )
 
 
 def measure_loss_acc_on_test_data(generator, model, pathologies):
@@ -441,12 +441,11 @@ class Parent_Child():
         else:                       loss_activated = True
 
         old_child_loss = self.loss_dict_weighted[child_name]
-        
-        if   self.technique == 1: new_child_loss = old_child_loss * coefficient if loss_activated else old_child_loss
 
-        elif self.technique == 2: new_child_loss = old_child_loss * coefficient if loss_activated else old_child_loss
-
-        elif self.technique == 3: new_child_loss = old_child_loss * coefficient
+        if self.technique in [1, 2]:
+            if   self.technique == 1: new_child_loss = old_child_loss * coefficient if loss_activated else old_child_loss
+        elif self.technique == 3:
+            new_child_loss = old_child_loss * coefficient
 
         return new_child_loss
 
@@ -907,18 +906,11 @@ def aim1_3_measuring_benchmark_accuracy(delta , noisy_true_labels):
     false_counts = M - true_counts
 
     # measuring the "specific quality of instanses"
-    s           = delta.multiply(true_counts-1,axis=0) + (~delta).multiply(false_counts-1,axis=0) 
+    s           = delta.multiply(true_counts-1,axis=0) + (~delta).multiply(false_counts-1,axis=0)
     gamma       = (1 + s ** 2) * tau
     W_hat_Tao   = gamma.applymap(lambda x: 1/(1 + np.exp(-x)) )
     z           = W_hat_Tao.mean(axis=1)
-    weights_Tao = W_hat_Tao.divide(z , axis=0)
-
-    # # Measuring final labels
-    # labels            = {}
-    # labels['WMV_Tao'] = ( (delta * weights_Tao).mean(axis=1) > 0.5)
-    # labels['MV']      = ( delta.mean(axis=1) > 0.5)
-
-    return weights_Tao # labels
+    return W_hat_Tao.divide(z , axis=0)
 
 
 

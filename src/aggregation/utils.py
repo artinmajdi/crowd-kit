@@ -50,9 +50,7 @@ def factorize(data: np.ndarray) -> Tuple[np.ndarray, np.ndarray]:
 def get_most_probable_labels(proba: annotations.TASKS_LABEL_PROBAS):
     """Returns most probable labels"""
     # patch for pandas<=1.1.5
-    if not proba.size:
-        return pd.Series([], dtype='O')
-    return proba.idxmax(axis='columns')
+    return proba.idxmax(axis='columns') if proba.size else pd.Series([], dtype='O')
 
 
 @manage_docstring

@@ -132,16 +132,14 @@ class GLAD(BaseClassificationAggregator):
         log_sigma = -self._softplus(-alpha_beta)
         log_one_minus_sigma = -self._softplus(alpha_beta)
         data['task_expectation'] = data['posterior'] * \
-                                   (data['delta'] * log_sigma +
+                                       (data['delta'] * log_sigma +
                                     (1 - data['delta']) * (log_one_minus_sigma - np.log(len(self.prior_labels_) - 1)))
         Q = data['task_expectation'].sum()
 
         # priors on alphas and betas
         Q += np.log(scipy.stats.norm.pdf(self.alphas_ - self.alphas_priors_mean_)).sum()
         Q += np.log(scipy.stats.norm.pdf(self.betas_ - self.betas_priors_mean_)).sum()
-        if np.isnan(Q):
-            return -np.inf
-        return Q
+        return -np.inf if np.isnan(Q) else Q
 
     @manage_docstring
     def _optimize_f(self, x: np.ndarray) -> float:
@@ -237,7 +235,9 @@ class GLAD(BaseClassificationAggregator):
         data = self._e_step(data)
         Q = self._compute_Q(data)
 
-        iterations_range = tqdm(range(self.max_iter)) if not self.silent else range(self.max_iter)
+        iterations_range = (
+            range(self.max_iter) if self.silent else tqdm(range(self.max_iter))
+        )
         for _ in iterations_range:
             last_Q = Q
             if not self.silent:

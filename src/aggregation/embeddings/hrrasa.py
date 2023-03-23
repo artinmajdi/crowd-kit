@@ -210,10 +210,11 @@ class HRRASA(BaseClassificationAggregator):
         """Filter skills, embeddings, weights and ranks for single overlap tasks that couldn't be processed by HRASSA
         """
 
-        single_overlap_task_ids = []
-        for task, task_answers in data.groupby('task'):
-            if len(task_answers) == 1:
-                single_overlap_task_ids.append(task)
+        single_overlap_task_ids = [
+            task
+            for task, task_answers in data.groupby('task')
+            if len(task_answers) == 1
+        ]
         data = data.set_index('task')
         return data.drop(single_overlap_task_ids).reset_index(), data.loc[single_overlap_task_ids].reset_index()
 

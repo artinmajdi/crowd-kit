@@ -52,7 +52,7 @@ class ROVER(BaseTextsAggregator):
         result = {}
         grouped_tasks = data.groupby('task') if self.silent else tqdm(data.groupby('task'))
         for task, df in grouped_tasks:
-            hypotheses = [self.tokenizer(text) for i, text in enumerate(df['text'])]
+            hypotheses = [self.tokenizer(text) for text in df['text']]
 
             edges = self._build_word_transition_network(hypotheses)
             rover_result = self._get_result(edges)
@@ -144,23 +144,26 @@ class ROVER(BaseTextsAggregator):
                             hyp_edge,
                         )
                     ))
-                options.append((
-                    distance[i, j - 1] + ('' not in ref_edges),
+                options.extend(
                     (
-                        AlignmentAction.DELETION,
-                        ref_edges,
-                        AlignmentEdge('', 1),
+                        (
+                            distance[i, j - 1] + ('' not in ref_edges),
+                            (
+                                AlignmentAction.DELETION,
+                                ref_edges,
+                                AlignmentEdge('', 1),
+                            ),
+                        ),
+                        (
+                            distance[i - 1, j] + 1,
+                            (
+                                AlignmentAction.INSERTION,
+                                {'': AlignmentEdge('', sources_count)},
+                                hyp_edge,
+                            ),
+                        ),
                     )
-                ))
-                options.append((
-                    distance[i - 1, j] + 1,
-                    (
-                        AlignmentAction.INSERTION,
-                        {'': AlignmentEdge('', sources_count)},
-                        hyp_edge,
-                    )
-                ))
-
+                )
                 distance[i, j], memoization[i][j] = min(options, key=lambda t: t[0])
 
         alignment = []
@@ -178,12 +181,11 @@ class ROVER(BaseTextsAggregator):
                 # if word is already in set increment sources count for future score calculation
                 joined_edges[hyp_edge_word].sources_count += 1
             alignment.append(joined_edges)
-            if action == AlignmentAction.CORRECT or action == AlignmentAction.SUBSTITUTION:
+            if action in [AlignmentAction.CORRECT, AlignmentAction.SUBSTITUTION]:
                 i -= 1
                 j -= 1
             elif action == AlignmentAction.INSERTION:
                 i -= 1
-            # action == AlignmentAction.DELETION
             else:
                 j -= 1
 

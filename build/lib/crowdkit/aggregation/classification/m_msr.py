@@ -153,11 +153,7 @@ class MMSR(BaseClassificationAggregator):
     @staticmethod
     def _remove_largest_and_smallest_F_value(x, F, a, n_tasks) -> np.ndarray:
         y = np.sort(x, axis=0)
-        if np.sum(y < a) < F:
-            y = y[y[:, 0] >= a]
-        else:
-            y = y[F:]
-
+        y = y[y[:, 0] >= a] if np.sum(y < a) < F else y[F:]
         m = y.shape[0]
         if np.sum(y > a) < F:
             y = y[y[:, 0] <= a]

@@ -6,69 +6,69 @@ import os
 import wget 
     
 def nih(dir: str, max_sample: int):
-    
+
     """ reading the csv tables """    
-    all_data       = pd.read_csv(dir + '/files/Data_Entry_2017_v2020.csv')
-    test_list      = pd.read_csv(dir + '/files/test_list.txt', names=['Image Index'])
-      
-    
-    
-    """ Writing the relative path """     
+    all_data = pd.read_csv(f'{dir}/files/Data_Entry_2017_v2020.csv')
+    test_list = pd.read_csv(f'{dir}/files/test_list.txt', names=['Image Index'])
+          
+        
+
+    """ Writing the relative path """
     all_data['Path']      = 'data/' + all_data['Image Index']
-    all_data['full_path'] = dir +'/data/' + all_data['Image Index']
-    
-    
-    
-    """ Finding the list of all studied pathologies """    
+    all_data['full_path'] = f'{dir}/data/' + all_data['Image Index']
+        
+        
+
+    """ Finding the list of all studied pathologies """
     all_data['Finding Labels'] = all_data['Finding Labels'].map(lambda x: x.split('|'))
     # pathologies = set(list(chain(*all_data['Finding Labels'])))
-   
 
-    
-    """ overwriting the order of pathologeis """    
+
+
+    """ overwriting the order of pathologeis """
     pathologies = ['No Finding', 'Pneumonia', 'Mass', 'Pneumothorax', 'Pleural_Thickening', 'Edema', 'Cardiomegaly', 'Emphysema', 'Effusion', 'Consolidation', 'Nodule', 'Infiltration', 'Atelectasis', 'Fibrosis']
 
 
 
-    """ Creating the pathology based columns """    
+    """ Creating the pathology based columns """
     for name in pathologies:
         all_data[name] = all_data['Finding Labels'].map(lambda x: 1 if name in x else 0)
 
-        
 
-    """ Creating the disease vectors """        
+
+    """ Creating the disease vectors """
     all_data['disease_vector'] = all_data[pathologies].values.tolist()
     all_data['disease_vector'] = all_data['disease_vector'].map(lambda x: np.array(x))  
-   
-    
-   
-    """ Selecting a few cases """    
+
+
+
+    """ Selecting a few cases """
     all_data = all_data.iloc[:max_sample,:]
-    
-    
-    
-    """ Removing unnecessary columns """    
+
+
+
+    """ Removing unnecessary columns """
     # all_data = all_data.drop(columns=['OriginalImage[Width', 'Height]', 'OriginalImagePixelSpacing[x',	'y]', 'Follow-up #'])
 
 
-    
-    """ Delecting the pathologies with at least a minimum number of samples """    
+
+    """ Delecting the pathologies with at least a minimum number of samples """
     # MIN_CASES = 1000
     # pathologies = [name for name in pathologies if all_data[name].sum()>MIN_CASES]
     # print('Number of samples per class ({})'.format(len(pathologies)), 
     #     [(name,int(all_data[name].sum())) for name in pathologies])
-       
-        
-    
+
+
+
     """ Resampling the dataset to make class occurrences more reasonable """
     # CASE_NUMBERS = 800
     # sample_weights = all_data['Finding Labels'].map(lambda x: len(x) if len(x)>0 else 0).values + 4e-2
     # sample_weights /= sample_weights.sum()
     # all_data = all_data.sample(CASE_NUMBERS, weights=sample_weights)
 
-    
-    
-    """ Separating train validation test """    
+
+
+    """ Separating train validation test """
     test      = all_data[all_data['Image Index'].isin(test_list['Image Index'])]
     train_val = all_data.drop(test.index)
 
@@ -79,75 +79,75 @@ def nih(dir: str, max_sample: int):
     print('train size:',train.shape)
     print('valid size:',valid.shape)
     print('test size:' ,test.shape) 
-    
-    
-    
+
+
+
     """ Class weights """
     L = len(pathologies)
     class_weights = np.ones(L)/L
-    
-    
-    
+
+
+
     return train, valid, test, pathologies, class_weights
 
 
 def chexpert(dir: str, max_sample: int):
-    
+
     """ Selecting the pathologies """    
     pathologies = ["No Finding", "Enlarged Cardiomediastinum" , "Cardiomegaly" , "Lung Opacity" , "Lung Lesion", "Edema" , "Consolidation" , "Pneumonia" , "Atelectasis" , "Pneumothorax" , "Pleural Effusion" , "Pleural Other" , "Fracture" , "Support Devices"]
-    
-    
+
+
     """ Loading the raw table """
     # train = pd.read_csv(dir + '/train_aim1_2.csv')
-    train = pd.read_csv(dir + '/train.csv')
-    test  = pd.read_csv(dir + '/valid.csv')
+    train = pd.read_csv(f'{dir}/train.csv')
+    test = pd.read_csv(f'{dir}/valid.csv')
 
     print('before sample-pruning')
     print('train:',train.shape)
     print('test:',test.shape)
-    
+
     """ Label Structure
         positive (exist):            1.0
         negative (doesn't exist):   -1.0
         Ucertain                     0.0
         no mention                   nan """
-    
-    """ Adding full directory """    
-    train['full_path'] = dir +'/' + train['Path']
-    test['full_path'] = dir +'/' + test['Path']
-    
-    
-    
-    """ Extracting the pathologies of interest """    
+
+    """ Adding full directory """
+    train['full_path'] = f'{dir}/' + train['Path']
+    test['full_path'] = f'{dir}/' + test['Path']
+        
+        
+
+    """ Extracting the pathologies of interest """
     train = cleaning_up_dataframe(train, pathologies, 'train')
     test  = cleaning_up_dataframe(test, pathologies , 'test')
 
 
-    """ Selecting a few cases """    
+    """ Selecting a few cases """
     train = train.iloc[:max_sample,:]
     test  = test.iloc[:max_sample ,:]
 
 
-    """ Separating the uncertain samples """    
+    """ Separating the uncertain samples """
     train_uncertain = train.copy()
     for name in pathologies:
         train = train.loc[train[name]!='uncertain']
-        
+
     train_uncertain = train_uncertain.drop(train.index)
 
 
-    """ Splitting train/validatiion """    
+    """ Splitting train/validatiion """
     valid = train.sample(frac=0.2,random_state=1)
     train = train.drop(valid.index)
-    
-    
+
+
     print('\nafter sample-pruning')
     print('train (certain):',train.shape)
     print('train (uncertain):',train_uncertain.shape)
     print('valid:',valid.shape)
     print('test:',test.shape,'\n')
-    
-    
+
+
     # TODO make no finding 0 for all samples where we at least have one case
     """ Changing classes from string to integer 
         Tagging the missing labels; this number "-0.5" will later be masked during measuring the loss """   
@@ -156,8 +156,8 @@ def chexpert(dir: str, max_sample: int):
     train = train.replace('pos',1).replace('neg',0).replace(np.nan,-5.0)
     valid = valid.replace('pos',1).replace('neg',0).replace(np.nan,-5.0)
     test  = test.replace('pos',1).replace('neg',0)
-    
-    
+
+
     """ Changing the nan values for parents with at lease 1 TRUE child to TRUE """
     train_uncertain = replacing_parent_nan_values_with_one_if_child_exist(train_uncertain)
     train = replacing_parent_nan_values_with_one_if_child_exist(train)
@@ -165,10 +165,10 @@ def chexpert(dir: str, max_sample: int):
 
 
 
-    """ Class weights """    
+    """ Class weights """
     L = len(pathologies)
     class_weights = np.ones(L)/L
-    
+
     return (train, train_uncertain), valid, test, pathologies, class_weights
 
 
@@ -248,6 +248,7 @@ def load_chest_xray(dir='', dataset='chexpert', batch_size=30, mode='train_val',
     # output_types  = (tf.float32,tf.float32)
     # target_size   =  (224,224)
 
+
     class Info_Class:
         def __init__(self, pathologies: list=[], class_weights: list=[], target_size: tuple=(224,224), steps_per_epoch: int=0, validation_steps: int=0):
             self.pathologies      = pathologies
@@ -311,33 +312,32 @@ def load_chest_xray(dir='', dataset='chexpert', batch_size=30, mode='train_val',
         """
 
         # the true color_mode is grayscale. but because densenet input is rgb, is set to rgb
-        color_mode = 'rgb' 
+        color_mode = 'rgb'
         y_col      = pathologies
         class_mode = 'raw'
-        
-        # Creating the generator
-        if not augmentaion:
-            generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1./255)
 
-        else:
-            generator = tf.keras.preprocessing.image.ImageDataGenerator(
-                fill_mode           = 'nearest',
-                rescale             = 1./255, 
-                rotation_range      = 15, 
-                height_shift_range  = 0.1,
-                width_shift_range   = 0.1,
+        # Creating the generator
+        generator = (
+            tf.keras.preprocessing.image.ImageDataGenerator(
+                fill_mode='nearest',
+                rescale=1.0 / 255,
+                rotation_range=15,
+                height_shift_range=0.1,
+                width_shift_range=0.1,
                 # zoom_range          = 0.1,
                 # shear_range         = 10,
-                
-                horizontal_flip     = False, 
-                vertical_flip       = False,
-                featurewise_center  = False, 
-                samplewise_center   = False,
-                featurewise_std_normalization = False, 
-                samplewise_std_normalization  = False,
-                )
-
-
+                horizontal_flip=False,
+                vertical_flip=False,
+                featurewise_center=False,
+                samplewise_center=False,
+                featurewise_std_normalization=False,
+                samplewise_std_normalization=False,
+            )
+            if augmentaion
+            else tf.keras.preprocessing.image.ImageDataGenerator(
+                rescale=1.0 / 255
+            )
+        )
         # Loading the data from physical storage
         data_generator = generator.flow_from_dataframe(
             dataframe   = dataframe, 
@@ -357,23 +357,24 @@ def load_chest_xray(dir='', dataset='chexpert', batch_size=30, mode='train_val',
         return data_generator, steps_per_epoch
 
 
+
     # Loading the pre-processed dataframe
     if dataset == 'nih':
         df_train, df_valid, df_test, pathologies, class_weights = nih(dir,max_sample)
 
     elif dataset == 'chexpert':        
         (df_train, df_train_uncertain), df_valid, df_test, pathologies, class_weights = chexpert(dir,max_sample)
-        
-    
+
+
     # Keras Generator
-    output_shapes = ([None,224,224,3],[None,len(pathologies)]) 
+    output_shapes = ([None,224,224,3],[None,len(pathologies)])
     output_types  = (tf.float32,tf.float32)
     target_size   =  (224,224)
 
 
 
     if mode in ('train_val', 'valid', 'valid_df'):
-        
+
         if mode in ('train_val'):
             # creating the data generator for train data
             generator_train, steps_per_epoch = create_generator(dataframe=df_train, augmentaion=False, target_size=target_size)
@@ -408,7 +409,7 @@ def load_chest_xray(dir='', dataset='chexpert', batch_size=30, mode='train_val',
 
 
     elif mode == 'test':
-        
+
         # creating the data generator for uncertain data with & without augmentation
         generator_test, validation_steps = create_generator(dataframe=df_test, augmentaion=False, target_size=target_size)
         generator_test_aug, _ = create_generator(dataframe=df_test, augmentaion=True , target_size=target_size)
@@ -451,10 +452,10 @@ def load_chest_xray(dir='', dataset='chexpert', batch_size=30, mode='train_val',
 def load_chest_xray_with_mode(dataset: str='chexpert', mode: str='train_val', max_sample: int=1000000):
     """ this function is to just functionalize this specific usage in multiple notebooks and scripts """
 
-    dir = '/groups/jjrodrig/projects/chest/dataset/' + dataset + '/'
+    dir = f'/groups/jjrodrig/projects/chest/dataset/{dataset}/'
 
     # loading the data
-    if mode in ('train_val',  'valid'):
+    if mode in {'train_val', 'valid'}:
         Data, Info = load_chest_xray(dir=dir, dataset=dataset, batch_size=100, mode=mode, max_sample=max_sample)    
         data_generator     = Data.generator['valid']
         data_generator_aug = Data.generator['valid_aug']
@@ -475,11 +476,11 @@ def load_chest_xray_with_mode(dataset: str='chexpert', mode: str='train_val', ma
 def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', dir_all_datasets='datasets/'):
 
     dir_all_datasets = os.path.abspath(dir_all_datasets)
-    
+
     if not os.path.isdir(dir_all_datasets):
         raise ValueError('The directory does not exist')
 
-        
+
     def read_raw_names_files(WHICH_DATASET='ionosphere'):
 
         main_url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/'
@@ -487,33 +488,33 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
 
         if WHICH_DATASET in (1,'kr-vs-kp'):
             dataset = 'kr-vs-kp'
-            names   = [f'a{i}' for i in range(0,36)] + ['true']
+            names = [f'a{i}' for i in range(36)] + ['true']
             files   = ['Index', f'{dataset}.data', f'{dataset}.names']
-            url     = main_url + '/chess/king-rook-vs-king-pawn/'
+            url = f'{main_url}/chess/king-rook-vs-king-pawn/'
 
         elif WHICH_DATASET in (2,'mushroom'):
             dataset = 'agaricus-lepiota'
-            names   = ['true'] + [f'a{i}' for i in range(0,22)]
+            names = ['true'] + [f'a{i}' for i in range(22)]
             files   = ['Index', f'{dataset}.data', f'{dataset}.names']
-            url     = main_url + '/mushroom/'
+            url = f'{main_url}/mushroom/'
 
         elif WHICH_DATASET in (3,'sick'):
             dataset = 'sick'
-            names   = [f'a{i}' for i in range(0,29)] + ['true']
+            names = [f'a{i}' for i in range(29)] + ['true']
             files   = [f'{dataset}.data', f'{dataset}.names', f'{dataset}.test']
-            url     = main_url + '/thyroid-disease/'
+            url = f'{main_url}/thyroid-disease/'
 
         elif WHICH_DATASET in (4,'spambase'):
             dataset = 'spambase'
-            names   = [f'a{i}' for i in range(0,57)] + ['true']
+            names = [f'a{i}' for i in range(57)] + ['true']
             files   = [f'{dataset}.DOCUMENTATION', f'{dataset}.data', f'{dataset}.names', f'{dataset}.zip']
-            url     = main_url + '/spambase/'
-            
+            url = f'{main_url}/spambase/'
+
         elif WHICH_DATASET in (5,'tic-tac-toe'):
             dataset = 'tic-tac-toe'
-            names   = [f'a{i}' for i in range(0,9)] + ['true']
+            names = [f'a{i}' for i in range(9)] + ['true']
             files   = [f'{dataset}.data', f'{dataset}.names']
-            url     = main_url + '/tic-tac-toe/'
+            url = f'{main_url}/tic-tac-toe/'
 
         elif WHICH_DATASET in (6, 'splice'):
             # dataset = 'splice'
@@ -522,30 +523,30 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
 
         elif WHICH_DATASET in (7,'thyroid'):
             pass
-        
+
         elif WHICH_DATASET in (8,'waveform'):
             dataset = 'waveform'
-            names   = [f'a{i}' for i in range(0,21)] + ['true']
+            names = [f'a{i}' for i in range(21)] + ['true']
             files   = [ 'Index', f'{dataset}-+noise.c', f'{dataset}-+noise.data.Z', f'{dataset}-+noise.names', f'{dataset}.c', f'{dataset}.data.Z', f'{dataset}.names']
-            url     = main_url + '/mwaveform/'
+            url = f'{main_url}/mwaveform/'
 
         elif WHICH_DATASET in (9,'biodeg'):
             dataset = 'biodeg'
-            names   = [f'a{i}' for i in range(0,41)] + ['true']
+            names = [f'a{i}' for i in range(41)] + ['true']
             files   = [f'{dataset}.csv']
-            url     = main_url + '/00254/'
+            url = f'{main_url}/00254/'
 
         elif WHICH_DATASET in (10,'horse-colic'):
             dataset = 'horse-colic'
-            names   = [f'a{i}' for i in range(0,41)] + ['true']
+            names = [f'a{i}' for i in range(41)] + ['true']
             files   = [f'{dataset}.data', f'{dataset}.names', f'{dataset}.names.original', f'{dataset}.test']
-            url     = main_url + '/horse-colic/'
-            
+            url = f'{main_url}/horse-colic/'
+
         elif WHICH_DATASET in (11,'ionosphere'):
             dataset = 'ionosphere'
-            names   = [f'a{i}' for i in range(0,34)] + ['true']
+            names = [f'a{i}' for i in range(34)] + ['true']
             files   = [ 'Index', f'{dataset}.data', f'{dataset}.names']
-            url     = main_url + '/ionosphere/'
+            url = f'{main_url}/ionosphere/'
 
         elif WHICH_DATASET in (12,'vote'):
             pass  
@@ -560,7 +561,7 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
 
         if not os.path.isdir(local_path):  
             os.mkdir(local_path) 
-        
+
         for name in files: 
             wget.download(url + name, local_path)
 
@@ -574,7 +575,7 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
         def postprocess(data_raw=[], names=[], WHICH_DATASET=0):
 
             def replacing_classes_char_to_int(data_raw=[], feature_columns=[]):
-                
+
                 # finding the unique classes
                 lbls = set()
                 for fx in feature_columns:
@@ -585,7 +586,7 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
                     data_raw[feature_columns] = data_raw[feature_columns].replace(lb,ix+1)
 
                 return data_raw
-                
+
             feature_columns = names.copy()
             feature_columns.remove('true')
 
@@ -598,7 +599,7 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
                 data_raw = replacing_classes_char_to_int(data_raw, feature_columns)
 
             elif WHICH_DATASET in (2,'mushroom'):
-                
+
                 # changing the true labels from string to [0,1]
                 data_raw.true = data_raw.true.replace('e',1).replace('p',0)
 
@@ -651,10 +652,10 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
             data = {}
             data['train'] = data_raw.sample(frac=train_frac).sort_index()
             data['test']  = data_raw.drop(data['train'].index)
-            
+
             return data
 
-            
+
         dataset, names, _, _ = read_raw_names_files(WHICH_DATASET=WHICH_DATASET)
 
 
@@ -666,7 +667,7 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
 
         else:                   
             command = {'filepath_or_buffer': dir_all_datasets + f'/UCI_{dataset}/{dataset}.data'}
-                            
+
         if mode == 'read':
             data_raw = pd.read_csv(**command, names=names)
             data_raw, feature_columns = postprocess(data_raw=data_raw, names=names, WHICH_DATASET=WHICH_DATASET)
@@ -681,7 +682,7 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
 
     if   'download' in mode: 
         return download_data(dir_all_datasets=dir_all_datasets)
-        
+
     elif 'read'     in mode: 
         return read_data(    dir_all_datasets=dir_all_datasets, WHICH_DATASET=WHICH_DATASET)
 
@@ -691,6 +692,6 @@ def aim1_3_read_download_UCI_database(WHICH_DATASET='ionosphere', mode='read', d
 if __name__ == '__main__':
 
     dataset = 'chexpert'
-    dir = '/groups/jjrodrig/projects/chest/dataset/' + dataset + '/'
+    dir = f'/groups/jjrodrig/projects/chest/dataset/{dataset}/'
     chexpert(dir=dir, max_sample=1000)
     

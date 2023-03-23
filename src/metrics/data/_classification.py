@@ -65,10 +65,7 @@ def consistency(answers: pd.DataFrame,
     labels_proba['denominator'] = labels_proba[list(labels)].sum(axis=1)
     consistecies = labels_proba.apply(_task_consistency, axis=1)
 
-    if by_task:
-        return consistecies
-    else:
-        return consistecies.mean()
+    return consistecies if by_task else consistecies.mean()
 
 
 def _task_uncertainty(row: pd.Series, labels: List[Hashable]) -> float:
@@ -108,10 +105,7 @@ def uncertainty(answers: pd.DataFrame,
     labels_proba['denominator'] = labels_proba[list(labels)].sum(axis=1)
     uncertainties = labels_proba.apply(lambda row: _task_uncertainty(row, list(labels)), axis=1)
 
-    if by_task:
-        return uncertainties
-    else:
-        return uncertainties.mean()
+    return uncertainties if by_task else uncertainties.mean()
 
 
 def alpha_krippendorff(answers: pd.DataFrame,
